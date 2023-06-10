@@ -2,4 +2,4 @@
 
 An effort to transcribe every interview with Dr. Raymond Peat.
 
-Transcripts were generated using `whisper.cpp`.
+Initial transcripts were generated using `whisper.cpp`.
