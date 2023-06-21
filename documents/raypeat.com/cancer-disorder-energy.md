@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E**  
-
-|
+**Cancer: Disorder and Energy**  
 
 For every thing that lives is holy, life delights in life.... W. Blake
 
@@ -1776,16 +1770,3 @@ attenuates hypoxia inducible factor-1Î± and cyclooxygenase-2 in cerebral
 arteries
 
 during hypoxia or hypoxia with glucose deprivation. Zuloaga KL, Gonzales RJ.
-
-|  |
-
-|  | Ray Peat  
----|---  
-  
-  
-© Ray Peat Ph.D. 2014. All Rights Reserved. www.RayPeat.com  
-  
-  
-^^^ Top ^^^  
-  
-

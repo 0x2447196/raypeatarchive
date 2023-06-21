@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Preventing and treating cancer with progesterone.**  
+**Preventing and treating cancer with progesterone.**  
   
 _"The energy of the mind is the essence of life." Aristotle_
 
@@ -1070,6 +1064,3 @@ development in rat and human embryos.** Zagon IS, Wu Y, McLaughlin PJ.
 J Biol Chem. 2005 Apr 29;280(17):17480-7. Epub 2005 Feb 22. **A novel
 antiestrogenic mechanism in progesterone receptor-transfected breast cancer
 cells.** Zheng ZY, Bay BH, Aw SE, Lin VC.  
-
-© Ray Peat Ph.D. 2007. All Rights Reserved. www.RayPeat.com  
-

@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-The problem of Alzheimer's disease as a clue to immortality - Part 2**  
+**The problem of Alzheimer's disease as a clue to immortality - Part 2**  
 
 **V. HORMONE IMBALANCE, LEADING TO FAILURE OF PROTECTIVE INHIBITION AND
 ALZHEIMER'S DISEASE**  
@@ -1248,10 +1242,4 @@ J. A. Jarvis, et al., "H-1 NMR analysis of fibril-forming peptide fragments of
 transthyretin," Int. J. Pept. Protein Res. 44(4), 388-398, 1994. "...fragments
 of the protein transthyretin, previously shown to form cross beta-sheet
 amyloid-like fibrils in vitro, were investigated...."
-
-© Ray Peat 2006. All Rights Reserved. www.RayPeat.com
-
-  
-^^^ Top ^^^  
-  
 

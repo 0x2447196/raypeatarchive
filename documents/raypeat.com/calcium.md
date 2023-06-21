@@ -1,13 +1,7 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Calcium and Disease: Hypertension, organ calcification, & shock, vs.
+**Calcium and Disease: Hypertension, organ calcification, & shock, vs.
 respiratory energy**  
 
-_SOME CONTEXTS  
+_SOME CONTEXTS_
 In biology and biochemistry, calcium is the substance most often studied, so
 it is significant that researchers still speak of a calcium paradox.  
 There are several such paradoxes: As bones lose calcium, the soft tissues
@@ -25,7 +19,7 @@ Vitamins K, E, and A are important in regulating calcium metabolism, and
 preventing osteoporosis. Aspirin (with antiestrogenic and vitamin E-like
 actions) is protective against bone resorption and hypercalcemia.  
   
-_ ============================  
+
 It is extremely important to realize that calcium deposits in soft tissues
 become worse when the diet is _low in calcium._ Persons suffering from
 arthritis, bursitis, scleroderma, hardening of the arteries and any
@@ -38,8 +32,6 @@ undersupplied. After open-heart surgery, when both magnesium and vitamin E are
 drastically needed and could easily be given, the calcification of heart
 muscles often becomes so severe that it can cause death within a few days.
 Pages 171-172, _Lets Eat Right to Keep Fit,_ Adelle Davis, Signet, 1970.  
-  
-============================  
   
 Almost all biologists think of the organism as a machine, regulated by
 information according to innate programs. When it comes down to the details,
@@ -946,11 +938,6 @@ stimulate bone resorption. A more potent factor than magnesium is stroncium,
 which not only activates osteoblats but decreases the number of osteoclasts,
 thus abolishing bone resorption and enhancing formation. **Bicarbonates are
 also favourable for bone. NaHCO3 together with potassium citrate stimulates
-osteoblasts and enhances bone mineralisation.**  
-  
-© Ray Peat Ph.D. 2009. All Rights Reserved. www.RayPeat.com  
-  
-  
-^^^ Top ^^^  
+osteoblasts and enhances bone mineralisation.**
   
 

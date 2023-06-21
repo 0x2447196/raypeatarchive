@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Caffeine: A vitamin-like nutrient, or adaptogen**
+**Caffeine: A vitamin-like nutrient, or adaptogen**
 
 **Questions about tea and coffee, cancer and other degenerative diseases, and
 the hormones.**
@@ -614,11 +608,4 @@ alcohol consumption, and may possibly protect against liver cell damage due to
 alcohol.
 
 Am J Hosp Pharm 1989 Oct;46(10):2059-67. **Abuse of drugs used to enhance
-athletic performance.** Wagner JC.  
-
-© Ray Peat 2006. All Rights Reserved. www.RayPeat.com
-
-  
-^^^ Top ^^^  
-  
-
+athletic performance.** Wagner JC.

@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Aspirin, brain, and cancer**  
+**Aspirin, brain, and cancer**  
 
 When a drug such as caffeine or aspirin turns out to have a great variety of
 protective effects, it's important to understand what it's doing.
@@ -631,11 +625,4 @@ NADH-dependent respiration by brain submitochondrial particles."_**
 **_"The pharmacological action of salicylate cannot be explained by its
 inhibition of cyclooxygenase (COX) activity." ". . . salicylate exerts its
 antiinflammatory action in part by suppressing COX-2 induction. . . ." XM Xu,
-et al., 1999_**  
-
-© Ray Peat 2006. All Rights Reserved. www.RayPeat.com
-
-  
-^^^ Top ^^^  
-  
-
+et al., 1999_**

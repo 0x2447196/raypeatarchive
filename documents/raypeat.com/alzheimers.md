@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-The problem of Alzheimer's disease as a clue to immortality - Part 1**  
+**The problem of Alzheimer's disease as a clue to immortality - Part 1**  
 
 I. INTRODUCTION  
 
@@ -719,13 +713,3 @@ revisited in light of the recent knowledge regarding oxygen free radicals,"
 Exp. Gerontology 30(3-4), 327-335, 1995. "In this assumption, the continuous
 radical flux is as important for the maintenance of the living state, as the
 voltage power supply is essential for the functioning of the computer."
-
-[**Article continued in Part 2 - click
-here**](http://raypeat.com/articles/articles/alzheimers2.shtml)
-
-© Ray Peat 2006. All Rights Reserved. www.RayPeat.com
-
-  
-^^^ Top ^^^  
-  
-

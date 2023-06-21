@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Academic authoritarians, language, metaphor, animals, and science**  
+**Academic authoritarians, language, metaphor, animals, and science**  
 
 # **Academic authoritarians, language, metaphor, animals, & science**
 
@@ -639,10 +633,3 @@ conjunction with nonsocial learning. We conclude by sketching the kind of
 decision tree that appears to underlie the deployment of these alternatives.  
 
 [**_http://www.ucc.vt.edu/stdysk/vocabula.html_**](http://www.ucc.vt.edu/stdysk/vocabula.html)
-
-© Ray Peat Ph.D. 2009. All Rights Reserved. www.RayPeat.com  
-  
-  
-^^^ Top ^^^  
-  
-

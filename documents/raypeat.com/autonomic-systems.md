@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Autonomic systems**  
+**Autonomic systems**  
 
 _Historically, functions such as reason, emotion, and instinct were associated
 with particular nervous structures, and there was a reluctance to think that

@@ -1,4 +1,5 @@
-A R T I C L E Breast Cancer It’s important to know the realities of cancer in
+**Breast Cancer**
+It’s important to know the realities of cancer in
 the population, the death rate from cancer, and the effects of its aggressive
 diagnosis and treatment. Appreciating those, I think the need for a new
 attitude toward cancer can be seen. Official US data for the years 1990 to
@@ -279,7 +280,9 @@ children in the U.S. suggest that the incidence of degenerative diseases of
 all sorts is likely to increase as these children grow up. A metabolic
 approach to the prevention and treatment of cancer would have many beneficial
 side effects, such as producing generally healthier, happier and brighter
-babies. REFERENCES Radiat Res 1998 Sep;150(3):330-48 Mortality in beagles
+babies.
+
+REFERENCES Radiat Res 1998 Sep;150(3):330-48 Mortality in beagles
 irradiated during prenatal and postnatal development. II. Contribution of
 benign and malignant neoplasia. Benjamin SA, Lee AC, Angleton GM, Saunders WJ,
 Keefe TJ, Mallinckrodt CH. To evaluate the lifetime carcinogenic hazards of
@@ -544,5 +547,5 @@ ages younger than 12 years (P<0.001).” “Since increases in body fatness and
 related early onset of menarche are risk factors for disorders in adult life
 including cardiovascular disease and breast cancer, the secular trend in the
 increasing incidence of obesity throughout the United States is becoming a
-major public health problem.” ^^^ Top ^^^
+major public health problem.”
 

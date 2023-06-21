@@ -1,5 +1,5 @@
-A R T I C L E Bone Density: First Do No Harm No topic can be understood in
-isolation. People frequently ask me what they should do about their diagnosed
+**Bone Density: First Do No Harm**
+No topic can be understood in isolation. People frequently ask me what they should do about their diagnosed
 osteoporosis/osteopenia, and when they mention “computer controlled” and “dual
 photon x-ray” bone density tests, my attention tends to jump past their bones,
 their diet, and their hormones, to the way they must perceive themselves and
@@ -186,7 +186,9 @@ protein diet also improves the absorption of calcium by the intestine. Another
 overlooked function of dietary protein is that it stimulates insulin
 secretion, and insulin is anabolic for bone.[28] The same diet that protects
 against osteoporosis, i.e., plenty of protein and calcium, etc., also protects
-against kidney stones and other abnormal calcificatons. REFERENCES 1\. Proc
+against kidney stones and other abnormal calcificatons. 
+
+REFERENCES 1\. Proc
 Assoc Am Physicians 1996 Mar;108(2):155-64 Potential mechanism of estrogen-
 mediated decrease in bone formation: estrogen increases production of
 inhibitory insulin-like growth factor-binding protein-4. Kassem M, Okazaki R,
@@ -447,5 +449,4 @@ whilst the inhibition of carbonic anhydrase activity has no effect on distal
 tubular function. Until now no histological or enzymatic defect could be
 detected to explain the ineffective acidification. Bicarbonate loading is
 followed by a lowering of calcium excretion to within the normal range and a
-decrease in the uncharacteristic renal hyperaminoaciduria. ^^^ Top ^^^
-
+decrease in the uncharacteristic renal hyperaminoaciduria.

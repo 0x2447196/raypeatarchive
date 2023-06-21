@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Altitude and Mortality**  
+**Altitude and Mortality**  
 
 _Breathing pure oxygen lowers the oxygen content of tissues; breathing
 rarefied air, or air with carbon dioxide, oxygenates and energizes the

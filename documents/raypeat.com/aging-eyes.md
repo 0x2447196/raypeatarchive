@@ -1,11 +1,5 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Aging Eyes, Infant Eyes, and Excitable Tissues**  
-_
+**Aging Eyes, Infant Eyes, and Excitable Tissues**  
+
 
 The eyes and the lungs are sensitive tissues that are easily harmed by
 inappropriate environmental exposure. They are especially sensitive in infancy

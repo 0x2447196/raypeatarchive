@@ -1,7 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
+
 **Aging, estrogen, and progesterone**  
 
 _Estrogen refers not just to a family of steroids but to a class of

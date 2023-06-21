@@ -1,10 +1,4 @@
-![](http://raypeat.com/images/rp3.gif)  
----  
-  
-  
-**A R T I C L E  
-  
-Bleeding, clotting, cancer**  
+**Bleeding, clotting, cancer**  
 
 _The balance between bleeding and clotting is easily disturbed. The
 condensation and dissolution of the clotting protein, fibrinogen/fibrin, is a
@@ -691,5 +685,4 @@ Anticancer Res. 2003 May-Jun;23(3C):2789-93. **Low-molecular-weight heparin in
 oncology.** Zacharski LR, Loynes JT.
 
 Cancer Lett. 2002 Dec 1;186(1):1-9. **Anticoagulants in cancer treatment:
-malignancy as a solid phase coagulopathy.** Zacharski LR.  
-
+malignancy as a solid phase coagulopathy.** Zacharski LR.
