@@ -1,6 +1,6 @@
 WEBVTT
 
-0:00 --> 0:00:03.320
+0:00:00.000 --> 0:00:03.320
  Well, today's going to be a real fascinating discussion.
 
 0:00:03.320 --> 0:00:10.080
@@ -54,19 +54,19 @@ WEBVTT
 0:01:13.440 --> 0:01:17.840
  you know, in just a short time, but Peter Dobromilsky, I met you through your blog,
 
-0:01:17.840 --> 0:01
+0:01:17.840 --> 0:01:24.000
  Hyperlipid, where you've been doing great work in really getting into the weeds of explaining
 
-0:01 --> 0:01
+0:01:24.000 --> 0:01:26.000
  the mechanisms. And I had a hard time following, but I had to keep of explaining the mechanisms and I had a
 
-0:01 --> 0:01:29.640
+0:01:26.000 --> 0:01:29.640
  hard time following but I had to keep it was really I had to pause it and replay
 
-0:01:29.640 --> 0:01:34.340
+0:01:29.640 --> 0:01:34.320
  but it was very fascinating stuff with your explanation for what what's going
 
-0:01:34.340 --> 0:01:41.960
+0:01:34.320 --> 0:01:41.960
  on with the linoleic acid in the cells and Dr. Kate Shanahan of course you've
 
 0:01:41.960 --> 0:01:45.220
@@ -75,11 +75,14 @@ WEBVTT
 0:01:45.220 --> 0:01:50.460
  the world stage, sounding the alarm of this problem for a long time.
 
-0:01:50.460 --> 0:01:55.180
+0:01:50.460 --> 0:01:55.220
  Saw you on Bill Maher's show and many, many other programs.
 
-0:01:55.180 --> 0:01:59.660
- Fox, what was it, Jesse Waters you were just on I saw, and that's amazing stuff.
+0:01:55.220 --> 0:01:58.500
+ Fox, what was it, Jesse Waters you were just on, I saw.
+
+0:01:58.500 --> 0:01:59.660
+ And that's amazing stuff.
 
 0:01:59.660 --> 0:02:07.160
  So a true pioneer on this topic of seed oils and also author of Fat Burn Fix and Deep Nutrition.
@@ -117,7 +120,7 @@ WEBVTT
 0:02:51.360 --> 0:02:57.440
  interesting results and other types of, you know, experimentations. He's got a background in
 
-0:02:57.440 --> 0:03
+0:02:57.440 --> 0:03:05.000
  genetics and biology. And we have Dr. Ray Peet, who's joining me from by phone today.
 
 0:03:06.200 --> 0:03:10.480
@@ -135,29 +138,26 @@ WEBVTT
 0:03:16.960 --> 0:03:18.900
  Kate Shanahan is an MD.
 
-0:03:20.160 --> 0:03:23.460
+0:03:20.160 --> 0:03:23.440
  Peter Dobromilsky, you are in veterinarian, right?
 
-0:03:23.460 --> 0:03:24.300
+0:03:23.440 --> 0:03:24.280
  Is that your?
 
-0:03:24.300 --> 0:03:26.800
- Yeah. And so everybody has different—and, you know,
+0:03:24.280 --> 0:03:26.800
+ Yeah. And so, everybody has different, and, you know,
 
 0:03:28.960 --> 0:03:33.760
- Dr. Pete, you have a unique angle that I think a lot of people have been fascinated by. So,
+ Dr. P, you have a unique angle that I think a lot of people have been fascinated by. So,
 
 0:03:33.760 --> 0:03:36.960
  I really want to welcome all of you to this discussion. Thank you.
 
-0:03:36.960 --> 0:03:39.680
- Dr. Peter Dobromilsky, MD It's an honor to be here.
+0:03:36.960 --> 0:03:40.960
+ It's an honor to be here. Yeah, thank you.
 
-0:03:39.680 --> 0:03:40.800
- Dr. Peter Dobromilsky, MD Yeah. Thank you.
-
-0:03:40.800 --> 0:03:47.240
- Dr. Paul P. Jones Very good. So, let's just start where I start off, which is to start with Peter, since you…that's
+0:03:40.960 --> 0:03:47.240
+ Very good. So, let's just start where I start off, which is to start with Peter, since youâ€¦that's
 
 0:03:47.240 --> 0:03:48.240
  the order of introduction.
@@ -168,10 +168,10 @@ WEBVTT
 0:03:52.400 --> 0:03:55.880
  the table for what precisely is the mechanism.
 
-0:03:55.880 --> 0:03:59.600
+0:03:55.880 --> 0:03:59.620
  If we're going to make this case to the world, we've got to figure out what precisely
 
-0:03:59.600 --> 0:04:05.360
+0:03:59.620 --> 0:04:05.360
  is the mechanism for causing obesity and maybe there's multiple layers to this question.
 
 0:04:05.360 --> 0:04:09.280
@@ -192,7 +192,7 @@ WEBVTT
 0:04:29.280 --> 0:04:38.560
  layer of signaling, there is the mitochondria signaling to the cell what to do with the
 
-0:04:38.560 --> 0:04
+0:04:38.560 --> 0:04:45.000
  available calories. And that signaling process goes right back to bacteria,
 
 0:04:47.520 --> 0:04:50.320
@@ -204,14 +204,14 @@ WEBVTT
 0:04:56.700 --> 0:05:01.700
  are inseparable from reactive oxygen species signaling.
 
-0:05:04.600 --> 0:05:07.600
+0:05:04.600 --> 0:05:08.160
  And the method for producing the ROS by bacteria,
 
-0:05:08.160 --> 0:05:13.840
- we really don't know about yet, but the mitochondrion is essentially bacterium.
+0:05:08.160 --> 0:05:14.880
+ we really don't know about yet, but the mitochondrion is essentially bacterium and
 
-0:05:14.480 --> 0:05
- And from my point of view, it has brought with it the signaling system that it had when it was a free bacterium, and it uses that to talk to the cell. So that's where
+0:05:14.880 --> 0:05:28.000
+ from my point of view, it has brought with it the signaling system that it had when it was a free bacterium, and it uses that to talk to the cell. So that's where
 
 0:05:29.840 --> 0:05:39.920
  I ended up with on a very theoretical basis. On a more practical basis,
@@ -264,7 +264,7 @@ WEBVTT
 0:07:47.480 --> 0:07:51.920
  So we've got saturated fats and mixed with monounsaturated fats as a normal milieu
 
-0:07:51.920 --> 0:07:53.680
+0:07:51.920 --> 0:07:53.700
  and C. doles mess that up.
 
 0:07:54.880 --> 0:07:57.680
@@ -276,10 +276,10 @@ WEBVTT
 0:07:59.080 --> 0:08:01.720
  So I'll let someone else have a go.
 
-0:08:01.720 --> 0:08
+0:08:01.720 --> 0:08:07.000
  Dr. Kate Sanihan, can you chime in with your, where you start with this question?
 
-0:08 --> 0:08:08.480
+0:08:07.000 --> 0:08:08.480
  Yeah, absolutely.
 
 0:08:08.480 --> 0:08:18.920
@@ -315,19 +315,19 @@ WEBVTT
 0:08:50.720 --> 0:08:57.540
  You know fueling on our body fat between meals and when you have too much PUFA in your body fat the polyunsaturated
 
-0:08:57.960 --> 0:08:59.880
+0:08:58.000 --> 0:08:59.880
  fatty acid from these seed oils
 
 0:08:59.880 --> 0:09:02.780
  It builds up in your body fat to a concentration that is
 
-0:09:02.920 --> 0:09
+0:09:02.920 --> 0:09:06.000
  exceeds like all of, all of human history
 
-0:09 --> 0:09
+0:09:06.000 --> 0:09:07.000
  by six times.
 
-0:09 --> 0:09:09.740
+0:09:07.000 --> 0:09:09.740
  It used to be around 5%, now it's 30%.
 
 0:09:09.740 --> 0:09:13.380
@@ -345,37 +345,37 @@ WEBVTT
 0:09:20.340 --> 0:09:23.500
  Because without energy, cells will die within six seconds.
 
-0:09:23.500 --> 0:09:27.240
+0:09:23.500 --> 0:09:26.920
  They only have about six seconds supply of ATP energy.
 
-0:09:27.240 --> 0:09:31.800
+0:09:26.920 --> 0:09:31.700
  And so what they do instead is they reach for another fuel.
 
-0:09:31.800 --> 0:09:33.120
+0:09:31.700 --> 0:09:33.020
  And what do they reach for?
 
-0:09:33.120 --> 0:09:36.700
+0:09:33.020 --> 0:09:36.580
  Sugar, because there's always some sugar in the bloodstream.
 
-0:09:36.700 --> 0:09:39.040
+0:09:36.580 --> 0:09:38.980
  And what does that do if you haven't just eaten?
 
-0:09:39.040 --> 0:09:41.480
+0:09:38.980 --> 0:09:41.840
  Well, it'll cause hypoglycemia, right?
 
-0:09:41.480 --> 0:09:44.220
+0:09:41.840 --> 0:09:44.080
  It'll make you feel hypoglycemic.
 
-0:09:44.220 --> 0:09:46.680
- And we have an epidemic of people experiencing hypoglycemia, right? It'll make you feel hypoglycemic. And we have an epidemic of people experiencing
+0:09:44.080 --> 0:09:46.680
+ And we have an epidemic of people experiencing hypoglycemia symptoms,? It'll make you feel hypoglycemic. And we have an epidemic of people experiencing
 
 0:09:46.680 --> 0:09:51.200
  hypoglycemia symptoms. I can tell you this because pretty much every single one of my
 
-0:09:51.200 --> 0:09:56.040
+0:09:51.200 --> 0:09:56.000
  patients who's overweight says, Oh yeah, my doctor, previous doctor, not me said I have
 
-0:09:56.040 --> 0:10:01.780
+0:09:56.000 --> 0:10:01.780
  hypoglycemia and I have to eat right when I start to feel dizzy, when I start to feel
 
 0:10:01.780 --> 0:10:06.320
@@ -384,10 +384,10 @@ WEBVTT
 0:10:06.320 --> 0:10:12.920
  This is a very serious endemic pandemic of hypoglycemia, and it's happening because our
 
-0:10:12.920 --> 0:10:19.200
+0:10:12.920 --> 0:10:19.160
  body fat makes us feel sick and tired when we try to burn it, and it makes your mitochondria,
 
-0:10:19.200 --> 0:10:25.840
+0:10:19.160 --> 0:10:25.840
  it kills your mitochondria. So I think that I've looked,
 
 0:10:25.840 --> 0:10:28.480
@@ -454,7 +454,7 @@ WEBVTT
  Right. There's some there's some element to
 
 0:11:33.900 --> 0:11:41.440
- Of truth to I think just about everything but I think the major mechanism is is is what I've said
+ Of truth, I think just about everything but I think the major mechanism is is is what I've said
 
 0:11:41.440 --> 0:11:46.220
  It is that that big picture and just to give you a little bit of background,
@@ -519,25 +519,25 @@ WEBVTT
 0:12:40.560 --> 0:12:43.600
  by Eva Sodergren and it was called,
 
-0:12:43.600 --> 0:12
+0:12:43.600 --> 0:12:45.000
  it was her PhD thesis
 
-0:12:45.140 --> 0:12:48.680
+0:12:45.160 --> 0:12:48.680
  and it was called Lipid Peroxidation in Vivo.
 
-0:12:48.680 --> 0:12:52.260
+0:12:48.680 --> 0:12:52.240
  And when I saw that and the molecules of linoleic acid
 
-0:12:52.260 --> 0:12:55.500
+0:12:52.240 --> 0:12:55.480
  and the reactions that happened in the body,
 
-0:12:55.500 --> 0:12:58.220
+0:12:55.480 --> 0:12:58.220
  I knew immediately because I have all this background
 
-0:12:58.220 --> 0:13:01.820
+0:12:58.220 --> 0:13:01.800
  that all of this would affect all of our cellular membranes,
 
-0:13:01.820 --> 0:13:06.160
+0:13:01.800 --> 0:13:06.160
  our mitochondria, our fat cells, our brain cells, and all the
 
 0:13:06.160 --> 0:13:09.240
@@ -570,11 +570,11 @@ WEBVTT
 0:13:50.920 --> 0:13:54.920
  polyunsaturated fatty acids, you blow holes in the side of your mitochondria. I mean,
 
-0:13:54.920 --> 0:13:59.840
- it's like, it's a major, major problem. It's like an explosion. And, and the different
+0:13:54.920 --> 0:14:00.280
+ it's like, it's a major, major problem. It's like an explosion. And the different researchers
 
-0:13:59.840 --> 0:14:05.120
- researchers are doing their best to kind of identify, okay, this little bit and piece
+0:14:00.280 --> 0:14:05.120
+ are doing their best to kind of identify, okay, this little bit and piece
 
 0:14:05.120 --> 0:14:10.440
  of like broken, destroyed, damaged, trying, struggling to survive mitochondria has exactly
@@ -588,11 +588,11 @@ WEBVTT
 0:14:14.320 --> 0:14:17.280
  It's this is an inappropriate fuel.
 
-0:14:17.280 --> 0:14:24.080
- It's as if we have traveled to well, you know, in Star Trek, they call this thing the M class
+0:14:17.280 --> 0:14:23.520
+ It's as if we have traveled to, well, you know, in Star Trek, they call this thing the
 
-0:14:24.080 --> 0:14:25.960
- planets, right, that
+0:14:23.520 --> 0:14:25.960
+ M class planets, right, that
 
 0:14:25.960 --> 0:14:31.220
  are compatible with life, right, right. And there was a recent movie, don't look up or
@@ -645,10 +645,10 @@ WEBVTT
 0:15:34.640 --> 0:15:36.600
  I've gotten inspiration from all of them.
 
-0:15:36.600 --> 0:15:48.640
+0:15:36.600 --> 0:15:48.680
  When we talked to Dr. Pete the previous time, I mentioned that I think every time I go back and read his stuff, it's
 
-0:15:48.640 --> 0:15:56.920
+0:15:48.680 --> 0:15:56.920
  amazing to me how much I've learned in the interim and how much more I'm able to understand
 
 0:15:56.920 --> 0:16:01.040
@@ -660,7 +660,7 @@ WEBVTT
 0:16:11.400 --> 0:16:15.760
  So my experience was somewhat, started out somewhat personal.
 
-0:16:15.760 --> 0:16
+0:16:15.760 --> 0:16:26.000
  I was a little bit overweight and very sick, and almost on a, you know know after doing some reading about the problems with seed oils
 
 0:16:26.640 --> 0:16:32.160
@@ -687,7 +687,7 @@ WEBVTT
 0:16:59.020 --> 0:17:05.900
  And over the next couple of months, I lost all of my excess weight which I had been fighting for some time to no useful effect
 
-0:17 --> 0:17
+0:17:08.000 --> 0:17:10.000
  Culminating in
 
 0:17:10.040 --> 0:17:14.880
@@ -744,16 +744,16 @@ WEBVTT
 0:18:26.680 --> 0:18:34.400
  As Kate said, these are not something
 
-0:18:34.400 --> 0:18
+0:18:34.400 --> 0:18:37.000
  that we've evolved to eat in the levels
 
-0:18 --> 0:18:39.960
+0:18:37.000 --> 0:18:39.960
  that we are currently consuming them.
 
-0:18:39.960 --> 0:18
+0:18:39.960 --> 0:18:42.000
  I came across one study that looked
 
-0:18 --> 0:18:47.260
+0:18:42.000 --> 0:18:47.260
  at protein damage in the cell from the peroxidation of omega-6 fats.
 
 0:18:47.260 --> 0:18:49.980
@@ -795,10 +795,10 @@ WEBVTT
 0:19:28.240 --> 0:19:32.800
  And if you look at what we are overeating, it's primarily carbohydrates and sugar.
 
-0:19:32.800 --> 0:19:34.880
+0:19:32.800 --> 0:19:34.900
  That doesn't mean that they're causing obesity.
 
-0:19:34.880 --> 0:19:40.400
+0:19:34.900 --> 0:19:40.400
  What it means is that we are eating a chemical that induces a state known as hyperphagia,
 
 0:19:40.400 --> 0:19:46.720
@@ -834,10 +834,10 @@ WEBVTT
 0:20:21.160 --> 0:20:26.200
  cells then cause the fat cells to misfunction and become insulin resistant
 
-0:20:27.420 --> 0:20:29.420
+0:20:27.400 --> 0:20:29.400
  so it's really you know if
 
-0:20:31.520 --> 0:20:36.340
+0:20:31.520 --> 0:20:36.360
  It's quite amazing how many different effects these fats have on
 
 0:20:37.380 --> 0:20:41.560
@@ -897,16 +897,19 @@ WEBVTT
 0:21:57.120 --> 0:22:02.720
  a price blog and like, I don't know the year 2002 or something.
 
-0:22:04.480 --> 0:22:09.540
- And, and that so, so I started raising pigs in around the year 2005,
+0:22:04.480 --> 0:22:07.980
+ And, and that so, so I started raising pigs
 
-0:22:10.380 --> 0:22:13.720
- and that really was one of the things
+0:22:07.980 --> 0:22:09.520
+ in around the year 2005.
 
-0:22:13.720 --> 0:22:16.580
+0:22:10.400 --> 0:22:13.720
+ And that really was one of the things
+
+0:22:13.720 --> 0:22:16.600
  that I was trying to do because I knew that,
 
-0:22:16.580 --> 0:22:17.980
+0:22:16.600 --> 0:22:17.980
  I knew the pigs were monogastric.
 
 0:22:17.980 --> 0:22:22.980
@@ -975,19 +978,19 @@ WEBVTT
 0:23:50.200 --> 0:23:51.260
  what you fed the animal,
 
-0:23:51.260 --> 0:23
+0:23:51.260 --> 0:23:54.000
  but also the genetics of the animal.
 
-0:23 --> 0:23
+0:23:54.000 --> 0:23:57.000
  And so there was something happening internally
 
-0:23 --> 0:23:59.880
+0:23:57.000 --> 0:23:59.880
  that could affect the body fat saturation.
 
-0:23:59.880 --> 0:24
+0:23:59.880 --> 0:24:02.000
  And then obviously the externally,
 
-0:24 --> 0:24:03.320
+0:24:02.000 --> 0:24:03.320
  what you fed them made a difference.
 
 0:24:03.320 --> 0:24:09.360
@@ -1015,7 +1018,7 @@ WEBVTT
  enters the mitochondria. And so you have these two different sort of pools of fat that at any point
 
 0:24:47.960 --> 0:24:52.240
- in time, you're, you're oxidizing. And so I've spent a
+ in time you're, you're oxidizing. And so I've spent a
 
 0:24:52.240 --> 0:24:55.800
  lot of time, you know, thinking about that. And that really is
@@ -1024,13 +1027,13 @@ WEBVTT
  where the the conversations about the torpor comes in and
 
 0:25:00.680 --> 0:25:04.480
- the now and you know, in the torpor thing is it's kind of an
+ the now and you know, and the torpor thing is, it's kind of an
 
-0:25:04.480 --> 0:25:08.400
- analogy, you know, humans obviously don't- torpor,
+0:25:04.480 --> 0:25:08.440
+ analogy, you know, humans obviously don't- torpor
 
-0:25:08.400 --> 0:25:12.640
- for those who don't know, is a, is a, it's kind of an
+0:25:08.440 --> 0:25:12.640
+ for those who don't know is a, is a, it's kind of an
 
 0:25:12.680 --> 0:25:18.440
  alternative metabolic state that hibernating animals use before
@@ -1038,14 +1041,11 @@ WEBVTT
 0:25:18.440 --> 0:25:21.600
  they hibernate. But one of the things that they do is they have
 
-0:25:21.600 --> 0:25:24.520
- to eat a lot of polyunsaturated fat to be able to go into
-
-0:25:24.520 --> 0:25:31.160
- torpor. And then as they approach torpor, they increase the amount of SCD-1 that they make.
+0:25:21.600 --> 0:25:24.960
+ to eat a lot of polyunsaturated fat to be able to go into torpor.
 
 0:25:31.160 --> 0:25:38.800
- And so, hibernating animals eat a lot of PUFA and they have a lot of SCD-1. And so, hibernating
+ And then as they approach torpor, they increase the amount of SCD-1 that they make. And so, hibernating animals eat a lot of PUFA and they have a lot of SCD-1. And so, hibernating
 
 0:25:38.800 --> 0:25:46.400
  animals have very, very unsaturated body fat compared to, you know, an animal that is never going to
@@ -1101,7 +1101,7 @@ WEBVTT
 0:26:51.960 --> 0:26:58.060
  right. And of course all that started with me just trying to be trying to make
 
-0:26:58.060 --> 0:27:09.100
+0:26:58.060 --> 0:27:09.120
  the pork fat firm on my pigs that I was raising and it has sort of gone from there. But, and so now on the blog, I'm digging, you know,
 
 0:27:09.280 --> 0:27:12.200
@@ -1116,16 +1116,16 @@ WEBVTT
 0:27:16.120 --> 0:27:21.120
  I like genes and, you know, genetic pathways, et cetera.
 
-0:27:21.160 --> 0:27
+0:27:21.160 --> 0:27:26.000
  And one of the ways that my research keeps
 
-0:27 --> 0:27:33.040
+0:27:26.000 --> 0:27:33.040
  bringing me back to is how we regenerate NAD+. Because if you
 
 0:27:33.040 --> 0:27:41.680
  look at obese humans, it seems like we have too much. So NAD+,
 
-0:27:41.680 --> 0:27
+0:27:41.680 --> 0:27:45.000
  it's an energy carrier,
 
 0:27:45.500 --> 0:27:46.660
@@ -1149,28 +1149,25 @@ WEBVTT
 0:28:00.540 --> 0:28:03.620
  into the mitochondria electron transport chain.
 
-0:28:03.620 --> 0:28
+0:28:03.620 --> 0:28:06.960
  And that is how, and that's basically how we, an essential
 
-0:28 --> 0:28:10.160
- part of how we turn our food into ATP.
+0:28:06.960 --> 0:28:11.440
+ part of how we turn our food into ATP. And so if there's not
 
-0:28:10.520 --> 0:28:15.360
- And so if there's not enough NAD plus around, we simply can't
+0:28:11.440 --> 0:28:17.120
+ enough NAD plus around, we simply can't run our metabolism
 
-0:28:15.360 --> 0:28:17.880
- run our metabolism as quickly.
+0:28:17.120 --> 0:28:21.400
+ as quickly, it becomes a limiting factor. And if people
 
-0:28:17.880 --> 0:28:19.600
- It becomes a limiting factor.
+0:28:21.400 --> 0:28:25.280
+ have heard of this, the Sirtuins, Sirtuins
 
-0:28:20.080 --> 0:28:25.280
- And if people have heard of this, the Sirtuins, Sirtuins
-
-0:28:25.280 --> 0:28
+0:28:25.280 --> 0:28:29.000
  require NAD plus and, and they remove acetyl groups from
 
-0:28 --> 0:28:31.760
+0:28:29.000 --> 0:28:31.760
  things. And if you look at obese humans, they have a lot of
 
 0:28:31.760 --> 0:28:37.080
@@ -1179,34 +1176,34 @@ WEBVTT
 0:28:37.080 --> 0:28:42.160
  complex five, a whole bunch of them. And so, and so your
 
-0:28:42.160 --> 0:28:49.320
+0:28:42.160 --> 0:28:49.360
  mitochondria don't work as efficiently if, if you have, if you have a lot of acetylated
 
-0:28:49.320 --> 0:28:53.280
- enzymes, which is to say if you don't have enough NAD+, and you
+0:28:49.360 --> 0:28:53.200
+ enzymes, which is to say if you don't have enough NAD plus, and
 
-0:28:53.280 --> 0:28:57.880
- see this kind of irony in obese people that obviously they have
+0:28:53.200 --> 0:28:57.640
+ you see this kind of irony in obese people that obviously
 
-0:28:57.880 --> 0:29:02.240
- a lot of energy. You know, the person has plenty of stored
+0:28:57.640 --> 0:29:01.880
+ they have a lot of energy. You know, the person has plenty of
 
-0:29:02.240 --> 0:29:07.120
- energy, but yet their cells are still low in ATP. Because, you know, they're not
+0:29:01.920 --> 0:29:07.120
+ stored energy, but yet their cells are still low in ATP. Because, you know, they're not
 
-0:29:07.120 --> 0:29
+0:29:07.120 --> 0:29:12.000
  convert, they're not efficiently converting, converting all of
 
-0:29 --> 0:29:17.600
+0:29:12.000 --> 0:29:17.600
  that to, to ATP. And so, yeah, and there's a, there's an
 
 0:29:17.600 --> 0:29:24.560
  enzyme called NNT. And so this will connect sort of what, yeah,
 
-0:29:24.600 --> 0:29
+0:29:24.600 --> 0:29:30.000
  what Kate and I were saying about functional mitochondria back to what Peter was saying about ROS.
 
-0:29 --> 0:29:45.680
+0:29:30.000 --> 0:29:45.680
  What this enzyme NNT does is it basically takes the ROS and it returns NAD+. it's kind of a magical device that in the process of removing
 
 0:29:45.680 --> 0:29:52.880
@@ -1218,10 +1215,10 @@ WEBVTT
 0:29:55.800 --> 0:30:01.080
  your fat really unsaturated, then you won't make as much ROS
 
-0:30:01.120 --> 0:30
+0:30:01.120 --> 0:30:07.000
  and that will give you less NAD+, and that will give you the ability to store body
 
-0:30 --> 0:30:10.200
+0:30:07.000 --> 0:30:10.200
  fat and get ready for hibernation.
 
 0:30:10.200 --> 0:30:13.120
@@ -1236,13 +1233,13 @@ WEBVTT
 0:30:19.280 --> 0:30:20.280
  I'm just joking.
 
-0:30:20.280 --> 0:30
+0:30:20.280 --> 0:30:25.000
  Give us your take on this question, please.
 
-0:30 --> 0:30:32.720
+0:30:25.000 --> 0:30:32.720
  I've considered all of those over the years.
 
-0:30:32.720 --> 0:30
+0:30:32.720 --> 0:30:45.000
  50 years ago, my dissertation in the biology department at the oxidative metabolic changes
 
 0:30:46.500 --> 0:30:49.300
@@ -1257,28 +1254,28 @@ WEBVTT
 0:31:04.460 --> 0:31:10.740
  producing age pigment, for example, and estrogen. Each one
 
-0:31:10.740 --> 0:31
+0:31:10.740 --> 0:31:32.000
  intensifies the other and you can overlap those with oxygen deprivation in itself or or exoradiation or any sort of stress that uses or wastes oxygen.
 
-0:31 --> 0:31:45.560
+0:31:32.000 --> 0:31:45.560
  It accelerates the interaction, decomposing PUFA with aging under the influence of estrogen. And at that time,
 
 0:31:46.680 --> 0:31:51.680
  I had to see the importance of the accumulating PUFA
 
-0:31:53.560 --> 0:31:58.140
+0:31:53.560 --> 0:31:58.120
  with aging, but already the literature
 
-0:31:58.140 --> 0:32:03.140
+0:31:58.120 --> 0:32:03.120
  was starting to claim that not only is PUFA in the food
 
-0:32 --> 0:32:06.960
+0:32:04.000 --> 0:32:06.960
  good for preventing cancer and heart disease,
 
 0:32:06.960 --> 0:32:16.040
  they said, but even preventing obesity. I've seen dozens of articles, more and
 
-0:32:16.040 --> 0:32
+0:32:16.040 --> 0:32:25.000
  more over the years, showing in prevention of obesity with the other gross mistakes.
 
 0:32:26.200 --> 0:32:30.240
@@ -1293,17 +1290,26 @@ WEBVTT
 0:32:38.320 --> 0:32:43.320
  And all of that comes from the immense profitability
 
-0:32 --> 0:32:48.320
+0:32:44.000 --> 0:32:48.320
  of selling products. Every time there's a super
 
 0:32:48.320 --> 0:32:57.120
  profitable product, the science follows the profit absolutely going against the
 
-0:32:57.120 --> 0:33:15.320
- facts in the case of PUFA and estrogen, but at least a dozen other substances. And so you have to learn to disregard about 90 to 99% of the published medical and even
+0:32:57.120 --> 0:33:06.160
+ facts in the case of PUFA and estrogen, but at least a dozen other substances.
 
-0:33:15.320 --> 0:33:31.080
- biochemical articles as being nothing but reflections of advertising. I started looking at the physical properties that would account for the fact
+0:33:09.200 --> 0:33:14.200
+ And so you have to learn to disregard about 90 to 99% of the published medical
+
+0:33:14.640 --> 0:33:17.500
+ and even biochemical articles
+
+0:33:17.500 --> 0:33:21.940
+ as being nothing but reflections of advertising.
+
+0:33:22.900 --> 0:33:31.080
+ And I started looking at the physical properties that would account for the fact
 
 0:33:31.080 --> 0:33:41.280
  that mammals in general, studies have been done on calves and human babies, at birth
@@ -1347,26 +1353,23 @@ WEBVTT
 0:35:04.440 --> 0:35:10.200
  when you're no longer diluting those stored PUFA from
 
-0:35:10.200 --> 0:35:18.440
+0:35:10.200 --> 0:35:18.400
  the environment, the rate of accumulation increases so that by middle and old age, the
 
-0:35:18.440 --> 0:35:31.360
+0:35:18.400 --> 0:35:31.360
  metabolic rate is much slower, the brain and arteries and other tissues are starting to fill up with the largely
 
 0:35:31.360 --> 0:35:38.980
  cholesterol esters of the polyunsaturated fats, also the stored
 
-0:35:38.980 --> 0:35
+0:35:38.980 --> 0:35:45.000
  triglycerides, all of these become more polyunsaturated with aging.
 
-0:35:45.900 --> 0:35:48.840
- And I think the basic reason for that
+0:35:45.900 --> 0:35:49.920
+ And I think the basic reason for that is that
 
-0:35:48.840 --> 0:35:52.260
- is that the double bonds,
-
-0:35:52.260 --> 0:35:56.180
- the more the double bonds the fat has,
+0:35:49.920 --> 0:35:54.920
+ the double bonds, the more the double bonds the fat has,
 
 0:35:57.060 --> 0:36:01.260
  the more affinity it has for water.
@@ -1377,10 +1380,10 @@ WEBVTT
 0:36:04.640 --> 0:36:08.360
  to circulate free in the water and in
 
-0:36:08.360 --> 0:36
+0:36:08.360 --> 0:36:17.000
  the process those same multiply unsaturated molecules block thyroid
 
-0:36 --> 0:36
+0:36:17.000 --> 0:36:25.000
  function and release estrogen from the steroid-binding globulin,
 
 0:36:27.480 --> 0:36:29.600
@@ -1413,7 +1416,7 @@ WEBVTT
 0:37:04.440 --> 0:37:11.800
  as triglycerides and phospholipids and estrogens of cholesterol.
 
-0:37:11.800 --> 0:37
+0:37:11.800 --> 0:37:25.000
  So all of the tissues lose function with aging as they accumulate these fats and that all along the route,
 
 0:37:25.040 --> 0:37:28.340
@@ -1426,12 +1429,12 @@ WEBVTT
  The cold temperature plants,
 
 0:37:38.840 --> 0:37:41.640
- fish living in a cold temperature
+ fish living at a cold temperature
 
 0:37:41.640 --> 0:37:44.640
  are very highly polyunsaturated.
 
-0:37:51.120 --> 0:38
+0:37:51.120 --> 0:38:05.000
  That's necessary just for physical flexibility. A cold fish is stiff because if it has saturated fat, but the polyunsaturated fats keep it liquid at refrigerator temperature.
 
 0:38:06.600 --> 0:38:11.600
@@ -1443,7 +1446,7 @@ WEBVTT
 0:38:16.440 --> 0:38:20.320
  That was what led me to experiment with coconut oil.
 
-0:38:21.660 --> 0:38
+0:38:21.660 --> 0:38:25.000
  And it's relatively high saturation,
 
 0:38:27.960 --> 0:38:30.240
@@ -1467,28 +1470,28 @@ WEBVTT
 0:38:59.040 --> 0:39:02.880
  that life is shortened by the degree
 
-0:39:02.880 --> 0:39
+0:39:02.880 --> 0:39:05.000
  of polyunsaturated fats in its tissues.
 
 0:39:09.040 --> 0:39:14.040
- The physical property of being more water-soluble
+ The physical property of being more water soluble
 
-0:39:14.040 --> 0:39:18.200
+0:39:14.240 --> 0:39:18.200
  leading to the accumulation in the tissues
 
 0:39:19.280 --> 0:39:23.120
  means that when you're under stress
 
-0:39:23.120 --> 0:39
+0:39:23.120 --> 0:39:25.000
  and release stored fats,
 
 0:39:27.280 --> 0:39:32.280
  both from triglycerides and phospholipids and esters,
 
-0:39:34.600 --> 0:39:39.160
+0:39:34.600 --> 0:39:38.480
  these stress-induced free fatty acids
 
-0:39:39.160 --> 0:39:42.720
+0:39:39.340 --> 0:39:42.720
  are going to be more polyunsaturated.
 
 0:39:42.720 --> 0:39:49.480
@@ -1497,22 +1500,22 @@ WEBVTT
 0:39:49.480 --> 0:40:09.320
  these free fatty acids become with aging. And the diabetes, obesity, and cancer, inflammatory degenerative diseases, all of these are linked through both the presence
 
-0:40:09.320 --> 0:40
+0:40:09.320 --> 0:40:25.000
  of free fatty acids in circulation stops the oxidation of glucose.
 
-0:40:27.420 --> 0:40:32.420
+0:40:27.400 --> 0:40:32.400
  And it not only shifts the metabolic ratio,
 
-0:40:32.920 --> 0:40:36.460
+0:40:32.920 --> 0:40:36.440
  but it actually lowers the metabolic rate.
 
-0:40:37.340 --> 0:40:42.340
+0:40:37.320 --> 0:40:42.320
  Old people, old men, for example, at rest,
 
-0:40:43.440 --> 0:40
+0:40:43.440 --> 0:40:49.000
  are burning actually more fat than the young men in the
 
-0:40 --> 0:40:59.360
+0:40:49.000 --> 0:40:59.360
  same conditions, but the old man is laying down fat at the same time, burning fat faster
 
 0:40:59.360 --> 0:41:09.440
@@ -1527,49 +1530,40 @@ WEBVTT
 0:41:21.340 --> 0:41:25.360
  and a higher oxidation of fat or the respiratory quotient.
 
-0:41:26.480 --> 0:41:30.040
- And that's a general thing that the
+0:41:25.360 --> 0:41:52.500
+ And that's a general thing that the respiratory quotient in diabetes and all of these stress fat oxidation, high estrogen, and old age and any kind of sickness correspond to that
 
-0:41:32.400 --> 0:41:37.560
- respiratory quotient in diabetes and all of these stress
-
-0:41:37.560 --> 0:41:42.280
- diseases goes toward fat oxidation,
-
-0:41:43.920 --> 0:41:52.520
- high estrogen and old age and any kind of sickness correspond to that
-
-0:41:52.520 --> 0:42:11.560
+0:41:52.500 --> 0:42:11.600
  process. the mechanism behind the Randall cycle. When you're under stress, one way of
 
-0:42:11.560 --> 0:42:32.080
+0:42:11.600 --> 0:42:32.080
  keeping some energy process production going is to get rid of the excess NADH so that you can produce more oxidation, so forming lactic acid which
 
-0:42:32.080 --> 0:42
+0:42:32.080 --> 0:42:50.000
  leaves the cell, that consumes some NADH and allows some energy to continue to be produced. But fat synthesis is the other electron sink that gets rid of excess electrons.
 
-0:42 --> 0:43
+0:42:50.000 --> 0:43:07.000
  So you burn fat, oxidize fatty acids, and you're increasing the NADH, raising the reductive properties of the cell and to get rid of those excess NADH reductive
 
 0:43:10.800 --> 0:43:17.800
  atoms, you have to either produce more fat or more lactic acid or both. And generally
 
-0:43 --> 0:43:27.240
+0:43:22.000 --> 0:43:27.240
  it's both of them. Diabetics have a chronically high lactic
 
 0:43:27.240 --> 0:43:36.280
  acid production as well as high free fatty acids. So it starts with the
 
-0:43:36.280 --> 0:43
+0:43:36.280 --> 0:43:47.000
  physical properties, the water solubility, and ends up with the problem of electron excess.
 
-0:43 --> 0:43
+0:43:47.000 --> 0:43:58.000
  And making lactic acid and fat is the solution to that excess of electrons.
 
-0:43 --> 0:44
+0:43:58.000 --> 0:44:02.000
  Well, very good. I really appreciate all of your answers.
 
-0:44 --> 0:44:05.060
+0:44:02.000 --> 0:44:05.060
  And I have another question for everybody, but before I do,
 
 0:44:05.060 --> 0:44:09.300
@@ -1644,11 +1638,8 @@ WEBVTT
 0:45:48.040 --> 0:45:55.200
  and we're going to have to have a solid evidentiary case to convince the authorities that they've
 
-0:45:55.200 --> 0:46:02.800
- been wrong for the last 60 or 70 years and that they need to change this pattern.
-
-0:46:02.800 --> 0:46:09.680
- And unless we can, you know, point to the studies that show that this is what is actually
+0:45:55.200 --> 0:46:09.680
+ been wrong for the last 60 or 70 years and that they need to change this pattern. And unless we can, you know, point to the studies that show that this is what is actually
 
 0:46:09.680 --> 0:46:17.660
  happening and what it, however complicated it may be, and it explains why, you know,
@@ -1656,23 +1647,23 @@ WEBVTT
 0:46:17.660 --> 0:46:21.360
  not just everybody in America or most people in America, but most people around the world
 
-0:46:21.360 --> 0:46:31.920
- have suddenly decided to overeat and get fat, right? You can make it complicated, but I think that you can also, you can make it simple. And I,
+0:46:21.360 --> 0:46:32.320
+ have suddenly decided to overeat and get fat, right? You can make it complicated, but I think that you can also, you can make it simple, and I think
 
-0:46:31.920 --> 0:46:36.560
- I think there's, I mean, you can tell me how I'm wrong, but I think it seems pretty simple to say
+0:46:32.320 --> 0:46:36.560
+ it, there's, I mean, you can tell me how I'm wrong, but I think it seems pretty simple to say
 
 0:46:37.120 --> 0:46:46.240
  that a seed oil diet makes us build body fat that makes us feel sick and tired when we try and burn it because of the
 
-0:46:46.240 --> 0:46:50.360
+0:46:46.240 --> 0:46:50.320
  inflammatory effects of the PUFA in mitochondria and other tissues.
 
-0:46:50.360 --> 0:46:54.280
+0:46:50.320 --> 0:46:54.360
  But I think that's a body metabolism as you can make it.
 
-0:46:54.280 --> 0:46:59.080
- Yeah, which is true, but you know, that's not going to convince a scientist.
+0:46:54.360 --> 0:46:59.080
+ Yeah, which is true, but that's not going to convince a scientist.
 
 0:46:59.080 --> 0:47:01.360
  He's going to want to know, okay, how does that happen?
@@ -1680,20 +1671,29 @@ WEBVTT
 0:47:01.360 --> 0:47:03.040
  Wait a second, though.
 
-0:47:03.040 --> 0:47:06.960
+0:47:03.040 --> 0:47:06.840
  I mean, why wouldn't it convince a scientist if it's true?
 
-0:47:06.960 --> 0:47:11.400
+0:47:06.840 --> 0:47:09.860
  How do you know it's true without seeing the mechanisms?
 
-0:47:11.400 --> 0:47:14.280
- There are mechanisms, I'm not making any of this up.
+0:47:11.320 --> 0:47:12.240
+ There are mechanisms.
 
-0:47:14.280 --> 0:47:20.320
- There's multiple mechanisms, there's multiple steps in there, but I mean your body fat,
+0:47:12.240 --> 0:47:13.760
+ I mean, I'm not making any of this up.
 
-0:47:20.320 --> 0:47:26.460
- if you eat too much PUFA, it ends up in your body fat, that's step one, then between meals,
+0:47:13.760 --> 0:47:15.680
+ There's multiple mechanisms.
+
+0:47:15.680 --> 0:47:17.800
+ There's multiple steps in there.
+
+0:47:17.800 --> 0:47:22.420
+ But I mean, your body fat, if you eat too much PUFA,
+
+0:47:22.420 --> 0:47:26.460
+ it ends up in your body fat, that's step one, then between meals,
 
 0:47:26.460 --> 0:47:28.540
  when your insulin is low,
@@ -1720,7 +1720,7 @@ WEBVTT
  so that the cells then,
 
 0:47:48.840 --> 0:47:50.260
- I mean, this is all step by step,
+ I mean this is all step by step,
 
 0:47:50.260 --> 0:47:51.720
  I'm just taking you through the process
@@ -1737,46 +1737,43 @@ WEBVTT
 0:48:00.860 --> 0:48:04.880
  that they, instead of shutting down,
 
-0:48:04.880 --> 0:48:07.820
+0:48:04.880 --> 0:48:07.800
  they just put more GLute 4 transporters and
 
-0:48:07.820 --> 0:48:14.040
+0:48:07.800 --> 0:48:14.000
  suck, slurp more sugar out of the bloodstream, that part is a missing
 
-0:48:14.040 --> 0:48:19.240
+0:48:14.000 --> 0:48:19.200
  step. I haven't actually seen like too much evidence of that. I've seen indirect
 
-0:48:19.240 --> 0:48:23.880
+0:48:19.200 --> 0:48:23.840
  evidence of that that I can point to, that the brain actually starts to tell
 
-0:48:23.880 --> 0:48:26.200
+0:48:23.840 --> 0:48:26.240
  the liver to produce more sugar
 
-0:48:26.200 --> 0:48:28.660
+0:48:26.240 --> 0:48:28.680
  to increase the blood sugar level.
 
-0:48:28.660 --> 0:48:31.620
+0:48:28.680 --> 0:48:31.640
  That's how you become diabetic.
 
-0:48:31.620 --> 0:48:32.660
- That's like another,
+0:48:31.640 --> 0:48:34.760
+ That's like another, that's why you raise
 
-0:48:33.880 --> 0:48:35.560
- that's why you raise your blood sugar level
+0:48:34.760 --> 0:48:37.280
+ your blood sugar level when you're type two diabetic
 
-0:48:35.560 --> 0:48:37.240
- when you're type two diabetic
-
-0:48:37.240 --> 0:48:40.440
+0:48:37.280 --> 0:48:40.480
  because the brain says a normal blood sugar level
 
-0:48:40.440 --> 0:48:41.520
- of 100 isn't enough.
+0:48:40.480 --> 0:48:43.300
+ of 100 isn't enough, I want it to be 110 fasting
 
-0:48:41.520 --> 0:48:44.800
- I want it to be 110 fasting or 120 or 30.
+0:48:43.300 --> 0:48:44.840
+ or 120 or 30.
 
-0:48:44.800 --> 0:48:47.360
+0:48:44.840 --> 0:48:47.360
  But everything that I've said,
 
 0:48:47.360 --> 0:48:49.940
@@ -1788,19 +1785,19 @@ WEBVTT
 0:48:52.840 --> 0:48:57.140
  that makes the cells increase their glute four transporters
 
-0:48:57.140 --> 0:48
+0:48:57.140 --> 0:48:59.000
  and slurp in more sugar from the bloodstream,
 
-0:48 --> 0:49:02.600
+0:48:59.000 --> 0:49:02.600
  that's the only piece that's maybe missing,
 
 0:49:02.600 --> 0:49:07.160
  but everything else is actually solid and no one in their
 
-0:49:07.160 --> 0:49:09.880
+0:49:07.160 --> 0:49:09.860
  right mind, I think, would refute any of that.
 
-0:49:09.880 --> 0:49:13.800
+0:49:09.860 --> 0:49:13.800
  So there is science, it's more than just one, a sound bite.
 
 0:49:13.800 --> 0:49:15.480
@@ -1815,29 +1812,26 @@ WEBVTT
 0:49:26.240 --> 0:49:31.480
  should be in this conversation to listen to the whole argument, not just a short sentence,
 
-0:49:31.480 --> 0:49:36.680
+0:49:31.480 --> 0:49:36.640
  like cholesterol clogs your arteries or something simple, oversimplified like that and ridiculous.
 
-0:49:36.680 --> 0:49:37.680
+0:49:36.640 --> 0:49:37.640
  Right.
 
-0:49:37.680 --> 0:49:38.680
+0:49:37.640 --> 0:49:38.640
  Agreed.
 
-0:49:38.680 --> 0:49:39.680
+0:49:38.640 --> 0:49:39.640
  Peter?
 
-0:49:39.680 --> 0:49:50.720
- Quick word with Tucker or quick comment. I find your approach, your concept that PUFA make endocannabinoids make
+0:49:39.640 --> 0:49:49.120
+ Quick word with Tucker or quick comment. I find your approach, your concept that PUFA make
 
-0:49:50.720 --> 0:49:57.720
- you eat is very soundbite-y. Yeah?
+0:49:49.120 --> 0:49:57.840
+ endocannabinoids make you eat is very soundbite-y. Yeah?
 
-0:49:57.720 --> 0:50:03.160
- Well, it's a great soundbite. Kate put it in her book. They give you the munchies. That's
-
-0:50:03.160 --> 0:50:06.400
- probably the best soundbite we have.
+0:49:57.840 --> 0:50:06.400
+ Well it's a great soundbite. Kate put it in her book. They give you the munchies. That's probably the best soundbite we have.
 
 0:50:15.280 --> 0:50:28.560
  The problem I have is that I think we are talking about a process and I don't think it happens immediately. And there is a ton of research where if you feed poofers to laboratory rodents, you will invariably
@@ -1870,7 +1864,7 @@ WEBVTT
  you're saturate to cell culture, and there's a reactive oxygen species driven catastrophe,
 
 0:51:27.900 --> 0:51:30.700
- particularly if your culture in 25 millimoles of glucose,
+ particularly if you're culture in 25 millimoles of glucose,
 
 0:51:30.700 --> 0:51:32.620
  which is the standard culture medium,
@@ -1893,7 +1887,7 @@ WEBVTT
 0:51:46.480 --> 0:51:50.880
  scientists that we ever try and convince will produce those papers and say, well, look at this.
 
-0:51 --> 0:51:57.440
+0:51:52.000 --> 0:51:57.440
  And as you pointed out, Peter, there was a that's not a that's just just a moment,
 
 0:51:57.440 --> 0:52:00.640
@@ -2001,16 +1995,16 @@ WEBVTT
 0:54:06.120 --> 0:54:12.760
  But regardless of the mechanism, you're creating the oxidative stress by burning the PUFA instead
 
-0:54:12.760 --> 0:54
+0:54:12.760 --> 0:54:21.000
  of eating more, which would allow you to get more glucose, which is a safer thing to burn.
 
-0:54 --> 0:54:24.640
+0:54:21.000 --> 0:54:24.600
  Because it doesn't have the double bonds, it doesn't have the polyunsaturated fatty
 
-0:54:24.640 --> 0:54
+0:54:24.600 --> 0:54:25.000
  acids, and it doesn't have the double bonds, it doesn't have the polyunsaturated fatty acids
 
-0:54 --> 0:54:26.760
+0:54:25.000 --> 0:54:26.760
  and it's safe to burn.
 
 0:54:26.760 --> 0:54:30.080
@@ -2038,7 +2032,7 @@ WEBVTT
  bad that people will eat themselves almost to death and attempt to not have
 
 0:54:59.480 --> 0:55:11.400
- to burn that and damage their mitochondria. Okay. Dr. Pete, do you…how do you sort out these different arguments?
+ to burn that and damage their mitochondria. Okay. Dr. Pete, do youâ€¦how do you sort out these different arguments?
 
 0:55:11.400 --> 0:55:15.320
  I mean, I'm a layperson, so I'm, you know, I'm listening, and it all kind of seems
@@ -2064,16 +2058,16 @@ WEBVTT
 0:56:11.680 --> 0:56:19.680
  production and full energy use of the oxygen towards fat synthesis and lactic acid synthesis.
 
-0:56:19.680 --> 0:56:28.820
+0:56:19.680 --> 0:56:28.800
  I would, I think that's an overstatement of what the Randall cycle actually does. I think that's an overstatement of what the Randall cycle actually does.
 
-0:56:28.820 --> 0:56:33.940
+0:56:28.800 --> 0:56:33.920
  I think the Randall cycle is simpler.
 
-0:56:33.940 --> 0:56:51.320
+0:56:33.920 --> 0:56:51.240
  You can just, it's really just a description of the cell has an option to burn fat or sugar. And what... But the fat changes the ability of the cell to use sugar and go oxidize.
 
-0:56:51.320 --> 0:56:52.800
+0:56:51.240 --> 0:56:52.800
  Well, you could put it the other way as well.
 
 0:56:52.800 --> 0:56:54.840
@@ -2106,16 +2100,16 @@ WEBVTT
 0:57:29.960 --> 0:57:34.680
  And of course, cells can use two fuels at once, obviously, but that's kind of the, if
 
-0:57:34.680 --> 0:57:40.080
+0:57:34.680 --> 0:57:40.120
  you want, the seesaw that allows the cell to determine what fuel it's going to use.
 
-0:57:40.080 --> 0:57:46.680
+0:57:40.120 --> 0:57:46.680
  But that use of type of fuel determines everything.
 
-0:57:46.680 --> 0:57:53.440
+0:57:46.680 --> 0:57:53.460
  The electronic balance regulates the synthesis of fat.
 
-0:57:53.440 --> 0:58:11.600
+0:57:53.460 --> 0:58:11.600
  And so the more fat you burn, the more fat than the young person is still making fat for deposition.
 
 0:58:12.320 --> 0:58:15.760
@@ -2127,7 +2121,7 @@ WEBVTT
 0:58:18.080 --> 0:58:24.880
  That is well established, but it just doesn't seem right to people, so they ignore it.
 
-0:58 --> 0:58
+0:58:25.000 --> 0:58:26.000
  it just doesn't seem right to people, so they ignore it.
 
 0:58:29.760 --> 0:58:32.800
@@ -2136,7 +2130,7 @@ WEBVTT
 0:58:32.800 --> 0:58:35.120
  is the presumption that you're building the fat
 
-0:58:35.120 --> 0:58
+0:58:35.120 --> 0:58:37.000
  is coming from glucose,
 
 0:58:38.160 --> 0:58:39.680
@@ -2154,13 +2148,13 @@ WEBVTT
 0:58:44.960 --> 0:58:49.520
  you increase the ratio of NADH to
 
-0:58:49.520 --> 0:58
+0:58:49.520 --> 0:58:58.000
  NAD. And that generates the fat from whatever it can get? Yeah, so the more fatty acids you burn,
 
-0:58 --> 0:59
+0:58:58.000 --> 0:59:07.000
  the more fatty acids you synthesize. Yeah, and so, Dr. Peete, if I understand you,
 
-0:59 --> 0:59:09.160
+0:59:07.000 --> 0:59:09.160
  and correct me if I'm wrong,
 
 0:59:09.160 --> 0:59:12.800
@@ -2175,16 +2169,16 @@ WEBVTT
 0:59:19.320 --> 0:59:21.160
  Yeah, yeah, absolutely.
 
-0:59:21.160 --> 0:59
+0:59:21.160 --> 0:59:22.000
  Yeah.
 
 0:59:23.280 --> 0:59:31.360
  So can I add slightly to that? And that is, I think we can all agree that the
 
-0:59:31.360 --> 0:59
- Randall cycle partitions what you do with calories. What I was looking at for, from the ROS point of view was looking at normalizing the total calorie intake
+0:59:31.360 --> 0:59:51.000
+ Randall cycle partitions what you do with calories. What I was looking at for from the ROS point of view was looking at normalizing the total calorie intake
 
-0:59 --> 1:00:01.240
+0:59:51.000 --> 1:00:01.240
  to the cell and if the ROS make that input to the cell normal, the Randall cycle should simply sort
 
 1:00:01.240 --> 1:00:05.100
@@ -2212,15 +2206,15 @@ WEBVTT
  I think we wanna look at at it from the proper direction.
 
 1:00:25.760 --> 1:00:32.760
- So the big picture is that when you are burning, when your body has a lot of—the big picture
+ So the big picture is that when you are burning, when your body has a lot ofâ€”the big picture
 
-1:00:32.760 --> 1:00
+1:00:32.760 --> 1:00:35.000
  is oxidative stress.
 
-1:00 --> 1:00
+1:00:35.000 --> 1:00:41.000
  And having the physiology subjected to too much oxidative stress is going to have an
 
-1:00 --> 1:00:45.640
+1:00:41.000 --> 1:00:45.640
  influence on things like the Randall cycle and the NAD to ratios
 
 1:00:45.640 --> 1:00:46.800
@@ -2250,19 +2244,19 @@ WEBVTT
 1:01:12.040 --> 1:01:20.120
  Insulin sensitivity, the translocation of glucose into a cell or not, whether or not
 
-1:01:20.120 --> 1:01:26.720
+1:01:20.120 --> 1:01:26.700
  liver, the liver is able to do any of the normal detoxification, it's gonna
 
-1:01:26.720 --> 1:01:31.560
+1:01:26.700 --> 1:01:31.580
  have an impact on every process. And so what I want, what I'm, my point I'm trying
 
-1:01:31.560 --> 1:01:37.400
+1:01:31.580 --> 1:01:37.400
  to make is that we can't take one little process that the body normally does
 
-1:01:37.400 --> 1:01:44.040
+1:01:37.400 --> 1:01:44.020
  under normal circumstances and blame, you know, that for everything. The big
 
-1:01:44.040 --> 1:01:47.440
+1:01:44.020 --> 1:01:47.440
  picture, we can't forget, I mean, it's kind of a little bit like missing the
 
 1:01:47.440 --> 1:01:52.640
@@ -2274,26 +2268,26 @@ WEBVTT
 1:01:59.560 --> 1:02:04.200
  you're talking about, but many other things.
 
-1:02:04.200 --> 1:02:08.880
- That's the direction that I see things going, and the explanation that
+1:02:04.200 --> 1:02:06.720
+ That's the direction that I see things going and
 
-1:02:08.880 --> 1:02:11.040
- makes more sense to me.
+1:02:06.720 --> 1:02:12.120
+ the explanation that makes more sense to me. For almost a hundred
 
-1:02:11.040 --> 1:02:20.960
- For almost 100 years, the oxidative stress and oxidative damage has been emphasized,
+1:02:12.120 --> 1:02:20.360
+ years, the oxidative stress and oxidative damage has been emphasized,
 
-1:02:20.960 --> 1:02:27.440
- rate of living theory and so on.'s almost almost been a hundred percent neglect
+1:02:20.360 --> 1:02:27.440
+ rate of living theory and so on,'s almost almost been a hundred percent neglect
 
 1:02:27.440 --> 1:02:29.320
  of the reductive stress
 
-1:02:29.320 --> 1:02:30.160
+1:02:29.320 --> 1:02:30.200
  process
 
-1:02:30.160 --> 1:02:32.600
- and that's what i'm talking about
+1:02:30.200 --> 1:02:32.600
+ that's what i'm talking about
 
 1:02:32.600 --> 1:02:34.560
  reductive stress
@@ -2301,11 +2295,11 @@ WEBVTT
 1:02:34.560 --> 1:02:39.980
  precedes the reactive oxygen species production
 
-1:02:39.980 --> 1:02:43.280
+1:02:39.980 --> 1:02:43.920
  the problem is reductive stress
 
-1:02:43.280 --> 1:02:47.760
- and that's promoted by not enough glucose oxidation,
+1:02:43.920 --> 1:02:47.760
+ that's promoted by not enough glucose oxidation,
 
 1:02:47.760 --> 1:02:48.900
  too much PUFA.
@@ -2352,29 +2346,29 @@ WEBVTT
 1:03:37.360 --> 1:03:47.920
  NADH is the reduced version of that molecule and NAD plus is the oxidized version. And so in a system where you have, well,
 
-1:03:47.920 --> 1:03:50.760
+1:03:47.920 --> 1:03:50.780
  where a lot of things are oxidized, too many things are oxidized,
 
-1:03:50.760 --> 1:03:54.440
+1:03:50.780 --> 1:03:54.460
  that's called oxidative stress. And so, um,
 
-1:03:55.160 --> 1:03:57.960
+1:03:55.180 --> 1:03:57.980
  in, in the NAD system, if you had oxidative stress,
 
-1:03:57.960 --> 1:04:01.360
+1:03:57.980 --> 1:04:01.380
  you'd have too much NAD plus and not enough NADH,
 
-1:04:01.360 --> 1:04:06.100
+1:04:01.380 --> 1:04:06.120
  but what you see in most obese and diabetic humans is the opposite. You have too much NADH and not enough NADH, but what you see in most obese and diabetic humans is the opposite.
 
-1:04:06.100 --> 1:04:08.600
+1:04:06.120 --> 1:04:08.520
  You have too much NADH and not enough NAD+.
 
-1:04:10.840 --> 1:04:14.760
- And that lack of NAD plus is called reductive stress.
+1:04:10.880 --> 1:04:14.760
+ And that lack of NAD plus is called reductive stress,
 
 1:04:14.760 --> 1:04:16.040
- And it is a real problem.
+ and it is a real problem.
 
 1:04:16.040 --> 1:04:21.040
  And one of the ways that you can get oxidative stress is,
@@ -2391,7 +2385,7 @@ WEBVTT
 1:04:31.920 --> 1:04:37.640
  that ends up driving this huge amount of reactive oxygen species coming out of
 
-1:04:37.640 --> 1:04
+1:04:37.640 --> 1:04:45.000
  your mitochondria because like complex 5 is acetylated and it stops working efficiently.
 
 1:04:45.320 --> 1:04:49.680
@@ -2415,10 +2409,10 @@ WEBVTT
 1:05:04.420 --> 1:05:07.040
  are trying to run through the electron transport chain
 
-1:05:07.040 --> 1:05
+1:05:07.040 --> 1:05:08.000
  and they can't do it.
 
-1:05 --> 1:05:11.840
+1:05:08.000 --> 1:05:11.840
  And so they're coming back out as reactive oxygen species.
 
 1:05:11.840 --> 1:05:15.520
@@ -2454,10 +2448,10 @@ WEBVTT
 1:05:59.240 --> 1:06:04.240
  at a very high rate, excess site rate, for example,
 
-1:06:04.560 --> 1:06:09.040
+1:06:04.560 --> 1:06:09.000
  will uncouple and become wasteful use of oxygen
 
-1:06:09.040 --> 1:06:10.440
+1:06:09.000 --> 1:06:10.440
  and fuel.
 
 1:06:10.440 --> 1:06:20.800
@@ -2466,10 +2460,10 @@ WEBVTT
 1:06:20.800 --> 1:06:22.720
  species production.
 
-1:06:22.720 --> 1:06
+1:06:22.720 --> 1:06:26.000
  It gets rid of the dangerous electrons.
 
-1:06 --> 1:06:29.820
+1:06:26.000 --> 1:06:29.820
  It gets rid of the harm of reductive stress.
 
 1:06:31.680 --> 1:06:36.680
@@ -2562,7 +2556,7 @@ WEBVTT
 1:08:37.320 --> 1:08:40.320
  For example, there's an alternative explanation
 
-1:08:40.320 --> 1:08
+1:08:40.320 --> 1:08:45.000
  for why the SCD enzyme is affected by PUFA
 
 1:08:45.360 --> 1:08:50.360
@@ -2604,16 +2598,16 @@ WEBVTT
 1:09:21.720 --> 1:09:24.300
  And they're saying it's, well, therefore,
 
-1:09:24.300 --> 1:09:29.040
+1:09:24.300 --> 1:09:28.960
  it's because they eat more saturated fat, right? They're saying that that's what made them fat. And that is a
 
-1:09:29.040 --> 1:09:37.200
+1:09:28.960 --> 1:09:37.120
  completely inside out convoluted way of looking at it. And we can't do that if we're going to be
 
-1:09:37.200 --> 1:09:43.760
+1:09:37.120 --> 1:09:43.680
  right. But the, I mean, the, the evidence is quite clear that one of the major changes in the 20th
 
-1:09:43.760 --> 1:09:50.360
+1:09:43.680 --> 1:09:50.360
  century, along with the increased consumption of seed oils, has been an increase in the adipose content of
 
 1:09:50.360 --> 1:09:52.440
@@ -2623,7 +2617,7 @@ WEBVTT
  Eating polyunsaturated does not increase the amount of saturated fat that the body stores.
 
 1:09:57.800 --> 1:09:58.800
- If it did, then Brad—
+ If it did, then Bradâ€”
 
 1:09:58.800 --> 1:09:59.800
  Oh, it does.
@@ -2635,7 +2629,7 @@ WEBVTT
  Relatively, though.
 
 1:10:01.800 --> 1:10:03.640
- If it did—not relatively so at all.
+ If it didâ€”not relatively, so at all.
 
 1:10:03.640 --> 1:10:07.880
  If it did have that effect, then Brad wouldn't have the problem with his pigs of having soft fat
@@ -2646,7 +2640,7 @@ WEBVTT
 1:10:14.240 --> 1:10:16.600
  storage of all in saturated fats
 
-1:10:17.040 --> 1:10:23.560
+1:10:17.040 --> 1:10:23.520
  So look you take a look at the the composition of human adipose tissue through the past hundred years
 
 1:10:24.120 --> 1:10:30.920
@@ -2655,14 +2649,14 @@ WEBVTT
 1:10:30.920 --> 1:10:36.440
  have more saturated fat now than we did in the past compared to monounsaturated fat.
 
-1:10:36.440 --> 1:10:48.520
- And yes, you are, Tucker and Brad, you are both correct that now we have more melty fat, we have more PUFA in our fat,
+1:10:36.440 --> 1:10:47.480
+ And yes, you are, Tucker and Brad, you are both correct that now we have a low, we have more melty fat, we have more
 
-1:10:48.520 --> 1:10:53.320
- but as a way to protect against that, the body has no choice how much PUFA is going
+1:10:47.480 --> 1:10:53.080
+ PUFA in our fat, but as a way to protect against that, the body has no choice how much PUFA
 
-1:10:53.320 --> 1:10:55.800
- to end up in the adipose tissue, right?
+1:10:53.080 --> 1:10:55.800
+ is going to end up in the adipose tissue, right?
 
 1:10:55.800 --> 1:10:58.960
  That's just a reflection of the diet.
@@ -2671,21 +2665,21 @@ WEBVTT
  We can't change a polyunsaturated fat into a monounsaturated fat.
 
 1:11:03.520 --> 1:11:07.020
- We have no capacity to do that.
+ We have no, we have no capacity to do that.
 
 1:11:07.020 --> 1:11:08.100
  But we can change sugar.
 
-1:11:08.100 --> 1:11:09.580
+1:11:08.100 --> 1:11:09.420
  We do actually.
 
-1:11:09.580 --> 1:11:12.140
+1:11:09.420 --> 1:11:12.140
  That does in fact happen.
 
-1:11:12.140 --> 1:11:14.980
+1:11:12.140 --> 1:11:14.940
  All of the evidence I've seen is that there's definitely.
 
-1:11:14.980 --> 1:11:16.700
+1:11:14.940 --> 1:11:16.700
  But not to a big degree if it does.
 
 1:11:16.700 --> 1:11:19.740
@@ -2697,11 +2691,8 @@ WEBVTT
 1:11:23.980 --> 1:11:24.820
  So I need to touch it.
 
-1:11:24.820 --> 1:11
- Well we've assessed because we've overwhelmed our regulatory mechanism. in body fat, polyunsaturated fat as well. So I need to touch this.
-
-1:11 --> 1:11:28.440
- We've overwhelmed our regulatory mechanism.
+1:11:24.820 --> 1:11:28.440
+ Well we've assessed because we've overwhelmed our regulatory mechanism.
 
 1:11:28.440 --> 1:11:30.720
  Yeah, I would say there's a lot of evidence out there
@@ -2709,8 +2700,11 @@ WEBVTT
 1:11:30.720 --> 1:11:35.720
  that in obesity and diabetes,
 
-1:11:35.880 --> 1:11:40.880
- the ratio of monounsaturated fat to saturated fat increases.
+1:11:35.880 --> 1:11:38.600
+ the ratio of monounsaturated fat
+
+1:11:38.600 --> 1:11:40.920
+ to saturated fat increases.
 
 1:11:42.760 --> 1:11:44.600
  There's, if you look up.
@@ -2736,7 +2730,7 @@ WEBVTT
 1:12:19.240 --> 1:12:20.240
  Right.
 
-1:12:20.240 --> 1:12
+1:12:20.240 --> 1:12:25.000
  And yeah, it looks to me like average Americans now have
 
 1:12:25.200 --> 1:12:30.200
@@ -2751,10 +2745,10 @@ WEBVTT
 1:12:35.840 --> 1:12:39.040
  was something like 36% total saturates.
 
-1:12:39.040 --> 1:12:41.600
+1:12:39.040 --> 1:12:41.620
  And if you look at obese people now,
 
-1:12:41.600 --> 1:12:46.460
+1:12:41.620 --> 1:12:46.460
  it's something like, you know, 25 to 28% total saturates.
 
 1:12:48.180 --> 1:12:53.180
@@ -2776,7 +2770,7 @@ WEBVTT
  that our physiology can really make a big impact on.
 
 1:13:05.280 --> 1:13:13.440
- We can easily turn a saturated fatty acid into a monounsaturated fatty acid, and we have stopped
+ We can easily turn a saturated fatty acid into a monounsaturated fatty acid. And we have stopped
 
 1:13:13.440 --> 1:13:20.240
  doing that because we need to stop doing that because we have so much PUFA. So the ratio of
@@ -2793,16 +2787,16 @@ WEBVTT
 1:13:34.600 --> 1:13:40.320
  So we're trying to leave more, relatively more, we're trying to leave relatively more
 
-1:13:40.320 --> 1:13:45.100
+1:13:40.320 --> 1:13:45.120
  of the saturates in our body fat because they will keep it more solid.
 
-1:13:45.100 --> 1:13:50.360
+1:13:45.120 --> 1:13:50.380
  And if we were to desaturate that and have as much monounsaturated fat as we, you know,
 
-1:13:50.360 --> 1:13:55.180
+1:13:50.380 --> 1:13:55.200
  we really ideally would want to, because that's the preferred fuel for mitochondria of the
 
-1:13:55.180 --> 1:14:01.560
+1:13:55.200 --> 1:14:01.560
  three types, then we would have too much melty fat.
 
 1:14:01.560 --> 1:14:06.900
@@ -2823,11 +2817,11 @@ WEBVTT
 1:14:17.320 --> 1:14:19.740
  and the total saturated.
 
-1:14:19.740 --> 1:14:21.220
+1:14:19.740 --> 1:14:21.540
  Right, and that definitely happens.
 
-1:14:21.220 --> 1:14:27.200
- There is, so polyunsaturated fat at certain levels
+1:14:21.540 --> 1:14:27.200
+ So polyunsaturated fat at certain levels
 
 1:14:27.200 --> 1:14:32.200
  absolutely does suppress the SCD1 enzyme,
@@ -2862,10 +2856,10 @@ WEBVTT
 1:15:06.680 --> 1:15:09.840
  Were you talking specifically about adipose?
 
-1:15:11.040 --> 1:15:11.880
+1:15:09.840 --> 1:15:10.680
  Or was it?
 
-1:15:11.880 --> 1:15:13.920
+1:15:10.680 --> 1:15:13.920
  I was talking specifically about adipose, yes.
 
 1:15:13.920 --> 1:15:18.920
@@ -2874,17 +2868,23 @@ WEBVTT
 1:15:19.480 --> 1:15:21.440
  I mean, the big picture is that
 
-1:15:23.560 --> 1:15:26.520
- I think we should try to come to agreement as to whether
+1:15:23.560 --> 1:15:25.440
+ I think we should try to come to
 
-1:15:26.520 --> 1:15:31.240
- or not oxidative stress is a bigger issue than reductive stress. And I come down on
+1:15:25.440 --> 1:15:28.320
+ agreement as to whether or not oxidative stress is a bigger
 
-1:15:31.240 --> 1:15:36.460
- the side of oxidative stress is clearly the problem. And I don't know where the reductive
+1:15:28.320 --> 1:15:31.720
+ issue than reductive stress. And I come down on the side of
 
-1:15:36.460 --> 1:15:46.800
- stress would be coming from these days, honestly. So, but I think if we can't agree on that, then we need to try to, because we have to
+1:15:31.760 --> 1:15:35.920
+ oxidative stress is clearly the problem. And I don't know where
+
+1:15:35.920 --> 1:15:38.600
+ the reductive stress would be coming from these days,
+
+1:15:38.760 --> 1:15:46.800
+ honestly. So but I think if we can't agree on that, then we need to try to, because we have to
 
 1:15:46.800 --> 1:15:47.800
  pick one.
@@ -3039,7 +3039,7 @@ WEBVTT
 1:17:51.200 --> 1:17:55.760
  suggest that's true. No, that's not what the suggestion would be. That is a fallacy. So
 
-1:17:58.160 --> 1:18
+1:17:58.160 --> 1:18:05.000
  you have to understand that antioxidants, the term is so misused.
 
 1:18:06.400 --> 1:18:09.600
@@ -3126,14 +3126,14 @@ WEBVTT
 1:19:47.860 --> 1:19:56.680
  stress, you lose that function of vitamin C. You lose the oxidative
 
-1:19:56.680 --> 1:20:07.760
- function of vitamin C when the cell goes wrong and goes into reductive stress. I'm sure there's a lot of consequences. Can we just say that
+1:19:56.680 --> 1:20:05.440
+ function of vitamin C when the cell goes wrong and goes reductive stress. I'm sure there's a lot of consequences.
 
-1:20:08.800 --> 1:20
- if you do anything which disables the electron transport chain, you are not going to be able to
+1:20:15.760 --> 1:20:16.640
+ Can we just say that if you do anything which disables the electron transport chain,
 
 1:20:30.880 --> 1:20:37.920
- convert NADH in bulk to NAD+. So you will, however you damage the electron transport chain, you will end up with reductive stress. Whether you are damaging the electron transport
+ you are not going to be able to convert NADH in bulk to NAD+. So you will, however you damage the electron transport chain, you will end up with reductive stress. Whether you are damaging the electron transport
 
 1:20:37.920 --> 1:20:48.640
  chain with reactive oxygen species or by acetylating it or by adding ROS-derived polyunsaturated fatty acids to
@@ -3186,14 +3186,14 @@ WEBVTT
 1:21:54.700 --> 1:21:58.300
  in the regulatory system that's balancing those two processes.
 
-1:21:58.300 --> 1:22:00.340
+1:21:58.300 --> 1:22:00.660
  Is that fair to say?
 
-1:22:00.340 --> 1:22:01.340
+1:22:00.660 --> 1:22:02.160
  Yep.
 
-1:22:01.340 --> 1:22:09.040
- And Dr. Pete, you're, in your opinion, part of that, what's going on there, is that you're not
+1:22:02.160 --> 1:22:09.040
+ And Dr. P, you're, in your opinion, part of that, what's going on there, is that you're not
 
 1:22:09.040 --> 1:22:11.120
  burning enough glucose.
@@ -3204,13 +3204,13 @@ WEBVTT
 1:22:13.120 --> 1:22:14.120
  Right.
 
-1:22:14.120 --> 1:22
+1:22:14.120 --> 1:22:27.000
  I wrote a couple of newsletters on late 19th century experimenters with treating diabetes with huge amounts of sugar.
 
-1:22 --> 1:22
+1:22:27.000 --> 1:22:37.000
  What it's doing essentially is shifting the Randall cycle, lowering free fatty acids,
 
-1:22 --> 1:22:49.200
+1:22:37.000 --> 1:22:49.200
  stopping the interference with glucose oxidation, lowering fat production and lactic acid production, and getting respiration going.
 
 1:22:51.760 --> 1:22:56.960
@@ -3220,13 +3220,10 @@ WEBVTT
  and we're going to convince scientists as to the validity of it, one of the things that we're going to have to explain better than I think we
 
 1:23:06.880 --> 1:23:17.280
- have is that PUFA consumption is not a linear process, that you take a small amount and it has
+ have is that PUFA consumption is not a linear process. That you take a small amount and it has
 
-1:23:17.280 --> 1:23:22.960
- little effect on obesity, and then you take a large amount and it also has little effect of obesity.
-
-1:23:23.680 --> 1:23:26.840
- large amount and it also has little effect of obesity. And if you take a large amount in a ketogenic diet,
+1:23:17.280 --> 1:23:26.840
+ little effect on obesity, and then you take a large amount and it also has little effect of obesity. And if you take a large amount in a ketogenic diet,
 
 1:23:26.840 --> 1:23:30.920
  then it's actually seems to be beneficial
@@ -3234,17 +3231,17 @@ WEBVTT
 1:23:30.920 --> 1:23:34.480
  from a solely obesogenic standpoint.
 
-1:23:34.480 --> 1:23:35.840
- Dr. Pete, do you have any thoughts
+1:23:34.480 --> 1:23:37.300
+ Dr. Pete, do you have any thoughts on what's going on
 
-1:23:35.840 --> 1:23:38.480
- on what's going on with that process?
+1:23:37.300 --> 1:23:38.520
+ with that process?
 
-1:23:38.480 --> 1:23:40.920
- Because I've already seen there's a study
+1:23:38.520 --> 1:23:42.520
+ Because I've already seen there's a study that came out
 
-1:23:40.920 --> 1:23:49.760
- that came out by John Speakman in 2018 where he looked at fat causing
+1:23:42.520 --> 1:23:49.760
+ by John Speakman in 2018 where he looked at fat causing
 
 1:23:49.760 --> 1:23:56.840
  obesity compared to protein and glucose and you know he saw this clear pattern
@@ -3267,16 +3264,16 @@ WEBVTT
 1:24:13.960 --> 1:24:18.960
  of either fat or glucose, you're sparing protein.
 
-1:24:19.680 --> 1:24:23.520
+1:24:18.960 --> 1:24:23.540
  You're not oxidizing protein for energy.
 
 1:24:24.480 --> 1:24:27.440
- You're suppressing protein metabolism and
+ Suppressing protein metabolism and
 
-1:24:29.040 --> 1:24
+1:24:29.040 --> 1:24:38.000
  an excess of protein is a big problem that blocks thyroid function and oxidative metabolism,
 
-1:24 --> 1:24:41.120
+1:24:38.000 --> 1:24:41.120
  for example, and contributes to aging.
 
 1:24:41.480 --> 1:24:45.840
@@ -3301,7 +3298,7 @@ WEBVTT
  ketogenesis and hypoinsulinemia or whether it's purely driven by the extremely low levels of
 
 1:25:16.880 --> 1:25:26.760
- protein in the diet. So from what Dr. Peat was saying, protein levels matter, and the standard ketogenic diet model
+ protein in the diet. So, from what Dr. Peat was saying, protein levels matter, and the standard ketogenic diet model
 
 1:25:27.980 --> 1:25:32.060
  for rodent studies is massively hypoproteinemic.
@@ -3330,61 +3327,76 @@ WEBVTT
 1:26:08.240 --> 1:26:09.520
  bit. Oh, the chylomicrons? No, I'm just, what on earth is the biochemical component?
 
-1:26:16.400 --> 1:26
- Not carnitine, not carnosine, there's a ... it's gone now, it's not going to come back, but they make it deficient in F366, so the liver cells can't export chylomicrons or VLDLs, rather, so you end up with an accumulation
+1:26:16.400 --> 1:26:25.000
+ Not carnitine, not carnosine, there's a ... it's gone now, it's not going to come back, but they make it deficient in F366, so the liver cells can't export chylomicrons or VLDLs,
 
-1:26 --> 1:26:38.440
- of triglycerides in the liver cells, which again is used to bump up the metabolism to
+1:26:25.160 --> 1:26:28.280
+ rather, so you end up with the,
 
-1:26:38.440 --> 1:26:39.440
- ketones.
+1:26:28.280 --> 1:26:33.280
+ so you end up with an accumulation of triglycerides
 
-1:26:39.440 --> 1:26:45.260
- But if you supplement with, hang on a second,
+1:26:33.720 --> 1:26:35.800
+ in the liver cells, which again,
+
+1:26:35.800 --> 1:26:39.000
+ is used to bump up the metabolism to ketones.
+
+1:26:39.000 --> 1:26:44.000
+ So, but if you supplement with, hang on a second,
+
+1:26:45.260 --> 1:26:46.100
+ it's on my desk.
 
 1:26:46.100 --> 1:26:46.940
- it's on my desk. Is it bile acid?
+ Is it bile acid?
 
 1:26:46.940 --> 1:26:47.780
  Barnitine?
 
-1:26:47.780 --> 1:26:49.580
- No, no, no, no.
+1:26:47.780 --> 1:26:48.600
+ No.
 
-1:26:50.660 --> 1:26:52.140
+1:26:48.600 --> 1:26:49.440
+ No, no, no.
+
+1:26:50.660 --> 1:26:52.120
  Choline, choline.
 
-1:26:52.140 --> 1:26:53.380
+1:26:52.120 --> 1:26:53.360
  Choline, right, of course.
 
-1:26:53.380 --> 1:26:56.100
+1:26:53.360 --> 1:26:56.080
  And that's why choline deficiency causes fatty acid.
 
-1:26:56.100 --> 1:26:58.640
- Choline deficiency, which means you can't export fats
+1:26:56.080 --> 1:26:56.920
+ Choline deficiency.
 
-1:26:58.640 --> 1:27:00.060
- from liver cells.
+1:26:56.920 --> 1:26:57.760
+ Fatty liver.
+
+1:26:57.760 --> 1:27:00.060
+ Which means you can't export fats from liver cells.
 
 1:27:00.060 --> 1:27:01.580
  Right, right, right, right, right.
 
 1:27:01.580 --> 1:27:02.400
- Hence, it's key to you.
+ Hence it's key to you.
 
-1:27:02.400 --> 1:27:05.320
+1:27:02.400 --> 1:27:05.300
  So it's a bit of a nightmare for trying to,
 
-1:27:06.900 --> 1:27:08.740
+1:27:06.880 --> 1:27:08.740
  come back to what Dr. Peet said,
 
 1:27:08.740 --> 1:27:12.240
  was that you could be looking at the effect
 
-1:27:12.240 --> 1:27:14.100
+1:27:12.240 --> 1:27:14.080
  of not metabolizing protein.
 
-1:27:14.100 --> 1:27:16.580
+1:27:14.080 --> 1:27:16.600
  This is, so,
 
 1:27:19.420 --> 1:27:20.720
@@ -3405,34 +3417,37 @@ WEBVTT
 1:27:36.120 --> 1:27:42.960
  Then it doesn't, you can basically take Bioserve and add choline to it and no fatty liver.
 
-1:27:42.960 --> 1:27:48.080
+1:27:42.960 --> 1:27:48.160
  So it's another non-physiological model for humans, effectively.
 
-1:27:48.080 --> 1:27:52.560
- Yes. This discussion has been fascinating, and there's so much things to think about,
+1:27:48.160 --> 1:27:52.560
+ Yes. This discussion has been fascinating and there's so much things to think about,
 
-1:27:52.560 --> 1:27:57.760
- but I do want to give our audience kind of a wrap-up question for each of you to tackle briefly.
+1:27:52.560 --> 1:27:57.840
+ but I do want to give our audience kind of a wrap up question for each of you to tackle briefly.
 
-1:27:57.760 --> 1:28:01.840
- It's just kind of, I always like to make this, there's a lot of weeds we get into,
+1:27:57.840 --> 1:28:02.080
+ It's just kind of, I always like to make this, there's a lot of weeds we get into it and I
 
-1:28:01.840 --> 1:28:08.880
- and I wanted that to happen. I want people to get into the nitty-gritty, and then for those who, you know, they still
+1:28:02.080 --> 1:28:05.840
+ wanted that to happen. I want people to get into the nitty-gritty.
 
-1:28:08.880 --> 1:28:11.400
- want to know, okay, so what do you do about that?
+1:28:05.840 --> 1:28:11.240
+ And then for those who, you know, they still want to know, okay, so what do you do about
 
-1:28:11.400 --> 1:28:17.560
+1:28:11.240 --> 1:28:12.240
+ that?
+
+1:28:12.240 --> 1:28:17.580
  We've all explored different explanations as to why these seed oils and high PUFA products
 
-1:28:17.560 --> 1:28:19.920
+1:28:17.580 --> 1:28:19.960
  are linked to the rise of obesity.
 
-1:28:19.920 --> 1:28:24.720
+1:28:19.960 --> 1:28:24.760
  We've explained different theories about what's happening there.
 
-1:28:24.720 --> 1:28:26.600
+1:28:24.760 --> 1:28:26.600
  You're not going to settle everything today, of course,
 
 1:28:26.600 --> 1:28:30.400
@@ -3454,7 +3469,7 @@ WEBVTT
  for why they've gotten it wrong on these PUFA topics?
 
 1:28:43.480 --> 1:28:45.600
- But that's for another time. Oh, that's…
+ But that's for another time. Oh, that'sâ€¦
 
 1:28:45.600 --> 1:28:46.960
  Yeah, go ahead. What's that?
@@ -3465,14 +3480,14 @@ WEBVTT
 1:28:54.800 --> 1:29:01.360
  School of Public Health, in which they show that the most fascinating, the most fattening food
 
-1:29 --> 1:29
+1:29:02.000 --> 1:29:08.000
  by several fold is potatoes fried in seed oils. And then
 
-1:29 --> 1:29:14.160
+1:29:08.000 --> 1:29:14.160
  they turned around and tried to hide the fact, but their own data shows that seed
 
 1:29:14.160 --> 1:29:19.840
- oils are obesogenic, and if you compare in humans a potato fried in butter or a
+ oils are obesogenic and if you compare in humans a potato fried in butter or a
 
 1:29:19.840 --> 1:29:27.080
  potato boiled to a potato fried in seed oils, they're not obesogenic, which kind of comes back to,
@@ -3480,16 +3495,16 @@ WEBVTT
 1:29:27.080 --> 1:29:30.140
  you know, Dr. Pete's fondness for glucose.
 
-1:29:30.140 --> 1:29:32.500
+1:29:30.140 --> 1:29:32.480
  Glucose alone isn't a problem, it's only a problem
 
-1:29:32.500 --> 1:29:35.280
+1:29:32.480 --> 1:29:35.280
  when it's accompanied with massive amounts of seed oils.
 
-1:29:35.280 --> 1:29:39.540
+1:29:35.280 --> 1:29:39.520
  So yeah, that would be a very short presentation, I think.
 
-1:29:39.540 --> 1:29:41.200
+1:29:39.520 --> 1:29:41.200
  I'd say, here's your paper, guys.
 
 1:29:41.200 --> 1:29:42.040
@@ -3501,10 +3516,10 @@ WEBVTT
 1:29:48.600 --> 1:29:54.640
  A single meal feeding study which looked at how much you ate before you stopped, which
 
-1:29:54.640 --> 1:30:04.100
- compared their only saturated fat one was potato as opposed to the potatoes in Pufa
+1:29:54.640 --> 1:30:04.120
+ compared â€¦ their only saturated fat one was potato as opposed to the potatoes in Pufa
 
-1:30:04.100 --> 1:30:07.480
+1:30:04.120 --> 1:30:07.480
  were what we call chips. what do you call them,
 
 1:30:07.480 --> 1:30:08.560
@@ -3535,7 +3550,7 @@ WEBVTT
  diets, the SIRWIT diet, that if you blocked the effect of the oxidative products of the small amount of linoleic acid in that diet, right? The HNE, the
 
 1:30:48.400 --> 1:30:54.400
- toxin that dysregulates the Randall cycle and causes fat production. If you
+ toxin that dysregulates the Randall cycle and causes fat production, if you
 
 1:30:54.400 --> 1:31:00.220
  blocked that process, then you blocked obesity. And that's a diet with a very,
@@ -3600,10 +3615,10 @@ WEBVTT
 1:32:13.240 --> 1:32:14.080
  Peter?
 
-1:32 --> 1:32:20.080
+1:32:16.000 --> 1:32:20.080
  I've got two points I would leave it with.
 
-1:32:20.080 --> 1:32
+1:32:20.080 --> 1:32:25.000
  One is that, oh God, it's gonna go more than two points.
 
 1:32:25.320 --> 1:32:30.320
@@ -3651,28 +3666,31 @@ WEBVTT
 1:33:05.400 --> 1:33:07.200
  That would be years, right, before you could eat high-
 
-1:33:07.200 --> 1:33:10.200
+1:33:07.200 --> 1:33:10.160
  That's why you should start with low carb.
 
-1:33:10.200 --> 1:33:15.520
+1:33:10.160 --> 1:33:15.480
  And then sidestep the problem to begin with while you sort out the problem that you've
 
-1:33:15.520 --> 1:33:16.520
+1:33:15.480 --> 1:33:16.480
  got.
 
-1:33:16.520 --> 1:33:21.480
+1:33:16.480 --> 1:33:21.480
  Okay, I think that those two points, I'll leave it at those two.
 
 1:33:21.480 --> 1:33:27.640
  Dr. Kate? Dr. Kate Connolly So, as you see, I have this summarized on
 
-1:33:27.640 --> 1:33:33.200
- my Twitter profile, seed oils are death and deep nutrition is life.
+1:33:27.640 --> 1:33:29.440
+ my Twitter profile.
 
-1:33:33.200 --> 1:33:40.200
+1:33:29.440 --> 1:33:33.200
+ Seed oils are death and deep nutrition is life.
+
+1:33:33.200 --> 1:33:40.240
  Deep nutrition is what every traditional diet around the country does to some extent still,
 
-1:33:40.200 --> 1:33:48.520
+1:33:40.240 --> 1:33:48.520
  but used to do. And we didn't have access to refined, it gets out the refined carbohydrates
 
 1:33:48.520 --> 1:33:56.520
@@ -3693,10 +3711,10 @@ WEBVTT
 1:34:20.220 --> 1:34:24.040
  Processed protein powders are also extremely unhealthy
 
-1:34:24.720 --> 1:34:26.280
+1:34:24.720 --> 1:34:26.260
  and Processed protein powders are also extremely unhealthy and
 
-1:34:26.280 --> 1:34:31.720
+1:34:26.260 --> 1:34:31.720
  Because the processed and body is there partly a lot of the nutrition in there is destroyed
 
 1:34:31.720 --> 1:34:35.360
@@ -3717,10 +3735,10 @@ WEBVTT
 1:34:51.480 --> 1:34:59.520
  I mean, you can clearly fix the problem just by lowering seed oils, but what seed oils
 
-1:34:59.520 --> 1:35
+1:34:59.520 --> 1:35:04.000
  induces is an inability to properly process carbohydrates.
 
-1:35 --> 1:35:06.360
+1:35:04.000 --> 1:35:06.360
  So clearly the most effective way to do it
 
 1:35:06.360 --> 1:35:07.580
@@ -3735,35 +3753,32 @@ WEBVTT
 1:35:14.760 --> 1:35:16.660
  I will say the other thing,
 
-1:35:19.160 --> 1:35
+1:35:19.160 --> 1:35:21.000
  my initial kind of hack for this,
 
-1:35 --> 1:35:22.360
+1:35:21.000 --> 1:35:22.360
  and I still agree with this,
 
 1:35:22.360 --> 1:35:26.800
  is to, obviously, one, stop eating seed oils or other sources of omega for this, and I still agree with this, is to obviously, one, stop eating seed oils or other
 
-1:35:27.440 --> 1:35:31.760
+1:35:27.440 --> 1:35:31.680
  sources of omega-6, including things like commercial chicken and pork, which can be
 
-1:35:31.760 --> 1:35:38.800
+1:35:31.680 --> 1:35:38.800
  surprisingly high sources, and actually seek out foods that have a lot of stearic acid in them.
 
-1:35:39.520 --> 1:35:46.960
- The reason for that is that, well, there was a paper showing that supplementing stearic acid will,
+1:35:39.440 --> 1:35:46.980
+ And the reason for that is that, well, there was a paper showing that supplementing stearic acid will,
 
-1:35:46.960 --> 1:35:49.560
- in fact, increase your rate of fat oxidation.
+1:35:46.980 --> 1:35:51.880
+ in fact, increase your rate of fat oxidation. And I think that's, I have a guess as to why
 
-1:35:49.560 --> 1:35:54.260
- And I think that's, I have a guess as to why this is.
+1:35:51.880 --> 1:36:00.380
+ this is. When you look at humans or animals that are doing lipogenesis, new fat making,
 
-1:35:54.260 --> 1:36:00.480
- When you look at humans or animals that are doing lipogenesis, new fat making, what you
-
-1:36:00.480 --> 1:36:05.080
- see is they tend to have a lot of PUFA, they tend to have a lot of POOPA. They tend to have a lot of
+1:36:00.380 --> 1:36:05.080
+ what you see is they tend to have a lot of PUFA, they tend to have a lot of POOPA. They tend to have a lot of
 
 1:36:05.760 --> 1:36:10.600
  Mono unsaturated fat and what they have very very little of is is stearic acid
@@ -3783,19 +3798,19 @@ WEBVTT
 1:36:37.260 --> 1:36:42.260
  I think emphasis on body temperature should be greater.
 
-1:36:44.480 --> 1:36:48.840
+1:36:44.480 --> 1:36:48.680
  The proof of lower your body temperature and turn on all of
 
-1:36:48.840 --> 1:36
+1:36:48.680 --> 1:36:55.000
  the inflammatory things that tend to keep your temperature down and the
 
-1:36 --> 1:37:09.680
+1:36:55.000 --> 1:37:09.680
  paying attention to the digestive and circulatory events when you eat polyunsaturated fats or too much protein.
 
 1:37:09.680 --> 1:37:17.520
  The PUFA is already right in the bloodstream, turning down your metabolic rate by blocking
 
-1:37:17.520 --> 1:37
+1:37:17.520 --> 1:37:25.000
  thyroid transport and function, and by activating the stress-related estrogen functions.
 
 1:37:28.520 --> 1:37:31.460
@@ -3828,7 +3843,7 @@ WEBVTT
 1:38:32.920 --> 1:38:38.720
  and PETA, it'll come up as the first hit. And Dr. Kate, where can people find your work
 
-1:38:38.720 --> 1:38
+1:38:38.720 --> 1:38:45.000
  or anything you want to leave with? Well, it's drkate.com and there's plenty of information Dr. Kate D-R-C-A-T-E dot com.
 
 1:38:46.800 --> 1:38:49.560
@@ -3864,10 +3879,10 @@ WEBVTT
 1:39:20.900 --> 1:39:23.160
  90% sure that's my correct Twitter handle.
 
-1:39:24.600 --> 1:39:27.640
+1:39:24.600 --> 1:39:27.520
  Dr. P, do you have a website or newsletter?
 
-1:39:27.640 --> 1:39:37.080
+1:39:27.520 --> 1:39:37.080
  Our newsletter is at RayPete's Newsletter, gmail.com, and the website is raypete.com.
 
 1:39:37.080 --> 1:39:38.080
@@ -3876,36 +3891,26 @@ WEBVTT
 1:39:38.080 --> 1:39:40.720
  It's been a real honor to listen to all of you today.
 
-1:39:40.720 --> 1:39:45.900
+1:39:40.720 --> 1:39:45.920
  Wow, what a great time of discussion and learning, and I know our audience is going
 
-1:39:45.900 --> 1:39:52.240
+1:39:45.920 --> 1:39:52.240
  to be really thrilled to just see these types of mechanisms explored. This is something
 
 1:39:52.240 --> 1:39:55.820
  that you don't see happening in academia. I can assure you that. There's nobody doing
 
-1:39:55.820 --> 1:40:01.340
+1:39:55.820 --> 1:40:01.360
  this right now in universities having a kind of symposium about seed oil mechanisms. So,
 
-1:40:01.340 --> 1:40:07.200
- this is the future of academia in the 21st century. It's online now. So thank you all,
+1:40:01.360 --> 1:40:07.760
+ this is the future of academia in the 21st century. It's online now. So thank you all
 
-1:40:07.200 --> 1:40:12.320
- thank you all very much for joining me and it's been a real treat. So thanks again.
+1:40:07.760 --> 1:40:13.200
+ very much for joining me and it's been a real treat. So thanks again. Thank you, David. Yeah,
 
-1:40:12.320 --> 1:40:13.040
- Thank you, David.
-
-1:40:13.040 --> 1:40:15.760
- Yeah, thank you very much, everybody. Thanks, David.
-
-1:40:15.760 --> 1:40:16.800
- Take care.
-
-1:40:16.800 --> 1:40:43.920
- Everybody. Bye for now.
+1:40:13.200 --> 1:40:43.920
+ thank you very much, everybody. Thanks, David. Take care. Everybody. Bye for now.
 
 1:40:42.230 --> 1:40:48.150
  Bye!
-
