@@ -1,0 +1,168 @@
+Lactate, metabolic regression,
+& political-medical implications
+Cellular differentiation: In an early embryo, cells
+are interchangeable, but aa it grows, cells indifferent locations progressively become morespecialized; this invol ves limiting the accessibility
+of DNA to the genes that are needed for makingthe proteins that are used for the specializedstructures and functions. The process by which acell becomes specialized in order to perform aspecific function, as in the case of a liver cell, ablood cell, or a neuron. There are more than 250general types of cells in the human body. 
+Dedifferentiation: The loss of specialized
+functions and structures by cells or tissues. Thiscan result from injury or stress, as during cellculture, or it can occur in an organized way whena cell experiences changes in its environment; forexample, an epithelial cell from a sheep’smammary gland dedifferentiated when it wasplaced in an ovum whose nucleus had beenremoved, giving it the ability to develop into the
+cloned sheep, Dolly.  
+ 
+Redifferentiation: Changing from one differenti-
+ated state to another differentiated state,sometimes following dedifferentiation to a stem
+cell-like state .
+By the 1960s, when I started studying biology
+at the university, the average person knew quite abit about lactic acid, such as the fact that adeficiency of vitamin B2 causes an excess oflactate to be produced, and that lactic acid cancause the growth of blood vessels in the corneasor whites of the eyes, but the medical profession
+was already relegating information of that sort tothe category of “lore,” not to be taken seriously.Observations of metabolic events seemed trivialcompared to the new discoveries about DNA. 
+Democratic ideologies rejected
+biological determinism, and arguedthat the nature of an organism isessentially influenced by the environ-ments that it interacts with.
+In 1970, in a talk at the university, Harry
+Rubin mentioned that he was hoping to discoverthe gene for the “angiogenic” factor (assumed tobe a protein) that supports the growth of cancer,and a year later, in Boston, Judah Folkmanannounced a similar research project, thatreceived huge financial support from industry,because of its great potential as a basis for a newkind of drug. In the last 16 years these angiogene-sis inhibitors have been worth tens of billions ofdollars to the drug industry, without a noticeablechange in cancer mortality—they forgot toconsider that normal tissues need to keep makingnew blood vessels. The protein they chose toblock, as well as several others with similar
+effects,  are proteins that are induced by lactate
+originating in the tumor, but relevant informationof this sort never appears in the news or inmedical journals.
+Before commercial interests began changing
+the culture to suit their needs, literate culturesgenerally supported the interests of those inpower by inculcating belief in the unchangeable-ness of human nature and the necessity of socialRay Peat's Newsletter
+Beware of paper biophysics.   Otto Warburg
+Copyright 2020        Raymond Peat  P.O. Box 5764  Eugene OR 97 405        September 2020
+Not for republication without written permission.hierarchy. As the study of biology advanced, the
+old cultural factions emphasized the eternal fixityof inherited traits, and joined forces with neweconomic interests to promote the doctrine ofgenetic determinism (Allen, 1997). At the sametime (late 19th to mid-20th century), democraticideologies rejected biological determinism, andargued that the nature of an organism is essen-tially influenced by the environments that it inter-acts with. 
+The determinists generally followed Descartes
+in seeing the body as a machine, but they arguedthat the machine could be completely explainedby its genes, and sometimes argued that the genescontrolled all its functions, making a soul or mindunnecessary. The dissenters from that view sawthe nature of life (and of existence in general) asan open question, to be answered by studying howit comes into being, how it functions, and whathappens during its survival and disintegration. 
+The futile “War on Cancer”
+looked for the cause of cancer inviruses and mutant genes, and deniedthat metabolism could be relevant.
+  
+Metabolism’s  essential meanings of change and
+interaction put it at the center of non-deterministbiological thinking, and cause the other, geneticand mechanistic, style of thinking to keep it in thebackground. Around 1950, powerful culturalforces (especially the US government) beganmassively supporting the genetic explanation foreverything, cutting support to those who contin-ued to explore the meaning of life in terms of itsenergy and metabolism. The futile “War onCancer” looked for the cause of cancer in virusesand mutant genes, and denied that metabolismcould be relevant. The Human Genome Projectand the application of genetic engineering tovirology, immunology, and other branches ofmedicine involved a similar belief in the irrele-vance of metabolism.
+Otto Warburg and Albert Szent-Gyorgyi
+shared a general view of life, in which simple lifeforms could be sustained by glycolysis (forminglactic acid), while oxidative metabolism, with itscapacity to extract many times more energy froma given amount of fuel, is necessary to produce
+and maintain more complex forms of life. Both ofthem understood cancer to involve a regression toa primitive form of energy metabolism,glycolysis, which produces lactic acid rather thancarbon dioxide. (When glycolysis occurs despitethe presence of oxygen, it’s called aerobicglycolysis.)
+Warburg showed that in cancer, cellular respi-
+ration fails to suppress the production of lacticacid, as it does in normal cells, and that cancercan develop as a result of prolonged oxygendeprivation (with the associated lactic acidproduction). He observed that anything (includingcarcinogenic chemicals and radiation) that inter-feres with oxidative metabolism can lead to a
+series of changes : inflammation, followed by
+fibrosis, followed by atrophy and death, orsometimes instead of cell death, some of the cellsbecome cancerous, losing their fixed identity as adifferentiated element of a specific kind of tissue,and regress, dedifferentiate, to a primitive lactate-producing metabolism with a tendency to migrateto new locations.
+Szent-Györgyi, ten years younger than
+Warburg, recognized the importance of his work,and began a long project of attempting to under-stand what it is about oxidative metabolism thatnot only suppresses the formation of lactic acid,but that accounts for the properties of differenti-ated life. He believed that it was the movement ofelectrons in the cell substance that animated cells,and that in the living state there are characteristicdifferences in the force with which the cellsubstance manages its electronic system. In theprimitive, dedifferentiated state, pyruvic acid isthe electron acceptor, turning into lactic acid, andin the fully differentiated state, oxygen is themore powerful electron acceptor, making possiblea more intense energy flow (through several inter-mediate steps), at higher voltage. 
+The ratio of lactate to pyruvate, as a
+reduction-oxidation pair, affects the ratio of allthe other reduction-oxidation pairs in the cell,such as NADH/NAD+ and reduced and oxidizedglutathione, GSH/GSSG. The sulfhydryl, -SH,groups on the cysteines of cellular proteinsbehave similarly, and when the balance shiftstoward oxidation, cysteine groups bond to each2other with -SS- links.  One implication of this is
+that an excess of lactate can reduce the organizedstructure of the cell, because some of thedisulfide, -SS-, groups in protein form rigidconnections within and between proteins, and theconversion of some of these to -SH groups willincrease the fluidity of the cytoplasm, at the sametime that the changes modify the function ofenzymes. Analogous sulfhydryl/disulfidereactions affect the viscosity of mucus and breaddough. 
+When the system is dominated by the more
+powerful electron acceptor, oxygen, complexstructures are stabilized—similar to the wayvacuum wrapping turns a loose powder into a firmlump. During excitation, or irritation or inflamma-tion, the cell reacts as if the vacuum seal werebroken, and the structure becomes looser, until theelectron acceptors can reestablish the electron-deficient state.
+Reproduction, beginning with the ovum,
+requires the same regressive metabolism, theproduction of lactic acid even when oxygen isavailable, that characterizes tumor metabolismand wound healing. The ovum itself requiresoxidative metabolism for its own energy produc-tion, but produces lactate to regulate proliferationand growth and to modify the surrounding tissues.During implantation of the ovum in the uterus,lactate released by the ovum helps to activate thecells in a small area on the uterus. When a womanisn’t pregnant, unopposed estrogen can causelactate to appear in the lining of the uterus,leading to endometriosis (Horne, et al., 2019).
+Starting with the structure of the ovum, there
+are metabolic gradients, differences in the degreeof oxidation and reduction, at all stages of devel-opment, and these differences in electron affinitycan be detected as electrical fields and currents.The importance of these gradients and fields inthe development of the organism, and in healingand regeneration, has been known since early inthe last century, but beginning in the 1950sresearch in these areas was defunded, in favor ofthe genetic determinist idea that there is ablueprint of the organism “in the genes,” and thatthis blueprint explains everything in growth,health, and sickness, and that medicine mustconcentrate on correcting errors in the blueprint.When the organism is understood as an
+on-going process of development, sustained byappropriate metabolic energy, rather than as apre-determined machine, the parallels between thegenerative process in the embryo and the healingprocesses in later life offer a guide to protectiveand therapeutic practice.
+The angiogenesis inhibitors
+produced huge profits for the drugindustry, without a noticeable changein cancer mortality—they forgot toconsider that normal tissues need tokeep producing new blood vessels.
+Dedifferentiated, stem-like cells, are created
+in areas of injury or chronic stress, where lacticacid is being formed. In the 1950s and ‘60s, L.V.Polezhaev showed that even mature neurons inthe brain are stimulated to divide by the presenceof injured, degenerating nerve cells. DanielMazia, Katsuma Dan, and others during the sameperiod were showing that the proteins responsiblefor cell division become highly reduced, showinga high concentration of - SH groups, in preparation
+for the cell cleavage leading to embryonic devel-opment, and others showed that glycolysis isneeded for this process. The structural proteins,microtubules, that form the “mitotic apparatus”that Dan and Mazia studied, are essential parts ofthe glycolytic system, working closely with theenzymes that produce lactate, and a reducingenvironment stabilizes them and supports theirfunction. 
+For example, the process that starts a process
+of inflammation, activation of the “inflamma-some,” is promoted by a reducing environment,
+and involves the formation of microtubules ;
+things that shift the balance toward oxidationdecrease inflammation and cause the microtubulesto dissolve. 
+The activated cells that produce and secrete
+lactate will transmit their regressed metabolicstate to neighboring cells along with the lactate,unless the lactate is diluted and carried away inthe blood. The amount of lactate in the blood, andthe ratio of lactate to pyruvate, affects themetabolism of all cells in the body. For example,3a more reduced state of the blood will cause the
+liver to convert lactate to glucose, an energeticallywasteful process that, while it lowers the amountof lactate, depletes the body’s energy reserves.The metabolism of every part of the body isaffected by the redox state of the blood (Nocito, etal., 2015).
+Activation of cells causes them to take up
+calcium from their environment, and lactate has abinding, chelating effect on calcium, keeping itinside cells. Exposing blood vessels to lactatecauses them to retain calcium (Zhu, et al., 2019;Yamaguchi, et al., 1984), which is itselfexcitatory, and prolonged and repeated lactateexposure promotes the synthesis of collagen, andthe retention of fatty acids and cholesterol,producing atherosclerosis. (Shantha, et al., 2013;Mongraw-Chaffin, et al., 2012)  Vascular smoothmuscle cells activated by lactate proliferate andmigrate, contributing to the formation of athero-sclerotic plaques (Kim, et al., 2017; Bennett, etal., 2016). Under the influence of lactate and theirnew surroundings, they take on new forms andfunctions.
+Recognizing that the ratio of
+lactate to pyruvate in the body fluidsaffects the redox balance of every cellin the body, and that this balanceaffects in a highly systematic way themetabolism and structure of all partsof the body, the value of knowingmore about lactate is evident.  
+More than 100 years ago extreme shock was
+known to suppress oxygen consumption; extremenerve stimulation was found to be part of thecause. A high level of lactate in the blood is anoutstanding feature of shock, and, since thediscovery that nitric oxide can be formed in thebody, a high level of nitric oxide has been recog-nized as a feature of shock, contributing to theloss of blood pressure. The reducing environmentof lactic acid domination produces the reducedthiols, -SH groups, that activate nitric oxidesynthesis. Lactate and nitric oxide suppressoxygen consumption by interfering withrespiratory enzymes including cytochrome
+oxidase, but also by decreasing the energy supply,inactivating the enzymes responsible for consum-ing lactate/pyruvate, the pyruvate dehydrogenasecomplex. 
+In the state of shock, lactate is suppressing the
+use of oxygen everywhere in the body, so there isno way to remove the lactate. In this situation, theaccumulation of lactate inside the cells thatproduce it can slow or stop glycolysis, preventingthe production of ATP as well as lactate. This iswhy shock causes a rapid fall in bodytemperature, and can quickly cause death. In goodhealth, one of the important functions of carbondioxide is to inhibit lact ate formation, which helps
+to limit its production to the amount that can beoxidized, in a self regulating process. The produc-tion of lactate is potentially involved in manyvicious cycles, which are normally prevented bythe intervention of the whole body’s oxidizingcapacity, restoring balance to the oxidizingpredominance.
+About 50 years ago, someone proposed that
+nerve cells in the brain require lactate for energy,and that even lactate produced by skeletalmuscles could be used by the brain. A few peoplehave kept arguing for that hypothesis, at the sametime that others are arguing that lactate isn’tessential for cancer, or that it’s antiinflammatory,or that it’s essential for immunity, or for healingan injured brain, etc. Added to the historicalantagonism of the pharmaceutical-medical indus-try to Warburg’s discoveries, this new wave ofpublications is intensifying the confusion aboutlactate’s functions.
+If it’s recognized that the ratio of lactate to
+pyruvate in the body fluids affects the redoxbalance of every cell in the body, and that thisbalance affects in a highly systematic way themetabolism and structure of all parts of the body,the value of knowing more about lactate will beevident.
+It’s true that lactate, while normally activating
+and amplifying inflammation, as in arthritis, canin certain situations turn off the immune system.The very high lactate in tumors can change thecytolytic T cells from tumor-destroying to inflam-mation promoting cells. When incoming cellsexperience the high lactate concentration near the4tumor, their own energy production is suppressed,
+as in shock. The result is that immigrant cells,instead of correcting or dissolving the defectivecells, accumulate and dedifferentiate, taking ondifferent forms and functions.
+This ability to excite or to inhibit, depending
+on the surrounding energy economy in the organ-ism, is operating in the brain during daily cyclesof waking and sleeping, and in gradual processessuch as the development of dementia. The recentdemonstration of redifferentiation of heart cells toform stem cells when exposed to lactate (Ordoño,et al., 2020) probably has parallels in the mainte-nance of all tissues, including the brain—underthe right conditions, metabolic regression supportsconstructive renewal.
+The healthy sleeping brain increases its glyco-
+gen stores, and the excited, waking brain reducesthe stores, while also reducing glucose andincreasing lactate. Histamine, which can causeinsomnia, activates the breakdown of glycogen,and GABA, which stops neural excitation,increases glycogen (Pennington and Pentreath,1987). Fully excited neurons expend energy at avery high rate, and in this momentary state canuse both oxidative metabolism and aerobic glyco-lysis, emitting lactate into their surroundings. Theastrocytes associated with them can absorblactate, and are able to convert it back to glucoseby gluconeogenesis, and can secrete that glucosefor use by neurons. In periods of rest, both astro-cytes and neurons can convert lactate to glucose,and can store glucose as glycogen.
+The lactate revisionists, who concentrate on its
+utility to a fully healthy organism, have neglectedto assimilate the evidence of the metaboliccomplexity and adaptability of the various kindsof brain cell. Their arguments (deriving mainlyfrom sports medicine) distract attention from theeffects of increasing lactate in the systemic circu-lation on brain metabolism. Lactate easily crossesthe “blood brain barrier,” so an excess in thegeneral bloodstream produced by stress orsickness will increase the energy burden on braincells, resulting in a sense of fatigue or excitation.
+Chronic exposure to a slight excess of lactate
+will cause progressive deterioration of bloodvessels in the brain as it does in other parts of thebody, and similar proliferating, migrating, andfunctional changes will occur. Developmentally,
+the changes of the neurodegenerative diseasesunder the influence of the regressive metabolismare analogous to the changes that occur inarthritis, cancer, kidney and liver disease. Moreintense and prolonged lactate exposure, whichwill occur wherever the body can’t intervene tocorrect the metabolism, can account for the desen-sitizing and blocking that occur in dementia;lactate suppresses glycolytic as well as oxidativeenergy production. Shock, immunosuppression,and dementia involve massive suppression of thelocal ability to produce energy from glucose. 
+Our basic anti-glycolytic factor
+is carbon dioxide, which can bequickly delivered to the glycolyz-ing areas, suppressing glycolysisand restoring oxidative energy
+production.  
+Senescent cells accumulate in the body with
+age, and as they lose their normal functions, theyshift to the regressed glycolytic metabolism, andbegin emitting inflammatory signals, as well aslactate, into their surroundings, inducing senes-cence in the nearby cells (da Silva, et al., 2019).In the 1960s Leonard Hayflick believed that hehad discovered an intrinsic aging mechanism incells, a “limit” that made it impossible for ahuman or animal cell to divide more than 50times. It didn’t occur to him that events in alaboratory culture dish might not be relevant tothe function of a cell in its normal place in anorganism. Cells in culture quickly (Bittles andHarper, 1984) begin reorganizing in relation totheir liquid and plastic or glass environment, andthey begin reverting to the basic glycolyticmetabolism, beginning to produce lactate;prolonged exposure to lactate accelerates theprocess. While exposure to lactate can cause ashift from oxidative to glycolytic metabolism(Kozlov, et al., 2020), addition of pyruvate canprevent that, by increasing the ratio ofNAD/NADH (Kim, et al., 2018). 
+Lactate’s involvement in processes of renewal
+are reminiscent of estrogen’s related effects, but5luckily there is no powerful lactate industry analo-
+gous to the estrogen industry to inappropriatelypromote it. Its effects in cell renewal depend onbrief and local shifts in its concentration, andthose are restorative, rather than degenerative,only when the whole system can easily limit theduration and extent of those shifts. Trying todesign drugs for suitably specific actions on theformation of lactate would be even harder than the
+anti-angiogenesis projects turned out to be in the1970s. 
+Our basic anti-glycolytic factor is carbon
+dioxide, which can be quickly delivered to theglycolyzing areas, suppressing glycolysis andrestoring oxidative energy production. The body’sproduction and delivery of CO2 is naturallyregulated by many substances, including nutrients,hormones and neurotransmitters, and by manydrugs. Learning to identify and use the things thatfavor CO2, and to avoid things that shift thebalance harmfully toward lactate, should beprotective against many chronic ailments andaging. The “lactate paradox” at high altitude (lesslactate is produced during stress) is a reflection ofa better carbon dioxide economy, and it corre-sponds to many health benefits, some of whichcan be approximated at lower altitudes.
+REFERENCES
+ 
+Genetica. 1997; 99(2-3):77-88. The social
+and economic origins of genetic determinism: a
+case history of the American EugenicsMovement, 1900-1940 and its lessons fortoday. G E Allen. 
+Circ Res. 2016 Feb 19; 118(4):
+692–702. Vascular smooth muscle cells in
+atherosclerosis. Martin R Bennett, Sanjay Sinha,
+and Gary K Owens.
+Biosci Rep. 1984 Sep;4(9):751-6.  Increased
+glycolysis in ageing cultured human diploid
+fibroblasts. A H Bittles, N Harper.
+Aging Cell. 2019 Feb;18(1):e12848. The
+bystander effect contributes to the accumula-
+tion of senescent cells in vivo. da Silva PFL,Ogrodnik M, Kucheryavenko O, Glibert J, Miwa
+S, Cameron K, Ishaq A, Saretzki G, Nagaraja-Grellscheid S, Nelson G, von Zglinicki T. 
+Proc Natl Acad Sci U S A. 2019 Dec
+17;116(51):25389-25391. Repurposing dichlo-
+roacetate for the treatment of women with
+endometriosis. Andrew W Horne, S Furquan
+Ahmad, Roderick Carter Ioannis Simitsidellis,Erin Greaves, Chloe Hogg, Nicholas M Morton,Philippa T K Saunders. 
+Biochem Biophys Res Commun. 2017 Oct
+7;492(1):41-47. Lactate dehydrogenase-A is
+indispensable for vascular smooth muscle cell
+proliferation and migration. Kim JH, Bae KH,
+Byun JK, Lee S, Kim JG, Lee IK, Jung GS, LeeYM, Park KG. 
+J Invest Dermatol. 2018
+Dec;138(12):2522-2530. Pyruvate Protects
+against Cellular Senescence through the
+Control of Mitochondrial and LysosomalFunction in Dermal Fibroblasts. Jeong Yeon
+Kim, Sung Hoon Lee, Il-Hong Bae, Dong WookShin, Daejin Min, Mira Ham, Kyu-Han Kim, TaeRyong Lee, Hyoung-June Kim, Eui Dong Son,Ai-Yong Lee, Yeong Wook Song, In Sup Kil. 
+Scientific Reports volume 10, Article number:
+8388 (2020).  Lactate preconditioning promotes
+a HIF-1α-mediated metabolic shift from
+OXPHOS to glycolysis in normal humandiploid fibroblasts. Alexandra M. Kozlov, Asad
+Lone, Dean H. Betts & Robert C. Cumming. 
+PLoS One. 2012;7(12):e51237.  D i a b e t e s
+medication use and blood lactate level among
+participants with type 2 diabetes: the athero-sclerosis risk in communities carotid MRIstudy. Morgana L Mongraw-Chaffin, Kunihiro
+Matsushita, Frederick L Brancati, Brad C Astor,Josef Coresh, Stephen O Crawford, Maria InêsSchmidt, Ron C Hoogeveen, Christie M Ballan-tyne, Jeffery Hunter Young.   
+PLoS One. 2015; 10(3): e0122818. The
+Extracellular Redox State Modulates
+Mitochondrial Function, Gluconeogenesis, and6Glycogen Synthesis in Murine
+Hepatocytes. Laura Nocito, Amber S. Kleckner,
+Elsia J. Yoo, Albert R. Jones IV, Marc Liesa, andBarbara E. Corkey.
+Lactate promotes cardiomyocyte dediffer-
+entiation through metabolic reprogramming.
+Jesús Ordoño, Soledad Pérez-Amodio, Kristen
+Ball, Aitor Aguirre, Elisabeth Engel. Biochemicaland Biophysical Research Communications492(1), 2017, 41-47.
+J Physiol (Paris) 1987;82(4):218-28.  T r a n s -
+mitter-induced glycogenolysis and gluconeo-
+genesis in leech segmental ganglia. A J Penning-
+ton, V W Pentreath.
+Atherosclerosis 2013 May;228(1):249-55.
+Association of blood lactate with carotid
+atherosclerosis: the Atherosclerosis Risk inCommunities (ARIC) Carotid MRI Study.  GPS
+Shantha, Bruce Wasserman, Brad C Astor, JosefCoresh, Fredrick Brancati, A Richey Sharrett, JHunter Young.
+Exp Pathol. 1984;25(3):185-90. An experi-
+mental model of calcification in the vessel
+wall. H Yamaguchi, T Tajima, M Morisada, H
+Sakaguchi.
+Cell Signal. 2019 Jun;58:53-64. Lactate
+accelerates calcification in VSMCs through
+suppression of BNIP3-mediated mitophagy. Yi
+Zhu, Jing-Jing Ji, Rui Yang, Xi-Qiong Han,Xue-Jiao Sun, Wen-Qi Ma, Nai-Feng Liu.
+       *********************7

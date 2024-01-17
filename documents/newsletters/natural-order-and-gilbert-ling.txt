@@ -1,0 +1,208 @@
+Natural Order and
+Gilbert Ling
+Two studies have estimated that the annual
+number of deaths in the US caused by medicalerrors ranks third, behind heart disease and cancer,with estimates ranging from 250,000 to 440,000deaths per year (Makary and Daniel, 2016; James,2013, 2017). Many doctors acknowledge that afailure to report “adverse events” resulting in deathis common. Behind these estimates is the fact that
+those are errors recognized by doctors ; their validity
+depends on the quality of medical education, andmedical science. The presence of mistaken beliefs inthe medical culture could mean that medicine’s realeffect on life, health, and death is radically underes-timated. This is something Gilbert Ling has oftenspoken about.
+I don’t think it’s possible to think about Gilbert
+Ling’s work (which began in the 1940s) withoutevaluating the way that the science industry hasbeen working during this period, at least in the USand England. “Science” has its rules, but they don’tapply when the ruling ideology or paradigm ischallenged. In biology, this paradigm insists that allcells are enclosed in a “semipermeable” membranethat actively maintains concentrations of dissolvedsubstances inside the cell, that are different from theconcentrations in the water surrounding the cell.This image of the cell implies many other things, forexample that the water inside cells has the samesolvent properties as water outside cells, and thatsomething that’s true of an enzyme outside a cellmust be true of enzymes inside cells.These assumptions are built into the educa-
+tional system, and govern the way medicine ispracticed, and the way research is done. Soon
+after beginning graduate study in the US, Ling
+developed a new electrode capable of making
+measurements inside a single cell (the Ling-Gerard glass microelectrode), and his observa-tions using that instrument led him to questionthe ruling doctrine that bioelectricity wasproduced by an active membrane on thesurface of cells.
+.… I have learnt from Professor
+Gerard’s example the critical
+importance to seek a broader
+perspective than the experimental
+subject being pursued at any one
+time …  G. Ling
+In the early ’70s, I saw that Ling’s view was
+misstated in an article by a well known physiolo-gist, citing an article by Ling as his source. Usingthe Science Citations Index,  I found that the
+misstatement had been quoted verbatim by aseries of other biologists, as the reason Ling’stheory was to be dismissed, and in each case theycited Ling’s original article, rather than wherethey had actually found the misstatement. Notmany biologists even mentioned Ling’s work, butmost of those that I found who did, were lyingabout having read it.
+In 1975, two Cambridge professors wrote a
+review of the “sodium pump,” in which theydiscussed 245 studies supporting the existence ofRay Peat's Newsletter 
+. . . .the invention of a useful product can only follow the understanding of the relevant underlying science. G. Ling
+Copyright 2020           Raymond Peat  P.O. Box 5764  Eugene OR  97405             March 2020                                                                                                                                                              
+Not for republication without written permission.the pump, and not a single study questioning its
+existence. Hundreds of studies, by numerousresearchers besides Ling, had been published givingevidence against such a pumping membrane. Onmany scientific issues it’s considered scandalouswhen only the evidence supporting one side ispresented, but in this case the professors could count
+on the fact that most of their readers didn’t knowanything that wasn’t in their textbooks. The situa-tion in our science culture resembles the Jim Carreymovie, “The Truman Show,” except that very few ofthe participants understand that it’s a constructedillusion. 
+In the 1960s, Gilbert Ling’s idea
+of a “living state” had overtones ofholism and self-regulation, but todisciples of the ruling paradigm,one of the most offensive thingsabout it was that it proposed toexplain all biological processes interms of known laws of physics andprinciples of physical chemistry.
+For many years, the science culture of the US
+has at times denounced holism, intentionality,consciousness, epigenetics, self-organization andself-regulation, along with vitalism, as unscientificand superstitious. In the 1960s, Gilbert Ling’s ideaof a “living state” had overtones of holism and self-regulation, but one of the most offensive thingsabout it was that it proposed to explain all biologicalprocesses in terms of known laws of physics andprinciples of physical chemistry. While biologistsclaimed to be defending mechanistic materialistscience against vitalism, in fact they were rarelyable to think in the physical chemical ways thatwere the essence of Ling’s work. His criticism ofthe membrane sodium pump made it clear that thepump was just the ghost in the machine that wasneeded to animate the conventional theory of theliving cell.
+While US and British biologists were occupied
+with either ignoring or slandering Ling, KarolMysels, a leading physical chemist, found that whenhe was writing about our contemporary understand-ing of ion exchange resins, such as those used inwater softeners, the best physical theory existing
+to describe their function was the theory that Ling
+had developed to explain the behavior of ions inliving cells. In trying to understand cell functionhe had used existing laws in ways that hadn’t yetoccurred to people like Mysels, and that turnedout to be useful in their work and to have greatgenerality for explaining the interactions ofwater, ions, and proteins and other polymers.
+The principle of ion exchange has been
+widely recognized for a long time ; in Aristotle’s
+time it was known that the salt in sea water couldbe reduced by passing it through a certainmineral. For hundreds of years it has been knownthat soils generally retain potassium while allow-ing sodium to leach away, where it eventuallyconcentrates in the oceans. The water in soil canbe absorbed by plants during their growth alongwith the needed potassium, because most of thepotassium in the soil isn’t dissolved in the water.If all the potassium needed were in solution theconcentration would be osmotically too high, andwould dehydrate the roots. As the plant removespotassium from the ground water, solids in thesoil release more potassium into solution. Waterheld in clay and similar materials in the soil is inan unusual state, with physical properties differ-
+ent from those of bulk liquid water ; there is no
+dispute about that, and there is general agreementthat these unusual properties of water in clay areinvolved in its ion exchange functions.
+Although the special properties of water in
+clay are calmly acknowledged, it was Ling’ssuggestion that water in the living state is not thesame as bulk liquid water that caused the mostoffense, because it directly challenges theassumptions that underly standard physiology and
+biochemistry, which assume that water is water,inside or outside of cells. Those assumptions (theGibbs-Donnan equilibrium, the Nernst equation,and the Michaelis-Menten equation) were putinto mathematical form more than 100 years ago,long before there were methods such as nuclearmagnetic resonance to study the properties ofwater in different situations. 
+The property of cells that was most responsi-
+ble for the invention of the active cell membranetheory was their ability to concentrate potassium
+and to exclude sodium ; blood and other fluids in
+the body contain much more sodium than2potassium, but the water inside cells contains much
+more potassium than sodium.
+Hair is made up of dead cells, but in an experi-
+ment hair was washed thoroughly with dilute aciduntil it was completely free of ions. The hair wasdipped into serum containing the normal highconcentration of sodium and low concentration ofpotassium. When the hair was then analyzed, itcontained more potassium than sodium (though thegradient was lower than in living cells, which alsoregulate water content). The membrane theory saysthat the process of concentrating a substance againstits gradient is “active transport,” and requires theuse of ATP. Experiments by Ling and othersshowed that the energy metabolism of cells could bepoisoned so that no ATP was being produced, butthat cells were able to maintain their ionic gradient,although sodium was free to diffuse into the cell,“through the membrane.” A ll the ATP has to do is to
+be present, passively occupying its place in the cell. 
+Around 1970, a famous muscle physiologist was
+visiting the university to give a talk on his famousnew theory of how muscles work, using the energyfrom the “high energy phosphate bond” of ATP,which he said was 14 kcal/mol, a quantity stillcommonly cited. He showed how that chemicalenergy might be used to operate the mechanism ofmuscle contraction, like little oars rowing a boat.Other people referred to that same bond energywhen they wanted to explain the electrical,ion-moving work involved in nerve conduction,imagining little arms plucking and flinging theatoms. During the muscle physiologist’s visit, Imentioned to my professor, Sidney Bernhard, that Ihad read his paper clearly showing that the ATPphosphate bond energy isn’t especially high, andasked him why “everyone,” such as the guestspeaker and his audience, kept talking about it as ifit were a reality. All he said was “not everyonedoes.” One thing encouraging people to preserve themyth of the high bond energy is its convenience forrunning their imaginary machines.
+In one of Ling’s papers, he noted the amount of
+ATP energy that was, according to various authors,needed to operate the membrane sodium pumps. Heused the commonly accepted figure for ATP’senergy, and found that a typical cell would need atleast 15 times as much energy as could be producedby the cell, just to perform this single essentialminimal chore, and much more would be needed toaccount for all the other substances that are
+concentrated by cells against their gradient.
+Since Ling didn’t imagine that ATP bond
+energy was being consumed constantly to runmembrane sodium pumps, he wasn’t concernedwith any energy that might be released by hydro-lyzing that bond.  He, like Albert Szent-Gyorgyi,was aware that the ATP molecule adsorbs withconsiderable energy to protein molecules, andthat its presence governs the shape of the proteinmolecule. In a muscle cell, the presence of ATPstabilizes the muscle in its relaxed state, and inany cell, similar associations between ATP andproteins stabilize the cell in a basic resting condi-tion in which it favors the presence of potassiumover sodium.
+Ling’s suggestion that water
+in the living state is not thesame as bulk liquid waterdirectly challenged the assump-tions that underly standardphysiology and biochemistry,which assume that water iswater, inside or outside of cells.
+Ling wasn’t alone in publishing disproofs of the
+membrane pump theory, but he persisted formany years, repeating important experimentsscores of times, and answering even criticismsthat hadn’t been made.  During these decades,condensed matter physics and physical chemistrywere continuing to advance their understanding
+of the nature of matter. The image of the living
+state of matter that Ling had sketched out was
+now being surrounded by a rich landscape ofinformation about colloids, gels, coacervates,liquid crystals, nanoscale surface effects, self-organization, and membraneless organelles. 
+Biological and medical education has
+assumed a reductionism based ultimately onphysics, but it has been a rudimentary physics inwhich there are three phases of matter, solid,liquid, and gas, and organisms have been seen
+exclusively in terms of those states of matter ; if
+water isn’t in the gaseous or solid state, then ithas to be in the liquid state. 3By 1970, anyone who was interested in the
+subject could see, using a nuclear magneticresonance (NMR) apparatus, that cell water isn’t thesame as bulk water. In connection with my disserta-tion work, I found that the water in uterine tissuewas affected both by estrogen and by aging.
+Raymond Damadian, recognizing from Ling’s
+work that the water in cancer tissue is differentfrom the water in the related healthy tissue , and
+that the difference can be shown by NMR, built amagnetic resonance scanning apparatus thatproduced an image of a tumor in a mouse in 1976.
+Normally, a person would assume that such an
+accomplishment would merit a Nobel Prize atleast for Damadian, for designing the first MRIinstrument, and also for Ling, whose theory ledto the production of the instrument, but it didn’t.
+With the appearance of a power-
+ful medical organization in the USearly in the 20th century, empiricalmedicine and traditional remedieswere stigmatized, to be replaced by“scientific medicine.” In the officialnew view, urea was a metabolicwaste said to cause “uremia,” andcarbon dioxide was a toxic gas.
+When something is about to change its physical
+state, as when water boils or freezes, it willsometimes persist in its present state long past thetime that conditions had become right for the newstate to come into being, like supercooled or super-heated water. Reductionist biology has long outlivedany conditions that justified its existence. Every-thing around it in the world of knowledge is nowshowing the impossibility of  its mechanistic modelsof cell structure. 
+In 1960, the painter David Alfaro Siqueiros said
+that the Rockefellers and the US Government hadcreated “ghost art,” abstract expressionism, to
+destroy society’s consciousness. Much of contem-
+porary science has been a ghost science, a mental
+impediment imposed on society, limiting ourability to perceive the nature of our problemsand possibilities.When the more objective holistic under-
+standing of the organism becomes acceptable,nearly every part of physiology and biochemis-try will be reinterpreted.
+The first chemicals produced by animals to be
+chemically identified, in the late 18th century,were urea and carbon dioxide. For thousands ofyears before their chemical natures were known,both of them were used therapeutically, in theform of urine therapy and bathing in carbonatedmineral springs, then in the 19th century the puresubstances began to be used by doctors. 
+With the appearance of a powerful medical
+organization in the US early in the 20th century,empirical medicine and traditional remedies werestigmatized, to be replaced by “scientificmedicine.” In the official new view, urea was ametabolic waste said to cause “uremia,” and
+carbon dioxide was a toxic gas.
+Carbon dioxide had once been seen as a
+hormone, and it had been used medically forulcers, arthritis, cancer, and mental problems, andYandell Henderson’s work had led to its use as“carbogen” (5% CO2, 95% O2) for resuscitation,but by the middle of the century most therapeuticuses had been stopped, and hospitals had beentaught to use pure oxygen instead of carbogen,and patients with brain swelling were beinghyperventilated with oxygen to lower their bloodcarbon dioxide.
+Oral urea had been used to treat ulcers, heart
+failure, sickle cell anemia, glaucoma andMeniere’s disease, etc., intravenous urea hadbeen used to treat brain swelling, and topical ureahad been used to treat wounds. As recently as the1950s urea was recognized as the most effectivetreatment for brain swelling, but the “sciencebased” membrane theory reasoned that theremoval of water from cells was always governedby osmosis, and since urea could remove waterfrom cells, it must be osmotically active. As anosmolyte, it was added to distilled water for intra-venous use, and the red blood cells behaved asthey would in distilled water, dissolving. Thereport that urea causes hemolysis led to generaldiscontinuation of its use for treating brain injury.It is still common to refer to its “osmotic” effectson water.  As urea is ubiquitous, the dangerousconfusion caused by the membrane theory isubiquitous. People who die because they don’t4receive urea therapy are among the casualties of the
+membrane theory.
+In the 1950s, Gilbert Ling noticed that in the
+presence of increased carbon dioxide, a given stimu-lus produces less contraction of a muscle than with alower concentration of carbon dioxide. Around thesame time, Russian physiologists found that theCO2 produced by active brain cells relaxes brainblood vessels, including capillaries, increasing theflow of blood in proportion to the increasingmetabolic needs. 
+Hemoglobin’s ability to transport carbon dioxide
+and oxygen has been studied as an example of howchanges in a protein’s structure affects its functions.When CO2 associates with an amino (-NH2) groupon the protein (forming a carbamino compound),hemoglobin’s properties are altered, causing it torelease the oxygen that had been bound. 
+Although this form-changing property of
+proteins (“allostery”) is well recognized (Monod, etal., 1963; Abdel-Magid, 2015), nearly all biologiststhat I have known have been unaware of the factthat CO2’s ability to form carbamino compoundswith hemoglobin extends to other proteins, includ-ing those that are called “specific receptors.” Forseveral decades high altitude physiologists havebeen perplexed by what they call the “lactateparadox,” the fact that exercise at high altitude, withless oxygen, produces less increase in lactic acid inthe blood than it does at sea level, allowing quickerrecovery, since it is understood that it is oxidativemetabolism that prevents the formation of lacticacid—the lower oxygen availability should lead to ahigher lactate content at high altitude, and slowerrecovery. 
+They consistently neglect to think of CO2’s
+influence on everything in every cell, not just onhemoglobin.  The organism is reorganized when
+there is less oxygen to displace CO2 from theproteins to which it is adsorbed. The principle ofinduction, central to Ling’s view of cell structureand function, is something every student hears aboutearly in the study of chemistry, the transmission ofthe electron withdrawing properties of variousatoms and groups through connected atoms. Carbondioxide, a Lewis acid, strongly withdraws electronsfrom the proteins on which it is adsorbed, increasingtheir acidity. This affects properties such as contrac-tion and nerve activation, as well as oxygen bindingand enzyme action.Everything that associates with a protein,
+such as potassium or ammonium, has aninductive effect on the protein’s structure andinteractions with its surroundings, andsubstances that adsorb powerfully, especiallyATP and steroids, have powerful influences onthe properties of the system.  Molecules that
+bind powerfully to proteins change the ways
+the proteins influence the properties of water,and the properties of water govern cells’metabolism and their interactions with eachother and with the environment. Ling calledthese influential binding molecules “cardinaladsorbents.”
+Molecules that bind power-
+fully to proteins change the waysthe proteins influence the proper-ties of water, and the propertiesof water govern cells’ metabolismand their interactions with eachother and with the environment.
+Besides this fundamental stabilizing, regula-
+tory function of carbon dioxide, it combines withammonia to form urea. Urea, like carbon dioxide,powerfully contributes to the regulation of water,modifying its properties. The elimination ofammonia protects against its toxic effects, whichinclude creating pseudohypoxia, increasing thehypoxia inducible factor, HIF, and aerobic glyco-lysis, the characteristic cancer metabolism andthe associated proliferation of cells, while block-ing renewal of nerve cells. Reduced availabilityof CO2 leads to the failure to detoxify ammonia.
+Stresses activate the enzyme carbonic
+anhydrase, which converts the gaseous CO2 (theform that binds to protein and favors “structured”surface or vicinal water) into the ionizablecarbonic acid/bicarbonate, which leaves cells.Activating this enzyme raises the intracellularpH, tending to excite cells, and inhibiting itlowers the intracellular pH, quieting cells, savingenergy.  The activity of carbonic anhydrase,needed for short term survival, exemplified bywound healing (Barker, et al., 2017), disrupts the5fundamental organizing processes of carbon dioxide
+if it is chronically activated. 
+Seeing hormones and drugs in terms of the
+carbon dioxide system, rather than the reduc-tionist system of cascades of receptors andmessengers, makes the organism intelligible as asingle system.  The oxidative processes that support
+purposive, creative functioning of the organism,
+optimize CO2 by inhibiting carbonic anhydrase ; this
+enzyme is inhibited by thyroid hormone T3, proges-terone, urea, caffeine, antipsychotic drugs, andaspirin. Agents that tend to cause reversion to theprimitive anaerobic energy production activate theenzyme—serotonin, tryptophan, cysteine, histamine,estrogen, aldosterone, HIF, SSRIs, angiotensin, andparathyroid hormone, for example. 
+If life is spontaneously ordered
+even on the molecular level, theordering process has to be takeninto account when trying to correcthealth problems.    
+. . . . The purpose should be to
+support the patient’s recovery, notto “eliminate a disease.”
+When the opposing aerobic energy processes are
+debilitated, more and more tissues fail to resolve theshort term restorative, “wound healing,” processes.These barely surviving cells spread the stress signalsto adjoining tissues, modifying their metabolism andcreating inflammation, fibrosis, atrophy, andtumefaction. 
+In the 1960s, at the peak of the membrane craze,
+when Otto Warburg, Albert Szent-Gyorgyi, andGilbert Ling talked about the difference betweenhealth and cancer in terms of holistic metabolicenergy-structure interactions, their ideas wereridiculed. Many of their basic discoveries are nowindividually accepted, but seen in terms of themechanical membrane/pump/receptor doctrine, theirmeaning isn’t accessible.  
+The implication of Gilbert Ling’s revolution in
+cell physiology is that a new way of thinking isneeded. If life is spontaneously ordered even on the
+molecular level, the ordering process has to  be takeninto account when trying to correct health
+problems. 
+A medical approach that thinks in terms of
+cardinal adsorbents, induction, association andcooperative phase transitions, is using mentalprocesses analogous to Norbert Wiener’s concep-tion of cybernetics, thinking in terms of observa-bly responding wholes, rather than theShannon-Weaver model of information andcontrol systems—sender, encoder, channel, noise,decoder, and receiver—which is implicit in thedrug-receptor-gene-enzyme paradigm, andsuitable only for an authoritarian system.  
+The diseases that are becoming
+epidemic—hypertension, diabetes, autoimmuneinflammatory diseases, mental and neurologicaldiseases—are seen by the drug industry as an
+exciting new market. An alternative future
+would involve a rethinking of biomedical
+doctrines and education, focusing on theenvironmental changes needed to support thebody’s restorative processes.   Like intracellular
+ATP, an appropriate amount of progesterone, T3,urea and carbon dioxide each has an infinity ofbeneficial effects, individually and in combina-tion, and with their synergizing nutritional,botanical and pharmaceutical substances their usecould transform the nature of health care. 
+Combinations of substances such as CO2,
+progesterone, angiotensin receptor blockers,acetazolamide and aspirin that affect fundamentalproperties of the organism are appropriate for usein a great range of problems now treated withdrugs considered to be “specific” for particular
+ailments. The purpose should be to support the
+patient’s recovery, not to “eliminate a
+disease.”   
+In the past, when doctors in a region have
+gone on strike, the death rate fell sharply for theduration of the strike. If it becomes possible tostop all medical practices based on the irrationalmembrane theory, a similar or greater decrease ofmortality is likely to become permanent.
+                    REFERENCES
+ACS Med Chem Lett. 2015 Feb 12; 6(2):
+104–107. Allosteric Modulators: An Emerging
+Concept in Drug Discovery. Abdel-Magid AF.   6J Enzyme Inhib Med Chem. 2015
+Jun;30(3):420-9. Chromatographic evaluation
+and QSAR optimization for benzoic acid
+analogues against carbonic anhydrase III.
+Alzweiri M, Al-Balas Q, Al-Hiari Y.
+Exp Mol Med. 2017 May 19;49(5):e334. Role of
+carbonic anhydrases in skin wound healing.
+Barker H, Aaltonen M, Pan P, Vähätupa M, Kaipi-
+ainen P, May U, Prince S, Uusitalo-Järvinen H,Waheed A, Pastoreková S, Sly WS, Parkkila S,Järvinen TA.
+Bioorg Med Chem. 2008 Oct 15;16(20):9101-5.
+In vitro inhibition of salicylic acid derivatives on
+human cytosolic carbonic anhydrase isozymes Iand II. Bayram E, Senturk M, Kufrevioglu OI,
+Supuran CT.
+Drug Chem Toxicol. 2005;28(4):409-21.
+Combined treatment potentiates the developmen-
+tal toxicity of ibuprofen and acetazolamide inrats. Cappon GD, Fleeman TL, Cook JC, Hurtt ME.
+Proc Natl Acad Sci U S A. 1980
+Sep;77(9):5562-6. Mitochondrial carbonic
+anhydrase. Dodgson SJ, Forster RE 2nd, Storey
+BT, Mela L.
+J Am Soc Nephrol. 2016 Jul;27(7):2082-91.
+Acetazolamide Attenuates Lithium-Induced
+Nephrogenic Diabetes Insipidus.  de Groot T,
+Sinke AP, Kortenoeven ML, Alsady M, BaumgartenR, Devuyst O, Loffing J, Wetzels JF, Deen PM.
+J Appl Physiol (1985). 2004 Aug;97(2):515-21.
+Acetazolamide prevents hypoxic pulmonary
+vasoconstriction in conscious dogs. Höhne C(1),
+Krebs MO, Seiferheld M, Boemke W, KaczmarczykG, Swenson ER.
+Journal of Patient Safety 2013 Sept; 9(3) 2013
+122-128. A New, Evidence-based Estimate of
+Patient Harms Associated with Hospital
+Care. James JT.
+Afr Health Sci. 2018 Dec;18(4):1303-1310.
+Inhibition of cell proliferation, migration and
+colony formation of LS174T Cells by carbonicanhydrase inhibitor. Karakuþ F, Eyol E, Yýlmaz
+K, Ünüvar S.
+Am J Surg. 1982 Nov;144(5):554-7. Inhibition
+of gastric mucosal carbonic anhydrase by tauro-
+cholic acid and other ulcerogenic agents.
+Kivilaakso E.
+Physiol Chem Phys Med
+NMR.  1983;15(2):137-54. Studies on the physical
+state of water in living cells and model systems.II. NMR relaxation times of water protons in
+aqueous solutions of gelatin and oxygen-containing polymers which reduce thesolvency of water for NA+, sugars, and freeamino acids.  Ling GN, Murphy RC.
+BMJ. 2016 May 3;353:i2139. Medical
+error—the third leading cause of death in the
+US. Makary MA, Daniel M.
+J Mol Biol. 1963 Apr;6:306-29. Allosteric
+proteins and cellular control systems. Monod J,
+Changeux JP, Jacob F.
+Biochem Int. 1991 Mar;23(4):779-89.
+Changes in carbonic anhydrase may be the
+initial step of altered metabolism in hyperten-sion. Parui R, Gambhir KK, Mehrotra PP.
+Int J Clin Lab Res. 2000;30(3):119-25. The
+mechanism of action of angiotensin II is
+dependent on direct activation of vascularsmooth muscle carbonic anhydrase I. Puscas I,
+Coltau M, Gilau L, Baican M, Pasca R, DomutaG, Hecht A.
+*******************7

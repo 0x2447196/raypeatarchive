@@ -1,0 +1,595 @@
+-------------------------------------------~--------
+Ray Peat's Newsletter 
+'As the true method of knowledge is experiment, the true faculty of knowing must be the faculty which experiences. ' 
+William Blake 
+Copyright 2016 Raymond Peat P.O. Box 5764 Eugene OR 97405 
+Not for republication without written permission. January 2016 
+Nitric oxide, aging, and 
+adaptation--the Procrustean 
+adaptogen 
+The 1998 Nobel Prize in Physiology or 
+Medicine was awarded for "discoveries concerning 
+nitric oxide as a signalling molecule in the cardio­
+vascular system." It had previously been called the 
+"endothelium-dependent relaxing factor." Those 
+descriptions have strongly influenced the way 
+people think about it. "Signal" implies purpose and 
+control, "relaxing blood vessels" implies protection 
+against hypertension. If we called nitric oxide "an 
+anti-respiratory pro-inflammatory substance 
+produced mostly by stressed cells," we would be 
+very cautious about medical techniques to increase 
+its production. Many people are now thinking about 
+it in this way. 
+In the early 1990s, it was recognized that nitric 
+oxide was a central factor in the shock state, and 
+that inhibiting its formation could alleviate the 
+shock state. The state of shock was often called 
+"circulatory failure," from excessive vasodilation, 
+so it was easy to see a role for the vasodilator nitric 
+oxide in circulatory collapse; however, in most 
+cases the real problem in shock was the failure of 
+cellular respiration. 
+If inadequate circulation were the problem, 
+oxygen-deprived tissues would cause the venous 
+blood to be blue and free of oxygen, but in fact the 
+venous blood in shock is likely to be bright red, 
+showing that no oxygen was extracted by the 
+tissues. Only an extremely small minority of publi­
+cations on the physiology of nitric oxide are 
+concerned with the fact that it inhibits mitochon­
+drial use of oxygen for energy production in various ways, including by blocking the respiratory 
+enzyme cytochrome C oxidase. 
+When I was studying estrogen's anti-fertility 
+effects on the uterus, I noticed that the metabolic 
+changes it produced were similar to those caused 
+by a vitamin E deficiency or PUF A excess, by 
+ionizing radiation, by oxygen deprivation, or by 
+aging. All of these conditions involved interfer­
+ence with, or decreased activity of, the crucial 
+respiratory enzyme, cytochrome C oxidase. 
+When Hans Selye was studying the biological 
+effects of the steroids, he described the effect of a 
+large dose of estrogen as similar to the shock 
+phase of the stress reaction. He observed that body 
+temperature and blood pressure were momentarily 
+lowered in this first reaction to stress; these are 
+both effects of nitric oxide. Later, other people 
+observed that estrogen was produced by any tissue 
+under stress. 
+After nitric oxide production was found to be 
+stimulated by estrogen, in the early 1990s, there 
+was an opportunity for a major advance in the 
+understanding of stress physiology, but the 
+estrogen-centered medical culture saw the need to 
+describe nitric oxide as a well regulated, relaxing, 
+signal substance involved in all of estrogen's 
+notorious protective effects. The remarkable fact 
+that both estrogen and nitric oxide are produced 
+by practically any il1iury has seldom been 
+mentioned, and their closely related effects on 
+energy metabolism have been generally ignored. 
+I interpreted estrogen's role in reproduction 
+and cell proliferation in terms of an idea that was 
+discussed by Otto Warburg and others. In this 
+view, multiplication is the basic, simplest function 
+of any cell, and it is supported by inefficient 
+non-oxidative metabolism, while the differentia­
+tion of cells to form part of a stable multicellular 
+organism requires the highly efficient oxidative production of metabolic energy. A substance such 
+as estrogen is able to interrupt oxidative metabo­
+lism to initiate reproduction of the organism, or to 
+stimulate tissue repair, in response to a local injury. 
+Oxygen deprivation, ionizing radiation, and other 
+stresses increase the formation of estrogen, and 
+estrogen facilitates the multiplication of cells by 
+shifting the metabolism to glycolysis, producing 
+energy from glucose without using oxygen. 
+One of the anti-respiratory substances produced 
+by estrogen is carbon monoxide (Tschugguel, et al., 
+2001). Another inhibitor of mitochondrial oxida­
+tion, hydrogen sulfide, is also increased by estro­
+gen (Lechuga, et al., 2015). 
+The stresses of a harsh environment that make 
+early reproduction advantageous, or that require 
+accelerated tissue renewal, also favor epigenetic 
+adaptations that reduce energy demands. It has been 
+known for about 50 years that starvation during 
+pregnancy reduces not only the metabolic capacity 
+of the first generation, but of several following 
+generations. For a species, this transgenerational 
+effect is analogous to hibernation or estivation in an 
+individual, reducing metabolic needs to match the 
+diminished environmental resources. 
+When estrogen increases in the fall before 
+hibernation, while progesterone is low, conception 
+is prevented. Estrogen's increase of nitric oxide 
+and/or hydrogen sulfide is adaptive for a hibernat­
+ing animal, reducing its body temperature and 
+metabolic rate (Gonzalez Nicolini, et al., 1998; 
+Revsbech, et al., 2014; Li, et al., 2012). 
+The metabolic quiescence of the major organs 
+in shock ("multiple organ failure") has been 
+compared (Azevedo, 2010) to the state of hiberna­
+tion. I have previously described some of the ways 
+that the degenerative diseases resemble a mild kind 
+of progressive shock or hibernation of tissues or 
+organs. 
+In all of these conditions of stress adaptation, 
+"epigenetic" modifications of DNA are involved, 
+with nitric oxide participating, with estrogen and 
+other hormones, in methylation of DNA and 
+modification of histones, and a variety of other 
+biochemical "lingering modifications." While those 
+chromosomal effects of nitric oxide are just starting 
+to be investigated, I think the outlines of its role in 
+shaping the organism are now visible. 2 
+In the embryo and fetus, not much nitric oxide 
+synthase, NOS, can be detected, but around the 
+time of birth more of it appears, and it increases 
+until around adolescence. During young 
+adulthood, the level of nitric oxide in the body 
+seems to be unrelated to aging, but then, after 
+about the age of 40-50, it begins an increase that 
+continues until old age. 
+The cells of the heart in the fetus multiply 
+rapidly until birth, and then, as cell proliferation 
+stops, they grow in size. The number of cells of 
+the brain reaches a maximum several weeks 
+before birth, and then many of them die, while the 
+brain continues to enlarge as individual cells grow 
+larger. Continuing into adulthood, nitric oxide 
+serves to control nerve cell proliferation. In some 
+other embryonic tissues (retina and testicle), nitric 
+oxide is known to decrease cell proliferation; for 
+example in the retina, adding nitric oxide to tissue 
+culture decreased cell proliferation by about 70% 
+(Magalhaes, et al., 2006). In women with growth 
+restricted, small-for-gestational-age fetuses, the 
+nitric oxide content of blood platelets is above 
+normal. In this study, the toxic peroxynitrite was 
+also increased, arguing for the view that nitric 
+oxide was a cause of the growth restriction, rather 
+than a compensation for some other causative 
+factor (Nanetti, et al., 2008). 
+An abundant supply of sugar is necessary to 
+support fetal growth, especially for the brain with 
+its high metabolic rate, and nitric oxide blocks the 
+ability to use sugar, but it slows metabolism, so it 
+could serve to adjust the size of developing 
+organs, to allow survival when fuel is less 
+abundant. Besides adjusting the relative size of 
+organs, the fact that nitric oxide increases the 
+activity of DNA methyltransferase indicates that it 
+is contributing to the epigenetic methylation of 
+DNA that shapes life-long, and transgenerational, 
+inclinations. 
+From birth to adolescence, as the tissues are 
+differentiating and maturing, and NOS is increas­
+ing, there is a steady decrease in the metabolic 
+rate. In the process of cellular differentiation, new 
+genes are being expressed in the developing 
+tissues, with progressive demethylation of various 
+sections of DNA, but at the same time, as the 
+individual is adapting to the particular stresses of 
+a unique environment, there may be need for new methylations appropriate for that environment. The 
+unique individual's "phenotype" is made up of 
+functional systems that have established an equilib­
+rium of internal and external resources. 
+Since the metabolic rate must be in balance 
+with the availability of fuel, the thyroid hormone, 
+which directly activates the respiratory enzymes, is 
+especially important. Just as it wouldn't be possible 
+for an animal to hibernate in a hyperthyroid state, a 
+basic mechanism for dealing with stress in 
+non-hibernators is to lower the production of 
+thyroid hormone. Nitric oxide blocks the formation 
+of thyroid hormone in response to thyroid stimulat­
+ing hormone (Bazzara, et al., 2007). Oxygen depri­
+vation (Giusti, et al., 2008) and hypothyroidism 
+(Franco, et al., 2006) block energy production by 
+increasing NOS in the mitochondria. 
+Although a primitive adaptive mechanism such 
+as nitric oxide can be useful for a species, it can be 
+harmful for individuals. When hypoxia is combined 
+with nitric oxide, nerve cells are more likely to die 
+than when exposed to either alone (Jekabsone, et 
+al., 2007; Mander, et al., 2005). One of the 
+enzymes inhibited by nitric oxide is pyruvate 
+dehydrogenase (Klimaszewska-Lata, et al., 2015, 
+Szutowicz, et al., 2014, Abe 1999), required for the 
+oxidation of glucose, so that a diabetes-like state is 
+created by nitric oxide damage, forcing the use of 
+fatty acids instead of glucose for fuel. At least in 
+some situations, some brain cells can be protected 
+from hypoxia by an increased supply of glucose 
+(Kelleher, et al., 1993). 
+The shift of metabolic fuel from glucose to fat 
+causes the oxidation state of the organism to shift 
+to the reduced side, away from the oxidized state 
+which favors stable differentiated functioning. With 
+aging, and during stress, animals' metabolism shifts 
+toward reduction, with a higher ratio of lactate to 
+pyruvate, of NADH to NAD, of ascorbate to 
+dehydroascorbate, etc., a state of "reductive stress." 
+When a particular cell or tissue becomes highly 
+reduced, nitrate and nitrite can be converted to 
+nitric oxide, leading to a vicious circle of blocked 
+glucose oxidation and a more reductive condition. 
+"Pseudo-hypoxia" is sometimes used to describe 
+reductive strsss, since the reduction-oxidation 
+balance of the cells is similar to that produced by 
+hypoxia even when there is adequate oxygen 
+present. When cells convert glucose to lactate even 3 
+in the presence of oxygen, it's called "aerobic 
+glycolysis," and this is the condition that Otto 
+Warburg recognized as the basic feature of cancer. 
+Nitric oxide, by blocking the oxidation of glucose, 
+creates aerobic glycolysis. The amyloid protein 
+that accumulates in Alzheimer's disease promotes 
+aerobic glycolysis. Recent studies have discussed 
+the importance of reductive stress for the develop­
+ment of Alzheimer's disease (Lloret, et al., 2016; 
+Badia, et al., 2013). 
+When the oxidation of glucose is impaired, 
+with fatty acids being oxidized for energy, there is 
+usually a decrease in the overall metabolic rate, as 
+well as a shift toward a more reductive biochemis­
+try. At an extreme, the reductive energy derived 
+from aerobic glycolysis can be consumed by the 
+synthesis of fat, permitting glycolysis to proceed, 
+and this can lead to cancer cells that oxidize fatty 
+acids for energy, while converting glucose to fats 
+and lactic acid. 
+With aging, as the metabolic rate decreases, 
+the ratio of glucose to fatty acids oxidized also 
+decreases, yet the abdominal fat increases. In 
+unusually long lived people, these features were 
+more like the younger adults, with higher oxygen 
+consumption and carbon dioxide production, 
+higher respiratory quotient, lower proportion of 
+body fat and lower waist fat (Rizzo, et al., 2005). 
+In postmenopausal women, a lower respiratory 
+quotient is associated with a higher risk of breast 
+cancer (Prentice, et al., 2013). High estrogen 
+(increasing NO, interfering with glucose 
+oxidation) lowers the respiratory quotient, so that 
+observation isn't surprising. 
+Nitrate and nitrite, which are 
+formed in the 
+body when nitric oxide is oxidized, themselvess 
+reduce the metabolic rate (Pawlak-Chaouch, et al., 
+2016). These are being found increasingly in food 
+and water, where they are thought to contribute to 
+hypothyroidism and cancer (Mitacek, et al., 2008; 
+Wang, et al., 2015; Njeze, et al., 2014). 
+Some of the obvious changes of aging, such 
+as loss of muscle (Martinez-Moreno, et al., 2007) 
+and gain of fat (Bahadoran, et al., 2015) and 
+decreased sensitivity to insulin (Ropelle, et al., 
+2013), are produced by increased nitric oxide. The 
+age-related collagen deposition in arteriosclerotic 
+arteries and in the corpora cavernosa of the penis 
+is associated with increased production of nitric oxide, but this is usually explained as a compensa­
+tory reaction, which helps to slow the progress of 
+the fibrotic degeneration. A high level of NO in 
+keloids, scars that grow with over-production of 
+collagen, was explained in the same way, but 
+experiments showed that adding nitric oxide accel­
+erates the formation of collagen (Hsu, et al., 2007). 
+Although inhalation of nitric oxide is used to treat 
+lung disease, experiments show that NO is an 
+important factor in the development of fibrosis in 
+the lungs (Ekekezie, et al., 2000; Cameli, et al., 
+2014). 
+Beyond the general increase in nitric oxide 
+synthesis with aging, there is considerable evidence 
+of an association of nitric oxide with brain defects 
+of Alzheimer's disease. For example, people with 
+an abnormal lipoprotein, apoE4, are more likely to 
+develop Alzheimer's disease, and that abnormal 
+protein is known to cause increased production of 
+NO (Brown, et al.,2002; Law, et al., 2003). Besides 
+an increase of NO with aging, some studies have 
+found that some endogenous inhibitors of nitric 
+oxide synthesis decrease with aging (Abe, et al., 
+2001). Nitric oxide's ability to inhibit steroid 
+synthesis is undoubtedly a factor in the decrease of 
+neurosteroids in the aging brain. 
+The mutant short-lived senescence-accelerated 
+mice have been studied for insights into 
+Alzheimer's disease as well as general aging. 
+Between the ages of 2 months and 12 months, the 
+NOS activity in their hippocampus nearly doubles 
+(Ali, et al., 2009). 
+Most of the arguments for using drugs to 
+increase nitric oxide production are related to its 
+ability to relax blood vessels and lower blood 
+pressure. The use of nitroglycerine and other 
+nitrates to relieve heart pains has been common for 
+more than 1 00 years, and it seems obvious that its 
+effect is the result of widening the arteries in the 
+heart, but there are other possible interpretations. 
+For example, by reducing the body's metabolic rate 
+and oxygen consumption, the heart's work is 
+reduced. Investigations between the 1930s and 
+1960s (Geumei, et al., 1969) found that nitrite 
+constricts the liver's vascular system, reducing the 
+return of blood to the heart, directly reducing the 
+heart's pumping action. 
+Nitric oxide has an action on the heart that isn't 
+directly related to the blood vessels. When the 4 
+parasympathetic nerves act on the heart, slowing 
+and weakening its contractions, they are releasing 
+nitric oxide, which reduces the heart's oxygen 
+consumption as well as its energy production. The 
+effects of nitric oxide on the heart resemble those 
+produced by shock, and those that occur during 
+heart failure, namely, a weakening of both 
+contraction and relaxation (Kalk, et al., 2008; 
+Jessup, et al., 2011; D'Annuzio, et al., 2012), and 
+a loss of, or inversion of, the "staircase" effect, in 
+which force of contraction normally increases 
+with frequency of contraction. 
+Stimulation of the parasympathetic nerves to 
+the heart can cause a vascular spasm, resulting in 
+heart pain. The parasympathetic nervous system is 
+more active during the night, and this kind of 
+"variant angina" usually happens at night, rather 
+than during exercise. I suspect that this can be 
+explained in terms of the aerobic glycolysis and 
+pseudohypoxia created by nitric oxide. The 
+impairment of relaxation of the heart by NO is 
+analogous to the rigor or contraction that occurs in 
+smooth muscle during deprivation of oxygen 
+and/or glucose. Ordinarily, parasympathetic 
+nerves produce relaxation, but in a situation of 
+prolonged or inescapable stress, intensified 
+parasympathetic action and accumulation of nitric 
+oxide, the state of reductive stress, pseudo­
+hypoxia, probably leads to the vascular spasms of 
+angina pains, transient ischemic attacks in the 
+brain, and worse. 
+There are other situations in which nitric 
+oxide has an excitatory effect. For example, it's 
+associated with brain arousal, waking, and rapid 
+eye movement (REM) sleep (Marino and Cudeiro, 
+2006). The amount of nitric oxide in the exhaled 
+breath rises during the night, with the peak around 
+7 AM (Mattes, et al., 2002). It interacts closely 
+with the orexin peptides, which stimulate appetite 
+and wakefulness and increase blood pressure and 
+heart rate, and an excess ofNO can increase blood 
+pressure and accelerate the heart beat (Kimura, et 
+al., 2005). Its excitatory effects apparently include 
+increasing the release of acetylcholine in the brain 
+(Leonard and Lydic, 1997). 
+During aging and many stress-induced condi­
+tions, it can be therapeutic to use substances that 
+block our energy-limiting systems, to permit resto­
+ration of full energy production. Excessive estrogen, nitric oxide, prostaglandins, and parasym­
+pathetic nerve activity commonly occur simultane­
+ously, and it happens that a substance which 
+inhibits one of those will often inhibit the others. 
+Some of the most important anti-nitric oxide 
+defenses are progesterone, vitamin E, vitamin K, 
+vitamin A, niacinamide, coffee, aspirin, and foods 
+containing flavonoids, terpenoids, polyphenols, and 
+sterols. Grass-fed milk contains a variety of 
+polyphenols. Citrus fruits, many tropical fruits (e.g., 
+guavas, longans, and lychees ), and cooked 
+mushrooms are good sources of apigenin, narin­
+genin and related chemicals. 
+REFERENCES 
+Free Radic Biol Med. 1999 Feb;26(3-4):379-87. Effect of 
+endogenous nitric oxide on energy metabolism of rat heart 
+mitochondria during ischemia and reperfusion. Abe K, 
+Hayashi N, Terada H. 
+Neurosci Lett. 2001 Oct 26;312(3):177-9. Reduction in 
+asymmetrical dimethylarginine, an endogenous nitric 
+oxide synthase inhibitor, in the cerebrospinal fluid during 
+aging and in patients with Alzheimer's disease. Abe T, 
+Tohgi H, Murata T, Isobe C, Sato C. 
+J Gerontol A Biol Sci Med Sci. 2009 Oct;64(10):1025-30. 
+Nitric oxide activity and isoenzyme expression in the 
+senescence-accelerated mouse p8 model of Alzheimer's 
+disease: effects of anti-amyloid antibody and antisense 
+treatments. Ali AK, Banks W A, Kumar VB, Shah GN, Lynch 
+JL, Farr SA, Fleegal-DeMotta MA, Morley JE. 
+Endocr Metab Immune Disord Drug Targets. 2010 
+Sep;l0(3):214-23. Mitochondrial dysfunction during 
+sepsis. Azevedo LC. 
+Free Radic Bioi Med. 2013 Oct;63:274-9. Reductive 
+stress in young healthy individuals at risk of Alzheimer 
+disease. Badia MC, Giraldo E, Dasi F, Alonso D, Lainez JM, 
+Lloret A, Vifia J. 
+Nitric Oxide. 2015 Aug 15;50:52-57. Serum nitric oxide 
+metabolites are associated with the risk of 
+hypertriglyceridemic-waist phenotype in women: Tehran 
+Lipid and Glucose Study. Bahadoran Z, Mirmiran P, 
+Ghasemi A, Azizi F. "Serum NOx level was an independent 
+predictor of HTW phenotype in women." (Visceral lipid 
+accumulation, defined as hypertriglyceridemic-waist (HTW) 
+phenotype.) 
+Thyroid. 2007 Aug;17(8):717-27. Nitric oxide/cGMP 
+signaling inhibits TSH-stimulated iodide uptake and 
+expression of thyroid peroxidase and thyroglobulin mRNA 
+in FRTL-5 thyroid cells. Bazzara LG 1, Velez ML, Costa­
+magna ME, Cabanillas AM, Fozzatti L, Lucero AM, Pellizas 
+CG, Masini-Repiso AM. 
+Free Radic Biol Med. 2002 Jun 1;32(11):1071-5. Apoli­
+poprotein E isoform mediated regulation of nitric oxide 
+release. Brown CM, Wright E, Colton CA, Sullivan PM, 
+Laskowitz DT, Vitek MP. 5 
+Respir Physiol Neurobiol. 2014 Jun 15;197:46-52. 
+Exhaled nitric oxide in interstitial lung diseases. Cameli 
+P, Bargagli E, Refini RM, Pieroni MG, Bennett D, Rottoli P. 
+Mol Cell Biochem. 2012 Jan;359(1-2):169-76. Diastolic 
+function during hemorrhagic shock in rabbits. D'Annun­
+zio V, Donato M, Fellet A, Buchholz B, Antico Arciuch VG, 
+Carreras MC, Valdez LB, Zaobornyj T, Morales C, Boveris 
+A, Poderoso JJ, Balaszczuk AM, Gelpi RJ. 
+Biol Neonate. 2000 Oct;78(3):198-206. High-dose 
+inhaled nitric oxide and hyperoxia increases lung colla­
+gen accumulation in piglets. Ekekezie II, Thibeault DW, 
+Rezaeikhaligh MH, Mabry SM, Norberg M, Reddy GK, 
+Youssef J, Truog WE. 
+J Bioi Chern. 2006 Feb 24;281(8):4779-86. Hypothy­
+roid phenotype is contributed by mitochondrial complex 
+I inactivation due to translocated neuronal nitric-oxide 
+synthase. Franco MC, Antico Arciuch VG, Peralta JG, Galli 
+S, Levisman D, Lopez LM, Romorini L, Poderoso JJ, Carre­
+rasMC. 
+Br J Pharmacol. 1969 Mar;35(3):456-9. Intra-hepatic 
+vascular response to sodium nitrite. Geumei A, Issa I, 
+MahfouzM. 
+Eur J Neurosci. 2008 Jan;27(1):123-31. Hypoxia 
+induces complex I inhibition and ultrastructural damage 
+by increasing mitochondrial nitric oxide in developing 
+CNS. Giusti S, Converso DP, Poderoso JJ, Fiszer de Plazas 
+s. 
+Gen Comp Endocrinol. 1998 May; 11 0(2): 17 5-81. An 
+immunohistochemical study of temperature-related 
+changes in galanin and nitric oxide synthase immunore­
+activity in the hypothalamus of the toad. Gonzalez 
+Nicolini MV, Orezzoli 
+AA, Villar MJ. 
+Nitric Oxide. 2007 Mar;16(2):258-65. Exogenous 
+nitric oxide stimulated collagen type I expression and 
+TGF -betal production in keloid fibroblasts by a cGMP­
+dependent manner. Hsu YC, Hsiao M, Chien YW, Lee 
+WR. 
+J Neurochem. 2007 Oct;l03(1):346-56. Nitric oxide 
+from neuronal nitric oxide synthase sensitises neurons to 
+hypoxia-induced death via competitive inhibition of 
+cytochrome oxidase. Jekabsone A, Neher JJ, Borutaite V, 
+BrownGC. 
+Menopause. 2011 Jun;18(6):698-708. Neuronal nitric 
+oxide synthase inhibition improves diastolic function and 
+reduces oxidative stress in ovariectomized mRen2.Lewis 
+rats. Jessup JA, Zhang L, Chen AF, Presley TD, 
+Kim-Shapiro DB, Chappell MC, Wang H, Groban L. 
+Can J Physiol Pharmacol. 2008 Jun;86(6):353-7. 
+Additional lack of iNOS attenuates diastolic dysfunction 
+in aged ET-1 transgenic mice. Kalk P, Westermann D, 
+Herzfeld S, Relle K, Pfab T, Bauer C, TschOpe C, Stasch JP, 
+Hocher B. 
+Stroke. 1993 Jun;24(6):855-63. Modification of 
+hypoxia-induced injury in cultured rat astrocytes by 
+high levels of glucose. Kelleher JA, Chan PH, Chan TY, 
+Gregory GA. 
+Circ Res. 2005 Feb 4;96(2):252-60. Overexpression of 
+inducible nitric oxide synthase in rostral ventrolateral medulla causes hypertension and sympathoexcitation via 
+an increase in oxidative stress. Kimura Y, Hirooka Y, 
+Sagara Y, Ito K, Kishi T, Shimokawa H, Takeshita A, 
+SunagawaK. 
+J Neurochem. 2015 Apr;133(2):284-97. Differential 
+effects of lipopolysaccharide on energy metabolism in 
+murine microglial N9 and cholinergic SN56 neuronal cells. 
+Klimaszewska-Lata J, Gul-Hinc S, Bielarczyk H, Ronowska 
+A, Zysk M, Gruzewska K, Pawelczyk T, Szutowicz A. 
+Neurobiol Aging. 2003 Jan-Feb;24(1):187-90. Alteration 
+of nitric oxide synthase activity in young and aged apoli­
+poprotein E-deficient mice. Law A, Gauthier S, Quirion R. 
+Endocrinology. 2015 Jun;156(6):2288-98. Estrogen 
+Replacement Therapy in Ovariectomized Nonpregnant 
+Ewes Stimulates Uterine Artery Hydrogen Sulfide Biosyn­
+thesis by Selectively Up-Regulating Cystathionine 
+8-Synthase Expression. Lechuga TJ, Zhang HH, Sheibani L, 
+Karim M, Jia J, Magness RR, Rosenfeld CR, Chen DB. 
+J Neurosci. 1997 Jan 15;17(2):774-85. Pontine nitric 
+oxide modulates acetylcholine release, rapid eye movement 
+sleep generation, and respiratory rate. Leonard TO, Lydic 
+R. 
+J Proteome Res. 2013 Sep 6;12(9):4221-9. Proteomic 
+mechanisms of cardioprotection during mammalian hiber­
+nation in woodchucks, Marmota monax. Li H, Liu T, Chen 
+W, Jain MR, Vatner DE, Vatner SF, Kudej RK, Yan L. 
+Curr Alzheimer Res. 2016;13(2):206-11. Reductive 
+Stress: A New Concept in Alzheimer's Disease. Lloret A, 
+Fuchsberger T, Giraldo E, Vina J. 
+Int J Dev Neurosci. 2006 Feb;24(1 ):53-60. Nitric oxide 
+regulates the proliferation of chick embryo retina cells by 
+a cyclic GMP-independent mechanism. Magalhaes CR, 
+Socodato RE, Paes-de-Carvalho R. 
+J Environ Pathol Toxicol Oncol. 2000;19(4):383-90. 
+Effects of nitric oxide donors on energy metabolism of rat 
+erythrocytes. Maletic SD, Dragicevic-Djokovic LM, Zikic 
+RV, Stajn AS, Milenkovic P, Kostic MM. 
+J Neurosci Res. 2005 Jan 1-15;79(1-2):208-15. Nitric 
+oxide from inflammatory-activated glia synergizes with 
+hypoxia to induce neuronal death. Mander P, Borutaite V, 
+Moncada S, Brown GC. 
+Rev Neurol. 2006 May 1-15;42(9):535-41. [How does 
+the brain wake up? The nitric oxide blow]. [Article in 
+Spanish] Marifio J, Cudeiro J. 
+J Bioi Chem. 2007 Aug 10;282(32):23044-54. Nitric 
+oxide down-regulates caveolin-3 levels through the 
+interaction with myogenin, its transcription factor. 
+Martinez-Moreno M, Martinez-Ruiz A, Alvarez­
+Barrientos A, Gavilanes F, Lamas S, Rodriguez-Crespo 
+I. 
+Pediatr Res. 2002 Feb;51 (2): 190-4. Circadian variation 
+of exhaled nitric oxide and urinary eosinophil protein X in 
+asthmatic and healthy children. Mattes J, Storm van's 
+Gravesande K, Moeller C, Moseler M, Brandis M, Kuehr J. 
+Nutr Cancer. 2008;60(2):196-203. Geographic distribu­
+tion of liver and stomach cancers in Thailand in relation to 
+estimated dietary intake of nitrate, nitrite, and nitrosodi­
+methylamine. Mitacek EJ, Brunnemann KD, Suttajit M, 6 
+Caplan LS, Gagna CE, Bhothisuwan K, Siriamompun S, 
+Hummel CF, Ohshima H, Roy R, Martin N. 
+BJOG. 2008 Jan;115(1):14-21. Nitric oxide and 
+peroxynitrite platelet levels in women with small-for­
+gestational-age fetuses. Nanetti L(1), Giannubilo SR, 
+Raffaelli F, Curzi CM, Vignini A, Moroni C, Tanase L, 
+Carboni E, Turi A, Mazzanti L, Tranquilli AL. 
+Niger J Clin Pract. 2014 Mar-Apr;17(2):178-82. Nitrate 
+and drinking water from private wells: will there be an 
+epidemic of cancers of the digestive tract, urinary 
+bladder and thyroid? Njeze GE, Dilibe U, Ilo C. 
+Nitric Oxide. 2016 Jan 6. pii: Sl089-8603(16)3000l-5. 
+Effect of dietary nitrate supplementation on metabolic 
+rate during rest and exercise in human: a systematic 
+review and a meta-analysis. Pawlak-Chaouch M, Boissiere 
+J, Gamelin FX, Cuvelier G, Berthoin S, Aucouturier J. 
+Cancer Epidemiol Biomarkers Prev. 2013 
+Dec;22(12):2374-83. An exploratory study of respiratory 
+quotient calibration and association with postmeno­
+pausal breast cancer. Prentice RL, Neuhouser ML, Tinker 
+LF, Pettinger M, Thomson CA, Mossavar-Rahmani Y, 
+Thomas F, Qi L, Huang Y. 
+Free Radic Bioi Med. 2014 Aug;73:349-57. Hydrogen 
+sulfide and nitric oxide metabolites in the blood of free­
+ranging brown bears and their potential roles in hiberna­
+tion. Revsbech IG, Shen X, Chakravarti R, Jensen FB, Thiel 
+B, Evans 
+AL, Kindberg J, Frobert 0, Stuehr DJ, Kevil CG, Fago 
+A.J Clin Endocrinol Metab. 2005 Jan;90(1):409-13. Resting 
+metabolic rate and respiratory quotient in human 
+longevity. Rizzo MR, Mari D, Barbieri M, Ragno E, Grella 
+R, Provenzano R, Villa I, Esposito K, Giugliano D, Paolisso G. 
+Diabetes. 2013 Feb;62(2):466-70. Targeted disruption 
+of inducible nitric oxide synthase protects against aging, 
+S-nitrosation, and insulin resistance in muscle of male 
+mice. Ropelle ER, Pauli JR, Cintra DE, da Silva AS, De 
+Souza CT, Guadagnini D, Carvalho BM, Caricilli AM, 
+Katashima CK, Carvalho-Filho MA, Hirabara S, Curi R, 
+Velloso LA, Saad MJ, Carvalheira JB. 
+Biochem Soc Trans. 2014 Aug;42(4):1101-6. Intracel­
+lular redistribution of acetyl-CoA, the pivotal point in 
+differential susceptibility of cholinergic neurons and glial 
+cells to neurodegenerative signals. Szutowicz A, Bielarc­
+zyk H, Ronowska A, Gul-Hinc S, Klimaszewska-Lata J, Dys 
+A, Zysk M, Pawelczyk T. 
+J Clin Endocrinol Metab. 2001 Aug;86(8):3833-9. 
+Estrogen increases endothelial carbon monoxide, heme 
+oxygenase 2, and carbon monoxide-derived cGMP by a 
+receptor-mediated system. Tschugguel W, Stonek F, 
+Zhegu Z, Dietrich W, Schneeberger C, Stimpfl T, Waldhoer 
+T, Vycudilik W, Huber JC. 
+Chemosphere. 2015 Nov;139:402-9. Effects of nitrate 
+on metamorphosis, thyroid and iodothyronine deiodi­
+nases expression in Bufo gargarizans larvae. Wang M, 
+Chai L, Zhao H, Wu M, Wang H. 
+************* 

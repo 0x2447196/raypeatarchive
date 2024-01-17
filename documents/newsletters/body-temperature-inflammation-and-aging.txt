@@ -1,0 +1,196 @@
+Body temperature,
+inflammation and
+aging
+From the time Carl Fahrenheit made the first
+mercury thermometers in 1714 until the early
+1900s, the average normal adult temperature was
+98.6. At present, the temperature of young menaverages 1.06 degrees F lower, and that of youngwomen, 0.58 degree F lower (Protsiv, et al., 2020).Another study (Waalen and Buxbaum, 2011) in18,630 people found even lowertemperatures—1.4 degrees lower in men, 1.1degrees lower in women. Between 1930 and therecent studies, the only other large study involveddata from 1971 to 1975, so it’s possible that nearlyall of the change has occurred in the last 50 years.During this time, the prevalence of many seriousdiseases has increased, but there is very littlecuriosity about the possibility that these trends aremeaningfully related.
+I think there are clear cultural reasons for the
+lack of interest in lower body temperatures. Theold saying, “the brighter the candle burns, thesooner it goes out,” is often quoted to people whoseem excessively energetic and enthusiastic. Avariation of that idea is still common, and takenvery seriously—the idea that everyone has only acertain number of heart beats, and that they willlive longer if their heart beats slowly. Closer to thecandle metaphor, some people argue that we canprocess only a certain number of calories in alifetime, and so a slower rate of metabolism leadsto a longer life, illustrated by the different
+metabolic rates and life-spans of mice andelephants.
+In 1928, a book ( The Rate of Living ) by
+Raymond Pearl, a genetic determinist and JohnsHopkins University professor, gave this popularidea the appearance of science, claiming that themaximum life span is inversely proportional to thebasal metabolic rate. One of his famous exampleswas that, when seeds are sprouted in a saucer, theone that grows fastest dies the soonest. In theabsence of the nutrients of soil, it’s obvious thatthe seed’s stored nutrients will limit the extent andduration of its growth, but that has nothing to dowith aging—it’s just an extension of the candlemetaphor, with the seed endosperm playing therole of candle wax. 
+This simple technique of measur-
+ing basal body temperature as aguide to determining thyroidfunction and permitting proper treat-ment when necessary did not appealto the medical profession. Apparentlysome physicians had reservationsabout a test which might permitpatients to arrive at their owndiagnoses. Perhaps some had reser-vations because the test involved no
+fee.
+This idea resonated through the science
+culture as well as the popular culture for decades,and in 1956 Denham Harman’s theory that freeradicals produced by mitochondrial respirationRay Peat's Newsletter
+As low temperature rises with thyroid treatment, the symptoms associated 
+with hypothyroidism will disappear.  Broda Barnes, PhD, MD
+Copyright 2020               Raymond Peat  P.O. Box 5764  Eugen e OR  97405                 November 2020
+Not for republication without written permission.were the cause of aging was just what the “rate of
+aging hypothesis” needed for another 50 years ofacceptance. In the last 20 years, an abundance ofdata has accumulated showing that the theory isradically mistaken. For example, John Speakmanand Martin Brand have published variousexamples in which basal metabolic rate is propor-tional to life span (e.g., Speakman, et al., 2004).They showed that a higher rate of oxidativemetabolism reduced the formation of harmfulrandom oxidation, as well as being associated withlonger life. 
+A high rate of mitochondrial oxygen consump-
+tion produces heat that allows the organism tomaintain an optimal body temperature. When thebody temperature is lowered, reactive oxygenspecies such as superoxide increase; mitochondrialproduction of superoxide increases slightly, elimi-nation decreases greatly (Camara, et al., 2004).The slower oxygen consumption at lower tempera-tures shifts the redox of the system toward anexcess of NADH, while HIF and cytokines areincreased in hypothermia (Toriuchi, et al., 2020;Lee, et al., 2019; Albrecht, et al., 2012;Peyssonnaus, et al., 2007.)
+The doctrine that the organism is a machine
+defined by a blueprint in the genes has beenassociated with a “wear and tear” theory of agingsince August Weismann’s time. He argued thatthe  “germ line” is immortal, and the soma, thebody, is mortal in the sense that it lacks the abilityto renew itself. He was thinking of extrinsic causesof damage, such as infections, rather than intrinsiccauses such as free radicals, but the idea of immor-tal genes producing a machine-like mortal bodynecessarily leads to the belief that damage to themachine will inevitably accumulate.
+However, when the organism is seen as a
+constant process of adaptation, rather than as amachine that has to get along with the parts thatwere formed in early youth, metabolic energy isrecognized to be a constructive thing, and thingsthat reduce our energy—such as a decrease ofbody temperature—are seen as threats to life andsuccessful adaptation. 
+Our body temperature is maintained by the rate
+of energy production, and that’s mainly the resultof the oxidation of fuels by mitochondria. Thedepth of the burning candle metaphor in ourculture, and the belief that free radicals produced
+by mitochondrial respiration are the main cause ofthe changes occurring in aging, have led to a fearof things that increase our oxygen consumptionand raise our body temperature, such as caffeine,and to a reverent attitude toward antioxidants suchas vitamin C, and things that lower our oxygenconsumption and body temperature such asserotonin, nitric oxide, and estrogen.
+In the 1930s, it was known that thyroid
+hormone increases the metabolic rate and raisesthe body temperature. Since serum cholesteroldecreased in proportion to the increase ofmetabolic rate by thyroid supplementation, it wassuggested that measuring cholesterol could beused to diagnose hypothyroidism. In the early1930s Broda Barnes went to eastern Europe wherehypothyroidism was endemic, and found that thethree outstanding health problems in the area wereinfectious disease, heart disease, and breastcancer. When he later became a physician, heincorporated this knowledge into his practice, andthrough his career demonstrated that supplementalthyroid cleared up chronic or repeated infectionsand prevented death from heart disease. He alsoobserved that anemia was often remedied byraising the body temperature. His work showedthe value of keeping the body temperature close tothe normal 98.6 F or 37 C .
+When the pure substance thyroxin became
+available and displaced the use of powderedthyroid gland to treat hypot hyroidism, it led to two
+very important misconceptions that were incorpo-rated deeply into the practice of medicine. It wasdecided that no more than 5% of the populationwas deficient in thyroid hormone, and experi-ments were used to argue that thermogenesis andincreased metabolic rate and oxygen consumptionweren’t important effects of the hormone, becausethe liver was the only organ that increased itsoxygen consumption when thyroxin was added,and because added thyroxin decreased  the brain’s
+oxygen consumption. 
+The error was in defining thyroxin as the
+thyroid hormone. The liver is the main organ thatconverts thyroxin into the active thyroid hormone,triiodothyronine, T3, so it was able to respondmetabolically to thyroxin. In the brain, with alimited ability to activate thyroxin, an excess2interfered with the T3 already present before the
+brain tissue was isolated. The current, and stronglyenforced, “official” medical standards instructdoctors to disregard temperature, metabolic rate,and symptoms when evaluating thyroid status.
+The reaction against Broda Barnes’ use of
+temperature to diagnose hypothyroidism waspartly motivated by the belief that a subnormaltemperature is protective. This deep belief hasprobably contributed to the official preference foruse of the relatively inactive thyroxin rather thanthe thermogenically active thyroid, USP, and T3,and to the lack of interest in the associationbetween hypothermia and chronic infections, heartand circulatory problems, kidney disease, chronicinflammatory disease and other problems thatincrease with aging.
+The higher rate of oxygen consumption that
+occurs at higher body temperature corresponds to ahigh rate of carbon dioxide production, and aninhibition of lactate formation, with maintenanceof a more oxidized balance that reduces inflamma-tion. The beneficial effects of high altitude onhealth and longevity (Zubieta-Calleja, 2017;Simeonov and Himmelstein, 2015; Ghahramani, etal. 2011) have been known for a long time, and it’snow known that high altitude increases themetabolic rate (tending to prevent obesity) and thelevel of thyroid hormone in the blood, especiallythe active T3. In one study (Alhazmi, et al., 2018),T3 was four and a half times higher in peopleliving at a high altitude, T4 was about three timeshigher, and TSH (a promoter of inflammation) wasreduced by more than 25%. The high altitudestudies show very convincingly that a highmetabolic rate is strongly associated with greaterlongevity and better health. 
+Besides the misinterpretation of thyroid physi-
+ology, probably the biggest muddle in biologicaldoctrine is the interpretation of the decline intemperature at menopause. Younger, cycling,women have slightly higher average temperaturesthan men and postmenopausal women. Because ofadvertising, menopause has been defined as thefailure of the ovaries to produce estrogen; thedefinition created an enormous market for estrogenreplacement treatments. 
+When women cycle, their ovaries produce very
+large amounts of progesterone, and progesteronecauses a sharp increase in temperature. Estrogen
+antagonizes progesterone’s functions, including itsthermogenic effect. In rat studies, within a weekof removing their ovaries, their serum estrogenlevel has returned to normal, because all parts ofthe body produce estrogen. When the menstrualcycles stop, the ovaries stop producing progester-one (while all parts of the body keep producingestrogen), with the result that the body tempera-ture falls, becoming similar to that of men of thesame age. Estrogen independently causes vasodi-lation and increased heat loss (Charkoudian, et al.,2017). Estrogen, in a variety of ways, lowers bodytemperature (for example, Laudenslager, et al.,1982; Baker, et al., 1994).   
+Starting suddenly around the time of
+menopause, cortisol is higher, probably ascompensation for the lost stabilizing effects ofprogesterone, and the increased inflammatoryprocesses resulting from lower body temperature.Aromatase, the enzyme that produces estrogen, ispresent in muscles, fat, blood vessels, and manyother tissues, and its activity is increased by corti-sol, and decreased by progesterone. The changedactivity of these two steroids at menopause canaccount for the sudden increase in the degenera-tive diseases, inflammation, depression, etc.Atherosclerotic blood vessels and osteoporoticbones contain increased amounts of aromatase; theincreased aromatase corresponds to increasedextracellular matrix and the development of fibro-sis. Bright light, which is thermogenic Danilenko,et al., 2013), suppresses th e level of cortisol (Jung,
+et al., 2020).
+Thousands of publications have tried to
+explain all the unpleasant effects of aging inwomen as the result of a deficiency of estrogen,trying to justify the sale of estrogen supplementa-tion to treat the degenerative processes that areclosely associated with the increased aromataseand local production of estrogen. 
+Respiratory and circulatory problems increase
+with menopause, corresponding to increases ininflammatory cytokines and cortisol, anddecreases in progesterone and thyroid hormone.Both thyroid and progesterone are thermogenic,and lower estrogen levels. Atrial fibrillationincidence doubles after menopause, and producesincreasing mortality with aging. It has been3described as an epidemic (Lábrová, 2008; Ball, et
+al., 2013). It can be predicted by a prolonged QTinterval on an electrocardiogram, which indicates aretarded restoration of cell energy after a contrac-tion, and involves slowed conduction of the signalsthat are necessary for coordination of an organizedheart rhythm. A similar effect of hypothermia isseen in the brain, with the ability to remember andto reason varying with temperature. The QT inter-val is prolonged by hypothermia, hypothyroidism,and by estrogen, and normalized by progesteroneand thyroid function. The standard treatment foratrial fibrillation is destruction of part of theconduction system of the heart, called ablation,which costs more than $25,000 in the U.S., andresults in a very high percentage of heart failure.Correction of the problematic prolonged QT inter-val with thermogenic agents such as progesterone,thyroid, and aspirin (Korkmaz-Icöz, et al., 2016)isn’t of interest to the profession.
+Asthma, allergies and anaphylaxis increase
+after menopause, with a shift of cytokines towardincreased inflammation. These inflammationpromoting effects of estrogen have been recog-nized, but the knowledge hasn’t had much effecton the medical use of estrogen. The dogmaticinsistence that menopause is a state of estrogendeficiency, and the general lack of interest in bodytemperature, have made it impossible to publishmore than warnings that estrogen supplementationcan make menopausal asthma worse. A lower bodytemperature increases asthma symptoms (Hortonand Chen, 1979; Chen and Chen, 1982).
+The extent of hot flashes in menopause corre-
+sponds to the presence of inflammation and later,to the development of heart disease. Bodytemperature has been measured before, during andafter menopausal hot flushes. Sweating andreddening of the skin are mechanisms for dissipat-ing heat, so it isn’t surprising that the bodytemperature decreases quickly during the hot flush.Nitric oxide is involved in skin vasodilation, andestrogen increases nitric oxide in blood vessels ofthe skin. In the skin, progesterone’s thermogeniceffect involves vasoconstriction (Charkoudian andStachenfeld, 2016). 
+To avoid thinking about estrogen’s possible
+role in the hot flash, many doctors prefer to insistthat the episodes are the result of an increase incore temperature activating an unstable tempera-
+ture regulating system.
+Probably because of aspirin’s anti-fever effect,
+the medical culture tends to think of it as anti-thermogenic, despite its known stimulation ofmitochondrial oxygen consumption. Like thyroidhormone, aspirin prevents stress-induced loss ofsodium, which is an important part of ourtemperature and energy regulating system. Physi-cians usually prescribe acetaminophen (also calledparacetamol and Tylenol), which is hypothermic,instead of aspirin. Nutritional thermogenic factorsinclude sodium, calcium, vitamin D, carbohy-drates, especially sugar, and protein, which inter-act with our endogenous energy regulating factors,especially thyroid and progesterone.
+Things that decrease energy and body
+temperature increase some essential mediators ofinflammation, and those changes are deeplyassociated with the processes of aging. A diet highin polyunsaturated fatty acids creates hypothermiaand promotes torpor in animals before hiberna-tion (Ruf and Arnold, 2008), and a high ratio ofPUFA to saturated fats in the diet is associatedwith a shorter lifespan. For example, in mice on acalorie restricted diet, those receiving the moresaturated lard lived longer than those receivingfish oil or soybean oil (López-Domínguez, et al.,2015).
+Inflammation is a kind of adaptive response,
+but it leaves behind some fibrotic changes andatrophy of functional cells, along with anincreased tendency to resort to the inflammatoryresponse. Part of this cumulative inflammatorytendency can be seen in the increase with aging ofinflammatory cytokines, especially IL-1, IL-6,TNF, and a decrease of antiinflammatory cytoki-nes such as IL-10,  and increases of other inflam-mation promoting peptides such as angiotensin,parathyroid hormone, and CRP.
+Many of the changes caused by daily stresses
+are reversed during deep slow wave sleep. Theamount of slow wave sleep is decreased withaging. A few animal studies have found that artifi-cially extended sleep reversed some of the majorproblems of old age. Progesterone is able toincrease the amount of slow wave sleep, probablybecause of its effect on body temperature—warmbaths, warm climate, and exercise as well as4endogenous thermogenesis all increase slow wave
+sleep (Caufriez, et al., 2011; Raymann, et al.,2008; Fronczek, et al., 2008; Jordan, et al., 1990).
+A combination of energy-promoting factors
+that increase body temperature and increase deepsleep seems like a reasonable approach to extend-ing the healthy life span.
+Although carbon dioxide  causes vasodilation
+in the skin, increasing heat loss, it raises bodytemperature, by increasing heat production morethan the amount lost (Schaeffer, et al. 1975). Likeprogesterone, increased CO2 increased slow wavesleep (Wang, et al., 2011). 
+If longevity is shortened as a result of the
+accumulation of changes resulting from inflamma-tory adaptations, then living in different environ-ments, requiring different kinds of adaptation, willcause major changes in lifespan. The genetic deter-minists have insisted that there is an intrinsicmaximum human lifespan of 100 to 110 years, andthat although caloric restriction can extend theaverage lifespan, by slowing the “burning of thecandle,” it doesn’t change the maximum lifespan,and that claims of greater longevity (especiallywithout caloric restriction) are necessarily false. 
+One of the best documented long lives was Old
+Tom Parr in England, who was taken to London atthe age of 152 in 1635 to meet the king. All hismajor life events were recorded by the church. Hisnormal diet was said to be old bread and cheeserinds. More recently, several areas with a highproportion of very old people have been noticed;these were in areas where the church kept accuraterecords of births, marriag es, and deaths.  In 1922, a
+professor of physical chemistry from the Univer-sity of Kiev, Dr. Sadowein, reported that in thevillage of Derbent in the Caucasus, 20 people, in apopulation of 120, were over 100 years old. Theirdiet consisted almost exclusively of bread andfermented cow’s milk, with some sheep cheese. Inother high altitude areas, such as the Andes, theuse of sheep’s milk is very common, along with ahigh percentage of old people. Milk, calcium, andvitamin D are important thermogenic factors(Melanson, et al., 2003; Zemel, 2005). Exposure tobright sunlight, besides producing vitamin D, isthermogenic, increasing oxygen consumption.
+Calcium itself has powerful anti-inflammatory
+effects, but milk also contains a variety ofprotective anti-inflammatory peptides, and there is
+some evidence that fermentation producesadditional anti-inflammatory peptides. Although amilk based diet could account for much of thehealth benefit of high altitude, even in the U.S.where the diet doesn’t differ much in higheraltitude cities, there is a significant improvementof health and longevity at higher altitudes. In twolarge cities in Bolivia, each with a population ofabout 2.7 million (Santa Cruz, altitude 416 meters,La Paz, about 3800 meters), the city at moderatealtitude has 6 people of at least 100 years, whilethe higher city has 48 (Zubieta-Calleja, 2017). 
+   Altitude and a milk based diet are obviously
+two important thermogenic factors that slow theaccumulation of harmful adaptations, but there aremany other controllable factors that could extendlongevity even more. Reducing inflammatoryfactors is important, and personal choices canmake a big difference, for example choosingeasily digestible foods to reduce endotoxin, avoid-ing the polyunsaturated fatty acids that interferewith cell respiration and form inflammatoryprostaglandins, avoiding antioxidant supplementsthat create a reductive excess, and choosing foodsthat contain antiinflammatory-thermogeniccompounds, such as citrus fruits with their highcontent of flavonoids that support cell respiratoryfunctions. 
+                           REFERENCES 
+Resuscitation. 2012 Jan;83(1):113-8. Hypother-
+mia and anesthetic postconditioning influence the
+expression and activity of small intestinal proteinspossibly involved in ischemia/reperfusion-mediatedevents following cardiopulmonary resuscitation.
+Albrecht M, Gruenewald M, Zitta K, Zacharowski K,
+Scholz J, Bein B, Meybohm P.
+Acta Scientific Nutritional Health 2(12) 2018.
+Effect of High Altitude on Thyroid and Thyroid
+Stimulating Hormones Levels in Taif City. Alhazmi
+AS, Alomey A, Almalki H, lmehmadi M, Albshri M,Algarni N and Almutiri S. 
+Am J Physiol. 1994 Sep;267(3 Pt 2):R673-7.
+Effects of estrogen on thermoregulatory evapora-
+tion in rats exposed to heat. Baker MA, Dawson DD,
+Peters CE, Walker AM.
+Am J Physiol Heart Circ Physiol. 2004
+Apr;286(4):H1289-99. Hypothermia augments
+reactive oxygen species detected in the guinea pig5isolated perfused heart. Camara AKS, Riess ML,
+Kevin LG, Novalija E, Stowe DF,
+Clin Auton Res. 2017 Jun;27(3):149-155.
+Autonomic control of body temperature and blood
+pressure: influences of female sex hormones.
+Charkoudian N, Hart ECJ, Barnes JN, Joyner MJ.
+Auton Neurosci. 2016 Apr;196:75-80. Sex
+hormone effects on autonomic mechanisms of
+thermoregulation in humans. Charkoudian  N,
+Stachenfeld N.
+J Clin Endocrinol Metab. 2011 Apr;96(4):E614-23.
+Progesterone prevents sleep disturbances and
+modulates GH, TSH, and melatonin secretion inpostmenopausal women. Caufriez A, Leproult R,
+L'Hermite-Balériaux M, Kerkhofs M, Copinschi G.
+Obes Facts. 2013;6(1):28-38. Bright light for
+weight loss: results of a controlled crossover trial.
+Danilenko KV, Mustafina SV, Pechenkina EA.
+J Neurol Neurosurg Psychiatry. 2008
+Dec;79(12):1354-7. Manipulation of skin temperature
+improves nocturnal sleep in narcolepsy. Fronczek R,
+Raymann RJEM, Overeem S, Romeijn N, van Dijk JG,Lammers GJ, Van Someren EJW.
+Nephrology (Carlton). 2011 Feb; 16(2): 219–224.
+The epidemiological association of altitude with
+chronic kidney disease: Evidence of protectiveeffect. Ghahramani N, Ahmed F, Al-Laham A,
+Lengerich EJ.
+Psychophysiology. 1990 Sep;27(5):560-6. The
+effect of afternoon body heating on body tempera-
+ture and slow wave sleep. Jordan J, Montgomery I,
+Trinder J.
+J Biol Rhythms. 2010 Jun; 25(3): 208–216. Acute
+Effects of Bright Light Exposure on Cortisol Levels.
+Jung CM, Khalsa SBS, Scheer FAJL, Cajochen C,Lockley SW, Czeisler CA, Wright KP, Jr.
+Cardiovasc Diabetol. 2016 May 6;15:75. Oral
+treatment with a zinc complex of acetylsalicylic acid
+prevents diabetic cardiomyopathy in a rat model oftype-2 diabetes: activation of the Akt pathway.
+Korkmaz-Icöz S, Al Said S , Radovits T, Li  S, Brune
+M, Hegedűs  P, Atmanli A, Ruppert M, Brlecic P,Lehmann LH, Lahrmann B, Grabe N, Yoshikawa Y,Yasui H, Most P, Karck M, Szabó G. 
+Am J Physiol. 1982 Jul;243(1):R70-6. Increased
+heat loss in ovariectomized hypothyroid rats treated
+with estradiol. Laudenslager ML, Carlisle HJ, Calvano SE.
+Free Radic Biol Med. 2019 Jan;130:278-287.
+Expression of human inducible nitric oxide synthase
+in response to cytokines is regulated by hypoxia-inducible factor-1. Lee M, Wang C, Jin SW, Labrec-
+que MP, Beischlag TV, Brockman MA, Choy JC. J Gerontol A Biol Sci Med Sci. 2015 Oct; 70(10):
+1181–1188. The Influence of Dietary Fat Source on
+Life Span in Calorie Restricted Mice. López-
+Domínguez JA, Ramsey JJ, Tran D, Imai DM, KoehneA, Laing ST, Griffey SM, Kim K, Taylor SL,Hagopian K, Villalba JM, López-Lluch G, 
+Navas P,
+McDonald RB.
+Int J Obes Relat Metab Disord.(2003) 27:
+196–203. Relation between calcium intake and fat
+oxidation in adult humans.  Melanson, EL., Shart
+TA., Schneider J., Donahoo WT., Grunwald GK., Hill JO. 
+J Immunol. 2007 Jun 15;178(12):7516-9. Cutting
+edge: Essential role of hypoxia inducible factor-
+1alpha in development of lipopolysaccharide-induced sepsis. Peyssonnaux  C, Cejudo-Martin P,
+Doedens A, Zinkernagel AS, Johnson RS, Nizet V.
+Am J Physiol Regul Integr Comp Physiol. 2008
+Mar;294(3):R1044-52. Effects of polyunsaturated
+fatty acids on hibernation and torpor: a review and
+hypothesis. Ruf T, Arnold W.
+Elife. 2020 Jan 7;9:e49555. Decreasing human
+body temperature in the United States since the
+industrial revolution. Protsiv M, Ley C, Lankester J,
+Hastie T, Parsonnet J. 
+Brain. 2008 Feb;131(Pt 2):500-13. Skin deep:
+enhanced sleep depth by cutaneous temperature
+manipulation. 
+Raymann RJEM, Swaab DF, Van Someren EJW.
+J Appl Physiol. 1975; 38(5):900-6. Effect of chronic
+hypercapnia on body temperature regulation. Schaefer
+KE, Messier AA, Morgan C, Baker GT 3rd.
+PeerJ. 2015 Jan 13;3:e705. Lung cancer incidence
+decreases with elevation: evidence for oxygen as an
+inhaled carcinogen.  Simeonov KP, Himmelstein DS.
+J Neuroinflammation. 2020 May 2;17(1):141.
+Prolonged astrocyte-derived erythropoietin expression
+attenuates neuronal damage under hypothermic condi-tions. Toriuchi K, Kakita H, Tamura T, Takeshita S,
+Yamada Y, Aoyama M. 
+J Gerontol A Biol Sci Med Sci. 2011;66A(5):487–92.  Is
+older colder or colder older? The association of age with
+body temperature in 18,630 individuals. Waalen J,
+Buxbaum JN. 
+Sleep Med. 2011 Apr;12(4):378-83. Slow wave sleep
+in patients with respiratory failure W a n g  D ,  P i p e r  A J ,
+Wong KK, Yee BJ, Nathaniel S Marshall NS, Dijk D-J,Grunstein RR.
+J Am Coll Nutr. 2005 Dec;24(6 Suppl):537S-46S. The
+role of dairy foods in weight management. Zemel MB.  
+ BLDE University Journal of Health Sciences 2017
+V o l u m e  2  I s s u e  2   P a g e s  8 0 - 9 0 .  Extended longevity at
+high altitude: Benefits of exposure to chronic hypoxia.
+Gustavo R. Zubieta-Calleja, Natalia A. Zubieta-DeUrioste.
+                 *******************6

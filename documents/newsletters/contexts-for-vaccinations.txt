@@ -1,0 +1,233 @@
+Contexts for Vaccinations
+The science of inoculation or vaccination was
+established hundreds of years ago, based on thepractical reasoning that, “if something doesn’t killyou it makes you stronger.” The practice of small-pox inoculation was refined, by the end of the 18thcentury, by people devising ways to reduce the riskof death from the inoculation while retaining thestrengthening effect. For example, in Hamnavoe,Scotland in the 1780s, John Williamson (called“Johnnie Notions” for his inventiveness) developeda method of treating smallpox pus or scabs withsmoke and camphor to weaken it, and treatedthousands of patients without a single death. Heintroduced a small amount of the matter intrader-mally, bloodlessly (Tudor, 1882). Recently, it hasbeen learned that there is a tremendous difference inthe immune reaction to intradermal and subcutane-ous or intramuscular vaccinations.   
+ Later, in 1796, Edward Jenner demonstrated
+that an infection with cow pox produced immunityto cow pox, and within 3 years he had gatheredevidence that it also produced resistance tosmallpox. By the 1930s, using similar vaccines,smallpox had been eliminated in a few countries.
+Although a proposal was made in 1958 to the
+World Health Organization to have an organizedcampaign of vaccination to eradicate smallpoxthroughout the world, there were many peopleopposed to the project, and it was only in 1967 thatthe project began, using “ring vaccination” aroundoutbreaks to prevent spreading. The last natural caseof smallpox occurred ten years later. The projectcost an average of $23 million per year, with theaffected nations paying two thirds of the cost. In recent years the US Centers for Disease
+Control have been spending about $4.5 billionannually just for vaccines for children. The total
+annual cost of vaccines is over $50 billion ; t h e
+US accounts for about half of the vaccines used.The ongoing yearly expenditure on mass vaccina-tion is 70 times greater than the total cost ($230million, $717 million in current dollars) of eradi-cating the deadliest epidemic, smallpox, bytargeted vaccination. Mass vaccination isobviously better business than targetedvaccination. 
+The people and organizations
+that present themselves asmedical authorities are giving thepublic a radically false picture ofthe history of vaccination, and ofthe present situation in vaccineresearch.
+Science, in the modern sense, wasn’t involved
+in Johnny Notions’ knowledge of how to weakenthe smallpox agent, and how to inoculate it
+intradermally ; it was intelligence and intuition.
+His good results made the treatment popular, lawsand public relations weren’t needed. Since themiddle of the last century in the U.S., the practiceof science has become closely integrated withgovernment, and “evidence based” medicine isbeginning to be legally enforceable. The greatgrowth of the vaccine industry since the 1960shas been a prominent part of the corporatemedicalization of society. Ray Peat's Newsletter  
+The only thing that will redeem mankind is cooperation.  Bertrand Russell
+Copyright 2020     Raymond Peat  P.O. Box 5764  Eugene OR  9740 5      January 2020
+                                                                                                                                                                        
+Not for republication without written permission.Vaccination was practiced successfully long
+before the existence of microbes was known. Theidea of adding adjuvants resulted from the observa-tion that vaccination was more effective when therewas inflammation at the injection site. The develop-ment of vaccines has been empirical, the result oftrial and error, and knowledge of the relevant devel-opmental processes within the organism has beendeveloping only recently.
+Long after the 2001 “precaution-
+ary” removal of mercury fromchildhood vaccines, the CDC’sdisproportionate attention todenying the association of a linkbetween mercury and autism seemsto be intended to distract from thebroader safety issue of systemicinflammation.  
+Most of the people and organizations that
+present themselves as medical authorities are givingthe public a radically false picture of the history ofvaccination, and of the present situation in vaccineresearch. Their view seems to be that the truthwould harm society. They have so far focused theirmost virulent attacks on the idea that the mercury invaccines was responsible for the rapid increase inautism, but more generally they reject that vaccinescause significant harm such as brain damage orparalysis.
+Around 1900, tonsils were considered to be (like
+the appendix) useless tissue, but they played animportant role in thinking about infectious diseases.The dominant theory was that they were reservoirsof infection, and that people would be healthierwithout them. Tonsillectomy became the mostcommon surgery. However,  in 1910, some surgeonsnoticed that the children they operated on during apolio epidemic had an increased risk of contractingparalytic polio seven to fourteen days after theoperation.  Others later confirmed theirobservations, and the idea came to be called “polioprovocation.” In 1950, the idea was widelydiscussed, when an increase in the number of tonsil-lectomies corresponded to a sharp rise in cases ofparalytic polio. Although there was no scientific
+validation for the value of the tonsil surgery,decades passed before the number of surgeriesdeclined significantly.
+Some people argued that the stress of anesthe-
+sia and surgery caused the weakening of resis-tance to the polio virus, others thought that thetonsils might form a useful part of the immunesystem’s resistance to infection.
+While the role of tonsillectomy in polio was
+being debated, doctors in Germany noticed thatchildren with congenital syphilis that they treatedwith Neosalvarsan (Paul Ehrlich’s arsenicproduct) developed paralytic polio, and thendoctors in other countries reported similar eventsfollowing vaccination with cholera vaccine andsmallpox vaccine.
+In 1951, at the annual meeting of the Ameri-
+can Public Health Association, three officialsfrom the New York State Department of Health(Korns, et al., 1952) presented the results of theirepidemiological study to test the validity of fivestudies that had recently been published in Britishmedical journals confirming the polio provoca-tion theory—an increase in paralytic poliofollowing vaccinations or other injections
+(McCloskey, 1950 ; Gellen, 1950 ; Hill and
+Knowelden, 1950 ; Banks and Beale, 1950). Their
+study found that several kinds of injection wereassociated with an increased risk of paralysis inthe injected limb, but that the diphtheria-pertussis-tetanus vaccine was most stronglyrelated to the effect. When injections were in thearm, there was a median delay of 23 daysbetween the injection and paralysis, and when theinjection was in the leg the median delay was 30days. An experiment in mice showed the sameeffect of localized paralysis in the injected leg(Dean, et al., 1951).
+In June, 1951, the New York State Health
+Department advised all physicians in the state toavoid elective injections during polio season,except for babies less than 6 months old, and thateven those injections should be stopped during apolio epidemic. The US Public Health Service’sadvice was to keep vaccinating as usual. Theintroduction of the polio vaccine in 1955distracted attention from the issue of polio provo-cation. There was some criticism of the researchmethods of the Australian studies, but as far as I2know there has been no published criticism of
+Korns’ study. 
+Peripheral tissues, such as
+muscles, are in constant two-wayinteraction with the central nervoussystem, by the transport ofsubstances through the axons ofnerves, called anterograde andretrograde axonal transport. Theirritation caused by vaccines,especially with adjuvants, altersthis process, causing changes in thespinal cord and brain.
+In the 1980s a professor from England, H.V.
+Wyatt, believed doctors in Africa were seeing manycases of paralysis provoked by vaccination: “Itappears that ‘injection paralysis’ has scientificgrounds for its existence and that indeed the local-ization in the affected limb is a direct effect of theinjection, as Congo mothers have so long asserted”(Wyatt, 1981). Wyatt’s observations were confirmedmore recently (2003) by Kohler, et al.: “… the onlysignificant risk factor for paralytic illness washaving received any injection in the 30 days beforeonset” (Mawdsley, 2013).
+In 1998, two researchers in New York were able
+to show that muscle inflammation from a vaccinefacilitated the entry of virus into the spinal cord(Gromeir and Wimmer, 1998). 
+Peripheral tissues, such as muscles, are in
+constant two-way interaction with the centralnervous system, by the transport of substancesthrough the axons of nerves, called anterograde andretrograde axonal transport. The irritation caused byvaccines, especially with adjuvants, alters thisprocess, causing changes in the spinal cord andbrain. The presence of any virus in the peripheralsystem, which might otherwise be relativelyharmless, can gain access to the brain, leading todisabling or lethal brain injury when the axonaltransport system is abnormally activated, but, moreimportantly, the adjuvant itself can enter the brainby this route. In the absence of the polio virus, theprovocation syndrome can have effects other thanlocalized paralysis. Before birth, or during the
+first few months of a baby’s life, inflammationcan affect the entire course of development.
+Highly purified vaccines have little immuniz-
+ing effect (Petrovsky, 2015) ; traditionally, many
+substances have accidentally been included in thecomposition of vaccines—proteins, lipids,nucleic acids, and other materials from thegrowth medium used to make the vaccine areknown to be present in vaccines, and their rolesin the immune reaction hasn’t been studied,except in the recognition that a clean, highlypurified disease antigen is poorly immunogenic.Bacterial endotoxin is a very common accidentalcomponent of vaccines, increasing theirimmunogenicity.  Antigens from milk, egg,gelatin and yeast are common components ofvaccines (Franceschini, et al., 2015). Injectedantigens, especially with an adjuvant, are used
+experimentally in animals to produce allergies ; it
+would be odd if the same didn’t happen inhumans. 
+Injected antigens, especially
+with an adjuvant, are usedexperimentally in animals toproduce allergies; it would beodd if the same didn’t happen inhumans.
+It took more than 40 years for the polio
+provocation syndrome to be widely accepted, andthen it faded from awareness over the nextseveral decades, but it seems to have had a resid-ual effect on the public health culture: the ideathat, if a vaccine hasn’t produced swelling, fever,anaphylaxis, shock, paralysis, or death within twomonths, it is safe. Probably the most importantreason for defining the safety of a vaccine withina discrete time limit was the ideology of the“immune system” derived from Paul Ehrlich’schemotherapy, lock and key chemoreceptors,neutralizing antibodies, and magic bulletdoctrines. These were based on an “all or none”molecular reductionism.
+Ehrlich’s 1908 Nobel Prize was shared with
+Elie Metchnikoff, an embryologist whose idea of3immunity was conceived within a holistic view of
+the organism. At that time, embryological research
+was defining the field of biology ; it hadn’t yet been
+displaced by a genetic determinist view. Ehrlich’sreductionism not only coincided with the developingideology of genetics, but it was of great economicinterest.
+The public health view seems to
+be:  If a vaccine hasn’t producedswelling, fever, anaphylaxis, shock,paralysis, or death within twom o n t h s ,  i t  i s  s a f e .   T h e s e  v i e w sprobably derive from PaulEhrlich’s chemotherapy, lock andkey chemoreceptors, neutralizingantibodies, and magic bulletdoctrines--all based on an “all ornone” molecular reductionism.
+Ehrlich licensed his patent on the arsenic
+compound Salvarsan used for treating syphilis to theHoechst cartel, in a profit sharing arrangement.Ehrlich and his co-discoverer Hata were accused ofprofiteering from a dangerous drug. A newspaperpublisher claimed that prostitutes were dying as a
+result of forced treatment with Salvarsan ; h e  w a s
+sentenced to a year in prison for slander, but in factthe treatment was extremely dangerous.
+Metchnikoff recognized that phagocytes in parts
+of the body remote from the inflammatory stimuluswere attracted to the damaged area, and he investi-gated their role in tissue repair and the developmentof the embryo.
+In the 1960s, when antibodies were being
+studied intensively, Metchnikoff’s approach wascalled “innate immunity,” something more primitiveand undifferentiated than the evolutionarily moreadvanced “adaptive immunity” of the B and T cells,bone and thymus cells. At that time, however, anexample of something like adaptive immunity, alearned response to a toxin, had already beendemonstrated to exist in plants, and adaptive, learn-ing or developmental processes, in the innateimmune system of mammals were starting to be
+recognized.
+Refinements of Ehrlich’s idea of specific
+neutralizing antibodies dominated immunologicalresearch, and were recognized by several NobelPrizes, from 1960 to 1996. Public thinking aboutthe theory of vaccination hasn’t moved beyondthose ideas.
+Up until the beginning of this century, inflam-
+mation had usually been thought of as a simplyconstructive part of the local healing process, butit was starting to be recognized to have a univer-sal role in pathology. Tissue injury was no longerseen as a merely local event. Research was beingforced toward a reconsideration of Metchnikoff’sholistic, developmental view of immunity.Bystander effects, the emission by any injuredcell of substances that induce a similar injury inother cells, even in remote parts of the body
+(Koturbash, 2007 ; Kovalchuk, 2016), and the
+persistent epigenetic changes they involve, arepart of innate immunity. This system is activatedby adjuvants, as well as the adaptive immunesystem that produces antibodies. 
+Until the beginning of this
+century, inflammation wasusually thought of as a simplyconstructive part of the localhealing process, but it began tobe recognized to have a univer-sal role in pathology.
+There is still talk about the idea of increasing
+antigen availability (“sustained release”) byadsorption of antigen onto aluminum hydroxidewhich is supposedly retained in the immediatearea of the injection, but it has been commonknowledge among immunologists for a long timethat the adjuvant also produces a systemic inflam-
+matory effect (Tritto, et al., 2009 ; Pelka and Lutz,
+2011 ; Flach, et al., 2011 ; Thomson, et al., 2014).
+There was never a valid scientific basis for thatidea of sustained antigen release. In reality, theadjuvant causes formation of inflammatorycytokines (Tritto, et al.) that move through the4body fluids and activate remote phagocytic cells,
+and the aluminum itself is transported to all parts ofthe body, including the brain (Gherardi, et al.,
+2015 ;Khan, et al., 2013 ; HogenEsch, 2002). The
+formation of a nodule at the injection site in 5% to10% of aluminum injection sites can involve theformation of an active ly mph node, and can turn into
+a sterile abscess.
+Bystander effects, the emission
+by any injured cell of substancesthat induce a similar injury in othercells, even in remote parts of thebody, and the persistent epigeneticchanges they involve, are part ofinnate immunity. This system isactivated by adjuvants, as well asthe adaptive immune system that
+produces antibodies. 
+ It used to be the aluminum cookware industry
+that talked about the harmlessness of small amounts
+of aluminum ; now it is the government health
+agencies who are assuring the public that it’s incon-ceivable that a small amount of aluminum could beharmful. Individual, dissolved aluminum atoms aretoxic, but the alum in vaccines is particulate, and itis the size of the alum particles that allows them totrigger inflammation. (See my newsletter “Particlesin Context,” March 2019.)
+It has been common knowledge
+among immunologists for a long timethat the adjuvant also produces asystemic inflammatory effect.
+The important medical doctrine of randomized
+controlled trials has scientific validity, if there is anhonest and meaningful difference in treatmentbetween the experimental group receiving the drug,and the control group receiving a placebo. Whenevaluating the toxicity of a substance, it is alwaysassumed that the placebo is neutral and nontoxic,such as a salt solution, a sugar, or something confi-dently known to be harmless. In the case of manyvaccine “safety” tests, the control, as well as the
+vaccine, has contained aluminum (Exley, 2011).It’s hard to see the use of a toxic placebo asanything but an attempt to mislead. Althoughjournals are being pressured to withdraw articlesanalyzing the dangers of vaccination, none of thearticles using aluminum-containing placebos hasbeen retracted.
+The US Public Health Service relies on its
+authority to convince the public that vaccines aresafe. Rather than aggressively investigatingpossible harmful effects of vaccination, the CDCtakes a legalistic, lawyer-like position, dismissinga large portion of reported deaths from HPVvaccine as “hearsay,” because they didn’t receivean autopsy report or death certificate. Vaccinatorsare required to report certain adverse events thatoccur within a definite time after the vaccination.(I suspect that anyone reading that list of report-able events—things recognized by the govern-ment to be caused by vaccines—would feel some“vaccine hesitancy.”) If a death occurs 16 daysafter receiving a certain vaccine it isn’treportable, though it would have been the daybefore.
+When evaluating the toxicity
+o f  a  s u b s t a n c e ,  i t  i s  a l w a y sassumed that the placebo isneutral and nontoxic, such as asalt solution, a sugar, orsomething confidently known tobe harmless.  In the case of manyvaccine “safety” tests, the control,as well as the vaccine, hascontained aluminum.
+The most common cause of death during a
+short time following a vaccination is anaphylacticshock. The CDC requires a death certificate,listing a cause of death, or an autopsy report,before they will acknowledge that a death hasoccurred. It is well known that death from shockisn’t likely to be recognizable in an autopsy(Pumphrey and Roberts, 2000). Even with thesystem rigged as it is, payments for deaths and5injuries caused by vaccination have exceeded $4
+billion.
+Although certain types of vaccine consistently
+generate many more adverse event reports thanother vaccines, the CDC finds that the reportedevents are not more likely than similar events in thegeneral population.
+In 1986, Congress passed a law
+to protect vaccine manufacturersfrom financial liability resultingfrom harm done by vaccines, butrequired the US Department ofHealth & Human Services (HHS) towork with manufacturers in aneffort to reduce the harmful effects
+of vaccines.
+The CDC, praising their vaccination campaigns,
+says “…the  reality is that Americans have neverbeen healthier than we are today,” but that’s not thereality presented by the actual figures on disease anddeath—life expectancy has begun decreasing in theUS, and a great variety of chronic diseases areincreasing rapidly in young people. Inflammatorybowel disease, allergy, breast cancer, testicularcancer, infertility, rheumatoid arhtritis, and prema-ture births are among the growing health problemsin the US. 
+In the 1950s and ‘60s, for the USPHS,“national
+security” took precedence over public health, whenthey suppressed studies on the incidence of leuke-mia, fetal deaths, infant mortality and birth defectscaused by ionizing radiation from bomb tests andnuclear power reactor leaks. The truth about radia-tion’s biological effects would have hurt the nuclearindustry. The passage of the Price-Anderson Act of1957, protecting the nuclear power industry fromliability for damage caused by a nuclear disaster,revealed the political power of that industry.  
+In 1986, Congress passed a law to protect
+vaccine manufacturers from financial liabilityresulting from harm done by vaccines. Realizingthat corporations, freed from product liability,would have no incentive to improve the safety oftheir vaccines, the law required the Secretary ofHHS to report regularly to Congress on the progressthat they were making, working with the
+manufacturers, to reduce the harmful effects ofthe vaccines. It was only through a lawsuit, whenthe Freedom of Information Act failed to evoke aresponse, that the Dept. of Health and HumanServices was forced, in 2018, to reveal that it hadno evidence showing that it had done anything toimprove the safety of vaccines during those 30years. 
+US military personnel are required to salute
+their superiors in rank in the US Public Health
+Service ; insubordination is taken very seriously
+in all the US Uniformed Services ; hierarchy and
+obedience aren’t compatible with scientific objec-tivity. In the 1970s, Anthony Morris, the man incharge of evaluating vaccines, was telling hissuperiors that the influenza vaccines were worsethan useless. In July, 1976, as the “swine flu”vaccine was being prepared for an “imminentpandemic,” he was warning them of its dangers,and was fired for insubordination. He went onPhil Donahue’s television show, and warned thepublic of its dangers and ineffectiveness. 
+In 2018, under pressure from a
+lawsuit, HHS was forced to revealthat it could provide absolutelyno evidence of its work toimprove vaccine safety in the 30years since the 1986 law was
+passed.   
+     Three years later, November 4, 1979, CBS’s
+“60 Minutes” reviewed the swine flu episode, andshowed that there had been no such epidemic.One soldier, who had been in bed with flusymptoms, collapsed during a forced march and
+later died ; four others with the virus recovered.
+David Sencer, who had been head of CDC at thetime, said that no other cases had been confirmedanywhere in the world. Th ere were more than 300
+claims for deaths caused by the vaccine, andthousands of cases of paralysis. That vaccinationcampaign was stopped because of the highincidence of the paralytic syndrome, but it wasonly in 2017 that the Guillaine-Barre Syndromewas include in the official list of vaccine injuries.6The polio provocation episode showed that
+people in public health agencies, given a fewdecades, can sometimes learn and change theirbehavior when it doesn’t cost them anything. TheAnthony Morris episode showed that in 1976 scien-tific honesty was unwelcome in the USPHS. Thepassage of the 1986 law exempting vaccinemanufacturers from financial responsibility, and thehuge increase in vaccine profits, have made thesituation immeasurably worse.
+Supplements of certain nutrients, such as
+vitamins A and D, can greatly reduce the risk ofinfectious disease, as well as chronic disease. Theelimination of poverty and malnutrition can preventmany epidemics—poverty is a reservoir ofinfection.  The study of vaccines, “vaccinology,” inisolation from the developmental effects of nutritionand environmental stress, is a pseudoscience, blindto the mechanisms that produce harmful long rangeeffects. A typical “vaccinology” curriculum includesa section on ways to overcome “vaccine hesitancy.”When education or research is financed by the drugindustry, or their agents in government, it must beapproached critically.
+REFERENCES
+ Brit. M. J. 2:251-252 (July 29), 1950. Polio-
+myelitis and immunization against whooping
+cough and diphtheria. Banks HS and Beale AJ.
+Front Immunol. 2012 Mar 22 ;3:49. Phytol-
+derived novel isoprenoid immunostimulants.
+Chowdhury RR, Ghosh SK.
+Proc Soc Exp Biol Med. 1951 Aug ;77(4):834-6.
+The effect of unrelated vaccines on the localiza-
+tion of paralysis in mouse encephalomyelitis.
+Dean DJ, Cohen SM, Dalldorf G.
+Nat Med. 2011 Apr ;17(4):479-87. Alum inter-
+action with dendritic cell membrane lipids is
+essential for its adjuvanticity. Flach TL, Ng G,
+Hari A, Desrosiers MD, Zhang P, Ward SM,Seamone ME, Vilaysane A, Mucsi AD, Fong Y,Prenner E, Ling CC, Tschopp J, Muruve DA,Amrein MW, Shi Y.
+Clin Transl Med. 2015 ; 4:3. Vaccination in
+children with allergy to non active vaccine
+components Fabrizio Franceschini, Paolo Bottau,
+Silvia Caimmi, Giuseppe Crisafulli, Liotti Lucia,Diego Peroni, Francesca Saretta, Mario Vernich,
+Carlotta Povesi Dascola, and Carlo Caffarelli.
+M. Officer 83:137-140(Apr.8), 1950. The
+incidence of paralysis occurring in London
+children within four weeks after inoculation.
+Gellen DH.
+Front Neurol. 2015 Feb 5 ;6:4. Biopersistence
+and brain translocation of aluminum
+adjuvants of vaccines. Gherardi RK, Eidi H,
+Crépeaux G, Authier FJ, Cadusseau J.
+Brit. M. J. 2:1-4 (July 1), 1950.  In o cu la tio n
+and poliomyelitis. Hill AB and Knowelden J.
+Vaccine. 2002 May 31 ;20 Suppl 3:S34-9.
+Mechanisms of stimulation of the immune
+response by aluminum adjuvants. HogenEsch
+H.
+BMC Med. 2013 Apr 4 ;11:99. Slow CCL2-
+dependent translocation of biopersistent parti-
+cles from muscle to brain. Khan Z, Combadière
+C, Authier FJ, Itier V, Lux F, Exley C, Mahrouf-Yorgov M, Decrouy X, Moretto P, Tillement O,Gherardi RK, Cadusseau J.
+Am J Public Health Nations Health. 1952
+Feb;42(2):153-69. The association of parenteral
+injections with poliomyelitis. Korns RF,
+Albrecht RM, Locke FB.   
+Carcinogenesis. 2007 Aug ;28(8):1831-8.
+Role of epigenetic effectors in maintenance of
+the long-term persistent bystander effect inspleen in vivo. Koturbash I, Boyko A,
+Rodriguez-Juarez R, McDonald RJ, TryndyakVP, Kovalchuk I, Pogribny IP, Kovalchuk O.
+Oncotarget. 2016 Jan 26 ;7(4):4385-98. Liver
+irradiation causes distal bystander effects in
+the rat brain and affects animal behaviour.
+Kovalchuk A, Mychasiuk R, Muhammad A,
+Hossain S, Ilnytskyy S, Ghose A, Kirkby C,Ghasroddashti E, Kovalchuk O, Kolb B.
+Childhood Inoculations and America's
+Response to the Provocation of Paralytic Polio.
+Stephen E. Mawdsley University of Cambridge.
+First published online: August 13, 2013.
+Arch Dis. Childhood 25, 1-14 (Mar.) 1950.
+Local paralysis in children after injection,
+Martin JK.
+Lancet659-663 (Apr.8), 1950. The relation
+of prophylactic inoculations to the onset of
+poliomyelitis.
+ McCloskey BP. 
+Immunity. 2011 Apr 22 ;34(4):455-8. Getting
+closer to the dirty little secret. Pelka K, Latz E.7Drug Saf. 2015 Nov ;38(11):1059-74. Compara-
+tive Safety of Vaccine Adjuvants: A Summary of
+Current Evidence and Future Needs.  Petrovsky
+N.
+J Clin Pathol. 2000 Apr ;53(4):273-6. Postmor-
+tem findings after fatal anaphylactic reactions.
+Pumphrey RS, Roberts IS. 
+Vaccine. 2009 May 26 ;27(25-26):3331-4.
+Mechanism of action of licensed vaccine
+adjuvants.  Tritto E(1), Mosca F, De Gregorio E.
+The Orkneys and Shetland: Their Past and
+Present State ; SHETLAND UNDER SCOTTISH AND
+BRITISH RULE, pages 173-174. By John R. Tudor,
+1883. 
+https://archive.org/stream/orkneysshetlandt00tudo/ork
+neysshetlandt00tudo_djvu.txt
+Bulletin of the History of Medicine, 55 (1981):
+543-537.   Provocation Poliomyelitis: Neglected
+Clinical Observations from 1914 to 1950, Wyatt
+HV. 
+Transactions of the Royal Society of Tropical
+Medicine and Hygiene, 79, 3 (1985): 355-8. Provo-
+cation of Poliomyelitis by Multiple Injections, ’
+Wyatt HV. 
+Trans Roy Soc Med Hyg., 86 (1992): 546-549.
+Unnecessary Injections and Paralytic Poliomyeli-
+tis in India,   Wyatt HV, Mahadevan S, Srinivasan
+S.
+Issues Med Ethics, 4, 1 (1996): 14-15. A View
+From The West: Health Warning: Injections Can
+Endanger Health , Wyatt HV. 
+               ******************8

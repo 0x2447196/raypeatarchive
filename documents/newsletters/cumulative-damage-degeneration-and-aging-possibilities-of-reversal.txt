@@ -1,0 +1,165 @@
+Cumulative damage,
+degeneration, & aging--possibilities of reversal
+Coacervation ==The separation of a mixture of
+oppositely charged long molecules into different
+liquid phases, with different solubilities and other
+properties; adding other substances or changingconditions such as pressure and temperature, maycause changes in the properties of each phase,including disappearance of a phase, or the appear-ance of new phases. Coacervates have manyproperties resembling living material, such ascoherence and “tunability” or steerability or self-regulation of various properties. The essential roleof mRNA in this process in living organisms givesa new perspective on the current issues of vaccinesafety.
+LeChatelier’s principle == when a system experi-
+ences a disturbance (such as concentration,temperature, or pressure changes), it will respondto restore a new equilibrium state. A complexsystem, such as a coacervate, a cell, or tissue, ororgan, or organism, follows the principle withoften unexpected adaptive changes, includingaltered cell structure, energy production, tempera-ture control, and growth rate. This responsivenessto environmental conditions offers an opportunityto therapeutically “tune” a damaged system.
+Membraneless organelles == Until a few years
+ago, the many identifiable things in cells werethought to be either precipitated solids, or
+membrane-bound compartments. When most ofthem were found to lack boundary membranes, aprocess of liquid-liquid phase separation wasrecognized as their cause. The interaction ofdifferent types of RNA with proteins was found tobe the normal basis for the coacervation. These“bodies” that perform the cells’ work tend to comeinto existence as needed.
+Phase transition  == Traditionally, there were
+said to be three phases of matter, gas, liquid andsolid. Since the 1930s, non-dogmatic research hasconsidered the living state to be a special state ofmatter, in which many variations, correspondingto degrees of vitality, occur. 
+       ***********
+After considering in the last newsletter how
+subnormal body temperature and low oxidativemetabolism can accelerate inflammatory anddegenerative processes, it occurred to me that itwould be good to consider what happens when thebody temperature is increased by external heat,beyond the level at which the organism functionsoptimally. Partly, I’m thinking about the damagethat can be done by the increasing popularity ofsauna treatments, and various kinds of “hyperther-mic therapy for cancer,” usually disregarding theactual internal temperature of the tissues as wellas the general state of the organism (includinglevels of serum glucose and free fatty acids).  Butthe most important thing is what temperaturemeans to a living organism.
+For at least 70 years, biology education and
+publication in the US and Western Europe haveRay Peat's Newsletter
+We maintain that biological regularities do not resemble mathmatical laws.   Trofim Lysenko
+Copyright 2021        Raymond Peat  P.O. Box 5764  Eugene OR  9 7405             January 2021
+Not for republication without written permission.been dominated by the idea that biochemical
+reactions occur mainly in the cytoplasm of cells,which consists of a watery solution of enzymesand small molecules, enclosed by a membrane that,using pumps, controls the movement of substancesinto and out of cells. Random diffusion governsthe movements of the dissolved molecules. Forthem, biochemistry began when you extracted thejuice from cells, to study its reactions in atest-tube. They believed that the principles were soobvious that it wasn’t necessary to test their valid-ity, and that people who did test them were doing“pathological science.” 
+In the new paradigm with its view
+of life as a matter of meaningful andsensitive interactions between theliving states and their environments,the effects of temperature are vastlymore important and interesting thanin the world of randomness.  
+A few years ago, the drug industry revived
+interest in coacervates, using the principle to“micro-encapsulate” their drugs. That made phaseseparation a matter of economic importance, andthat has taken the vitality out of the basic“arguments” of the membrane-committed peopleagainst those like Gilbert Ling who showed thatlife is a special physical state of matter, with varia-tions corresponding to cells’ energy and structure. 
+Now, the old paradigm of random interactions
+has been replaced by a less abstract view of life asa matter of meaningful and sensitive interactionsbetween the living states and their environments.In this paradigm, the effects of temperature arevastly more important and more interesting than inthe world of randomness.
+Many of the new observations related to seeing
+cells as self-organizing coacervate systems arereminiscent of Gilbert Ling’s observations. Forexample, ATP increases the solubility of proteins(Patel, et al., 2017), and when energy is depleted,some proteins come out of solution, formingmembrane-less organelles, filaments, and granules.Prions, the agents of transmission of mad cowdisease, are formed in a process of phase separa-
+tion, that can be started by infection with a prionparticle, especially in an energy depleted condi-tion. In such an unstable situation, the introductionof extraneous filamentous material—such asvaccine or viral RNA, or polyethylene glycol(PEG), or carrageenan—could have a “seeding”effect similar to that of prions.
+50 years ago, the randomizing, denaturing
+effects of heat on protein systems (such ascooking an egg), seemed sufficient to explain thedestructive effects of heat on living tissue, but inthe late 1970s a series of major discoveries led toa surge of interest in the reactions of cells andorganisms to excessive heat.
+Gideon Goldstein had been studying thymus
+gland extracts for years when he found that acertain small protein in his extracts could be foundin every cell type of every living thing, so hecalled it Ubiquitous Immunopoietic Polypeptide,because it caused precursor cells to differentiateinto B and T cells. Later called ubiquitin, it wasfound to guide protein breakdown and turnover.Another type of nearly ubiquitous protein is calledchaperones; they guide the folding of newlysynthesized proteins, and can also govern themovement and degradation of proteins, and areinvolved in embryonic development and epige-netic adaptations. It was finally discovered that avariety of proteins that are produced massivelyduring heat stress, called heat shock proteins(HSP), are also chaperone proteins, and are asubiquitous as ubiquitin. 
+HSPs are involved in the differentiation of
+both eggs and sperm cells (Sarge and Cullen,1997), as well as in the development of the fertil-ized egg through the epigenetic processes ofembryonic development. Fertility requires themaintenance of the testes and ovaries at atemperature significantly lower than the body’score temperature, allowing cellular order to existwith a minimum of energy expense. This providesan interesting perspective on the meaning of theheat stress that can massively increase the forma-tion of the HSP, resulting in a shift away fromefficient oxidative metabolism toward glycolysis(Wang, et al., 1985). The developmental chaper-one effects and the energy effects seem to beinseparable—“Taken together, these data are2indicative of the fact that multifunctional Hsp70
+protein expression is relat ed to the extent of energy
+expenditure that cannot be distinguished from thechaperoning effects on protein metabolism inprevious studies” (Wang, et al., 2012). This shift ofenergy supply has been recognized as a factor inbreast cancer metabolism and growth (Zhao, et al,2009), and other age-related processes.
+Increasing temperature increases the rate of
+energy use, while lower temperature lowers therate of energy use. When energy availabilitymatches energy needs, there is no heat stress. TheHSP chaperone function can slow the degradationof proteins under stress; if the HSPs were to benamed in the present, they could be called “energydeprivation stabilizing proteins.” 
+Although the increased HSP can save the cells’
+or organism’s life, it degrades oxidative energyproduction and metabolic efficiency. Whenenvironmental conditions are too bad for activeadaptation, many organisms are able to reducetheir needs drastically; HSP, by reducing oxidativemetabolism and suppressing energy-expensiveprocesses, have an important role in producing thistorpor. HSP are involved in the induction ofdormancy or torpor in organisms ranging from thecellular slime mold Dictyostelium, to mammals.
+In the early stages of forming an individual,
+starting with the parents’ biological well-being,and continuing through the embryological devel-opments into adulthood, the quality of tissueenergy supplies, cellular energy balances, and theresulting orderliness of the tissue substance,govern the nature of the outcome. Long before theexistence of HSP/chaperones was suspected,progesterone was known to be an essential protec-tor of cell structure and energy production, whileestrogen’s destabilizing, disordering interferencewith oxidative energy function was known. Withthe discovery of the HSP, it was important tounderstand how these two systems, based onsteroids and proteins, interact.
+For more than 20 years, there was intense
+interest in the interactions of the HSP and thesteroid hormone receptors. The interest wasfocussed mostly on the activation of estrogen byHSP, and on estrogen’s stimulation of HSP synthe-sis. A few years ago, it became clear that proges-terone inhibits HSP formation, and that HSPsuppresses the effects of progesterone as well as
+its synthesis. These relations were already implicitin the existing knowledge that estrogen is excita-tory, analogous to excessively increasing tempera-ture, and that it shifts energy production towardglycolysis, and shifts cell functions toward dedif-ferentiation and cancer metabolism, while proges-
+terone has opposing effects : It reduces excitation,
+decreasing the need for energy, while shiftingenergy production away from inefficient glycoly-sis; it can restore normal differentiation whilereversing features of cancer, including HSP70(Blumenthal, et al., 2003). This self-stimulatingrelationship between estrogen and the HSP wouldtend to support dead-ends of low energy disor-ganization. Things that block HSP and estrogenwould tend to restore progesterone production,with improved energy and structure.
+When energy availability matches
+energy needs, there is no heat stress.Heat shock proteins (HSP) can slowthe degradation of proteins understress but they do this by degradingoxidative energy production andmetabolic efficiency.  
+These interactions help to understand the benefits
+and dangers of a warm bath or a sauna. Atbedtime, a mild warm bath can compensate forlow internal heat production, increasing themetabolic rate and helping to increase glycogenstores and increase progesterone level, makingdeep restorative sleep possible. But if the bath istoo warm or too prolonged, or if estrogen’s influ-ence is too great, the increased metabolic rate canintensify the inefficient metabolism further deplet-ing energy stores, and leading to higher stresshormones. Having extra carbohydrate before andduring the warm bath improves its therapeuticfunction, and decreases the risk of heat shock.
+Sidney Fox’s famous spontaneously formed,
+self-replicating proteinoid microspheres, withsome properties resembling coacervates, are ableto continue their life-like replication only whenthe experimenter keeps adding necessary3components to their environment. In an inadequate
+environment, their activity stops. Self-organizingsystems are maintained by the flow of energy andsubstance from the environment. In natural cellsand organisms, with aging, the life process slowsand then ends, as the protective adaptations tostress no longer find in the environment the neces-sary resources to continue. This is because ofcumulative changes in the structure and composi-tion of their cells and tissues, that have resultedfrom adapting to stress with small energeticretreats—decreasing oxidative energy productionand consumption. 
+When these adaptations involve increases in
+the quantity of HSP, there is a correspondingreduction in the quantity of functional, energy-consuming proteins in the cells. The loss of musclemass with aging, sarcopenia, is a clear example ofthis process (Bautmans, et al., 2008; Haak, et al.,2009). Autoimmunity is often directly involved insarcopenia, and the HSP overload is an importantfactor in the (often estrogen-related) autoimmunediseases, including asthma and arthritis.
+Estrogen is excitatory, and shifts
+energy production toward glycolysis,and shifts cell functions towarddedifferentiation and cancer metabo-lism, while progesterone reverses allthose effects.  Estrogen stimulatesHSP synthesis which suppresses theeffects of progesterone as well as itssynthesis.  
+Nitric oxide, increased under the influence of
+estrogen, is a strong inducer of HSP (Xu, et al.,1997; Miragem and Homem de Bittencourt, 2017).Independently, estrogen and nitric oxide areknown to promote fibrosis and cancer, and now thebasic role of HSP in fibrosis (Bonniaud, et al.,2017) and cancer is being recognized, and the drugcompanies are creating a variety of HSPinhibitors. 
+The accumulation of collagen with age, creat-
+ing an increasing barrier between cells and theenvironment, has been seen as one of the generalfactors in aging. HSP acting inside cells is produc-
+ing similar cumulative effects of stress, while alsocontributing to building the collagen barriers.
+Nitric oxide, increased under the
+influence of estrogen, is a stronginducer of HSP.  Independently,estrogen and nitric oxide are knownto promote fibrosis and cancer andnow the basic role of HSP in fibrosisand cancer is being recognized.Anti-HSP drugs might be helpful,but it’s reasonable to try to preventproblems, rather than treating themas they approach an irreversiblestate.  
+One of the heat shock proteins, HSP32, is also
+known as heme oxygenase, and synthesizescarbon monoxide from heme. In the brain, itsactivity increases with age and various braindiseases (Hirose, et al., 2003). In rats, HSPcontent of the brain increases steadily with aging,along with decreased mitochondrial oxidativemetabolism, and increased glutathione (Calabrese,et al., 2004). 
+The new anti-HSP drugs are likely to be
+helpful, but it’s reasonable to try to preventproblems, rather than treating them as theyapproach an irreversible state. Keeping energyefficiency high, while reducing wasteful excita-tions, has a long history in health optimization.Avoiding excessive polyunsaturated fats andphosphate in the diet, and regularly getting theessential nutrients needed to maintain thyroid andprogesterone production, is simple. Choosingfoods that contain substances that protect againstthe many known pro-inflammatory,age-accelerating processes is relativelysimple—citrus fruits, for example, contain a greatvariety of substances related to nobiletin, naringin,fisetin, and quercetin, that inhibit the formation ofHSP (Hosokawa, et al., 1990; Morino, et al.,1997;Kim, et al., 2015). Reducing the amount ofmethionine in animals’ diet can greatly extendtheir lifespan; this effect might be related to the4fact that methionine induces the formation of HSP.
+Serotonin, derived from tryptophan, also activatesHSP, so restriction of methionine and tryptophanin the diet, either by protein restriction or bysubstituting gelatin for “complete” proteins seemslikely to protect against the age-related increase ofHSP in essential tissues. 
+Keeping energy efficiency high,
+while reducing wasteful excitationshas a long history in healthoptimization.
+In the gene-centered view of life, there was no
+ability to explain transgenerational inheritance, thefact that things that happened to your grandparentsand parents can influence the nature of yourmetabolism and the quality of your life. The under-standing of the coherence of life, and itscoacervate-like qualities, in which environmentalinfluences can affect the way the organism uses itsgenes in a continuous process of development,makes it clear that time is very relevant to theorganism—its present structure and propertiesreflect its previous states, and project its futuretendencies and possibilities, its trajectory in life.The HSP, as an important component of the livingsubstance, is a factor in the transgenerationalepigenetic processes (Norouzitallab, et al., 2014).In general, the changes that compensate for stressdamage protect the organism, in the sense ofensuring survival, by desensitizing the organism tostimuli that could otherwise lead to increasedenergy expenditure. At the beginning of life, theHSP seem to function as they do at older ages, as asort of ballast or inertia, preserving life at theexpense of normal functions. Reduced energyproduction in compensation for stress at the begin-ning of life determines the quality of gestation andthe life trajectory of the developmental process,limiting brain size, ability to produce and to useenergy, and longevity.
+In this view of the self-organizing nature of
+life, the experiments (for example, Ahmad andZamenhof, 1987; Zamenhof, 1976; Zamenhof andKlimuszko, 1977) in which providing moreglucose than normal to developing embryos
+allowed them to develop larger, more intelligentbrains than had existed until that time, suggest thatthe present situation for vertebrate animals in thenatural world is frustrating a developmentalpotential and intention, directing developmentalpotential into the dead end of defending againststresses, and away from the intrinsic neotenous orpedogenic path, in which the childish features ofmetabolic intensity, playfulness, flexibility, andimaginativeness are preserved beyond early child-hood, avoiding indefinitely the degenerativeprocesses of decreasing energy and increasingdisorder.
+   
+REFERENCES
+ 
+Growth. 43: 1987 58-61. The effect of
+progesterone on brain and body growth of
+chick embryos. Ahmad G, Zamenhof S.
+J Am Geriatr Soc. 2008;56(3):389–396.
+Muscle endurance in elderly nursing home
+residents is related to fatigue perception,mobility, and circulating tumor necrosis factor-alpha, interleukin-6, and heat shock protein 70 .
+Bautmans I, Njemini R, Predom H, Lemper JC,
+Mets T.      
+Mol Carcinog. 2003 Dec;38(4):160-9.
+Suppression of the transformed phenotype and
+induction of differentiation-like characteristicsin cultured ovarian tumor cells by chronictreatment with progesterone. Martina Blumen-
+thal, Adel Kardosh, Louis Dubeau, Zea Borok,Axel H Schönthal.   
+European Respiratory Journal 2017 49:
+1602152. Heat shock protein: a hot topic in
+idiopathic pulmonary fibrosis. Philippe Bonni-
+aud, Pierre-Simon Bellaye, Olivier Burgy, MartinKolb.
+Mech Ageing Dev. 2004 Apr;125(4):325-35.
+Increased expression of heat shock proteins in
+rat brain during aging: relationship withmitochondrial function and glutathione redoxstate. V Calabrese, G Scapagnini, A Ravagna, C
+Colombrita, F Spadaro, D A Butterfield, A MGiuffrida Stella. 
+Am J Physiol Regul Integr Comp Physiol.
+2009;296(3):R812–R820 . Aging augments5mitochondrial susceptibility to heat stress. Haak
+JL, Buettner GR, Spitz DR, Kregel KC.
+Leg Med (Tokyo). 2003 Mar;5 Suppl
+1:S360-6. Age-associated increases in heme
+oxygenase-1 and ferritin immunoreactivity in
+the autopsied brain. Wataru Hirose, Kazuya
+Ikematsu, Ryouichi Tsuda.
+Cell Struct Funct. 1990 Dec;15(6):393-401.
+Flavonoids inhibit the expression of heat shock
+proteins. N Hosokawa, K Hirayoshi, A Nakai, Y
+Hosokawa, N Marui, M Yoshida, T Sakai, HNishino, A Aoike, K Kawai, et al.
+Carcinogenesis, Volume 36, Issue 6, June
+2015, Pages 696–706.  Fisetin, a dietary
+flavonoid, induces apoptosis of cancer cells by
+inhibiting HSF1 activity through blocking itsbinding to the hsp70 promoter.  J o o  A e  K i m ,
+Somyoung Lee, Da-Eun Kim, Moonil Kim,Byoung-Mog Kwon, Dong Cho Han.
+Hum Reprod Update. 2017 Sep
+1;23(5):600-628. Nitric oxide-heat shock protein
+axis in menopausal hot flushes: neglected
+metabolic issues of chronic inflammatorydiseases associated with deranged heat shockresponse. Miragem AA, Homem de Bittencourt PI
+Jr. 
+In Vivo. May-Jun 1997;11(3):265-70. Specific
+regulation of HSPs in human tumor cell lines by
+flavonoids. M Morino, T Tsuzuki, Y Ishikawa, T
+Shirakami, M Yoshimura, Y Kiyosuke, KMatsunaga, C Yoshikumi, N Saijo.
+FASEB J. 2014 Aug;28(8):3552-63. Environ-
+mental heat stress induces epigenetic trans-
+generational inheritance of robustness inparthenogenetic Artemia model. Norouzitallab
+P, Baruah K, Vandegehuchte M, Van Stappen G,Catania F, Vanden Bussche J, Vanhaecke L,Sorgeloos P, Bossier P.
+Science. 2017 May 19;356(6339):753-756.
+ATP as a biological hydrotrope. Avinash Patel ,
+Liliana Malinovska, Shambaditya Saha, Jie Wang,Simon Alberti, Yamuna Krishnan, Anthony AHyman.
+Cell Mol Life Sci. 1997 Feb;53(2):191-7.
+Regulation of hsp expression during rodent
+spermatogenesis. K D Sarge, K E Cullen.
+Current Biology, Volume 25, Issue 2, 19
+January 2015, pp. 163-174. Neuronal Serotonin
+Release Triggers the Heat Shock Response in C.elegans in the Absence of Temperature
+Increase. Marcus C. Tatum, Felicia K. Ooi,
+Madhusudana Rao Chikka, Laetitia Chase, LuisA. Martinez-Velazquez, Harry W.M. Steinbusch,Richard I. Morimoto, Veena Prahlad.
+J Appl Physiol (1985). 2012 Dec 1; 113(11):
+1669–1676. Heat shock protein  70 (Hsp70)
+inhibits oxidative phosphorylation and
+compensates ATP balance through enhancedglycolytic activity.  Liangli Wang, Uwe
+Schumann, Yuefei Liu,corresponding author OlgaProkopchuk, and Jürgen M. Steinacker.
+J Clin Invest. 1997 Sep 1; 100(5): 1089–1097.
+Nitric oxide induces heat-shock protein 70
+expression in vascular smooth muscle cells viaactivation of heat shock factor 1.  Q Xu, Y Hu, R
+Kleindienst, and G Wick.
+Oncogene volume 28, pages3689–3701(2009).
+Upregulation of lactate dehydrogenase A by
+ErbB2 through heat shock factor 1 promotesbreast cancer cell glycolysis and growth.  Y  H
+Zhao, M Zhou, H Liu, Y Ding, H T Khong, D Yu,O Fodstad & M Tan. 
+Wilhelm Roux's Archives of Developmental
+Biology. 80:1976,1-8. Stimulation of brain
+development in chick embryo by elevated
+temperature.  Zamenhof S. 
+Brain Research. 128: 1977, 385-8. Final
+number of Purkinje and other large cells in the
+chick cerebellum increased by oxygen and byglucose.  Zamenhof S, Klimuszko D. 
+               ******************6
