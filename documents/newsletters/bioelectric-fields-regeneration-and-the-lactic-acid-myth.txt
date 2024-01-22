@@ -1,0 +1,762 @@
+Ray Peat's Newsletter
+Not for republication without written permission. Copyright 1991 Raymond Peat P.O. Box 5764, Eugene, OR97405
+Bioelectric Fields, Regenera-
+tion, and the Lactic Acid Myth
+Exercise physiologists, knowing that lactic
+acid isproduced during intense exercise, and
+cancer biologists (especially since Warburg's work
+showing that all cancers have a respiratory defect)
+who know that cancer tends to produce lactic
+acid, almost always talk about the "acidity" of the
+fatigued muscle or of the cancer cell.
+While it is true that the entry of lactic acid
+into the blood tends to produce metabolic
+acidosis, the cell which is producing the lactic
+acid is actually more alkaline than normal cells.
+The simplest way to think of it is that "acid
+leaving the muscle makes it less acidic." But still,
+even though the chemical formula for producing
+lactic acid directly shows the consumption of
+acidity, and direct measurements confirm that the
+What we call inflammation offers a good
+conceptual link between the studies on excito-
+toxicity orcellular stress, and. the newer
+approaches to the treatment of aging and
+diseases, based on ideas of regen-
+eration and development. Controlling Inflam-
+mation becomes part of promoting
+regeneration. Injury potential and inflamma-
+tion are closely related; for example, I found
+that sunburned skin, or skin irritated by the
+application of a prostaglandin, had a negative
+polarity relative tonormal adjacent skin.
+cells become more alkaline when they produce
+lactate, the average biochemist or physiologist is
+likely to think the opposite.
+Lactic acid (or its ion, lactate) is involved in
+stress, aging, edema, inflammation, rheumatic
+diseases, bioelectricity, nerve-muscle interactions, cancer, and the antiinflammatory actions of the
+thyroid hormone, among other things, so a funda-
+mental confusion about what it does to cells
+means that much of biological and medical
+opinion has been unfounded. When I discussed
+the cellular alkalinizing effect of lactic acid
+formation in my dissertation in 1972, it wasn't a
+matter of scientific dispute, and since then, the
+newer techniques of measurement have made the
+situation even clearer. But, even today, almost
+always when conclusions are drawn about muscle
+fatigue, cancer, radiation damage, etc., they are
+based to a large extent on the false assumption
+about lactic acid and cellular pH. A specialist too
+often builds on the generalizations that a repropa-
+gated by textbooks and other mass media.
+When the pH of a cell or tissue changes, its
+electrical properties change.
+In the normal body, repair is going on
+constantly, and generally the new substance
+conforms to the existing pattern. The systems of
+signals that govern these patterns are called
+'developmental fields' and during the last 80
+years, evidence has accumulated showing that
+electrical fields participate in these processes of
+organization. (Child, 1921; McCaig, 1996.)
+There is an electrical field around organisms
+and, internally, electrical fields contribute to the
+development and/maintenance of anatomical
+structure. Sharks are able to find small fish
+buried under sand by detecting their electrical
+fields; they will dig torelectrical devices that
+have similar fields. Large electrical fields have
+been demonstrated extending away from the
+surface of skin, and since these fields have some
+ofthe properties of a "static electrical field,"
+many people have assumed that the charge was
+just something that passively accumulated by
+friction.
+But an experimenter demonstrated the
+presence of an electrical field extending outward
+from the external surface of pieces of skin grown
+in a culture dish. When cyanide was added to the
+medium, blocking respiration, the field collapsed,
+and when the cyanide was washed out of the skin,
+allowing respiration to continue, the field
+reappeared. The intensity of respiration clearly
+governs the intensity of the field. The researcher
+suggested that the field had the characteristics of
+an "electret" field. An electret is a charge polari-
+zation that results when the molecules of a
+substance (wax or ceramic) are aligned by an
+external field while at a relatively high tempera-
+ture, and then cooled.
+He implied that the energy of respiration was
+causing an alignment of molecules, resulting in
+the polarization of charges. Any field of this sort
+will influence other charged particles, and so it is
+obvious that it will participate in the arrangement
+and organization of particles. The existence of
+such fields probably influences the alignments of
+particles within cells, and of cells within organs.
+There is a tremendous difference in the strength
+of the field produced by different individuals, but
+the pattern is always essentially the same, except
+when it is distorted by pathological conditions;
+tumors, for example, distort the field.
+In general, cell or stimulation
+increases the intensity of cellular respiration, but
+when oxygen isn't available, the stressed or dying
+cell may become hyperactive. Epileptic seizures,
+for example, can be produced by hypoxia or
+hypoglycemia, as well as by other stimuli such as
+imbalances of salts and water.
+Textbooks often represent cellular electricity
+with a diagram showing the outside of a cell as
+"positive" relative to the "negative" inside of the
+cell. And researchers who have read those
+textbooks uncritically sometimes speak of the
+"positive" charge or field outside a cell. I'm sure
+they won't feel humiliated if I point out that the
+whole thing is an artifact of their experimental
+setup. Isolated cells in a liquid will move toward
+the positive pole in an electrical field, showing
+that the cell outwardly has a negative charge.
+This is called the sigma potential, or surface
+potential. And if thecell is pulverized, again,
+nearly all of its large molecular componenents
+and organelles will move toward the positive
+pole.
+When anelectrode is poked into a cell, it
+registers a negative polarity relative to the neutral
+outside. On a larger scale, if you put one
+electrode on moist skin, and put another electrode
+on a cut, the cut skin will be negative relative to
+the intact skin. This is called an "injury
+potential." But the intact skin is itself negatively
+charged, in the same way that any whole cell is
+negatively charged.
+It has been suggested that sharks are attracted
+to wounded animals by the electrical field caused
+by the injury, rather than by the odor of the blood,
+since they can detect the injured animal from
+distances far beyond the spread of chemical
+substances from theblood. The animal's "injury
+potential"s apparently just an intensification of
+the animal's normal electrical field. (Although
+much of the research onelectrical sensing has
+been done on fish, I suspect that land animals
+sometimes use electrical sensing. For example,
+dogs can sense an impending epileptic seizure of
+their owner; the electrical fields created--by the
+brain or the skin--during an extreme metabolic
+disturbance might be larger than those of a small
+fish buried under sand. People are able to detect
+the flow of a weak current in a buried wire, as
+discussed by Barnothy and Barnothy in
+Biomagnetics.)
+I have seen articles in major science journals
+that draw important conclusions from the nonex-
+istent positive charge supposed to be on the
+outside of cells, and those things have got past the
+editors and referees because those ideas are so
+current in our scientific culture. Less blatant, but
+equally false, ideas are even more prevalent. The
+use of various microelectrode techniques has
+produced an abundance of information on cellular
+electrical responses, but with the exception of the
+work of Gilbert Ling and a few others, the
+meaning of the data is obscured by a huge culture
+of phantasy theories.
+With this sort of fundamental confusion about
+bioelectricity, it isn't surprising that there is so
+little interest in the morphogenetic influences of
+electrical fields. The textbook images of
+"membrane potential" give the impression either
+that relevant fields don't exist, or that they are the
+opposite of those observed experimentally, and
+those mistaken textbook images overwhelmingly
+dominate the scientific-political-economic scene.
+The overall charge on proteins and other
+macrolecules is, in general, a matter of the pH of
+their environment. Usually, cellular proteins have
+a negative charge above a pH of 5. The ionization
+of chemical groups such as hydroxyl, amino, and
+sulfhydryl are responsible for the overall charge.
+The degree of oxidation or reduction affects the
+number of sulfhydryl groups, and the structural
+state of the protein also influences the charge. At
+high pH the charge is high, and the number and
+arrangement of sulfhydryl groups can affect the
+charge. The presence of small ions, carbon
+dioxide, andoxygen also influence the charge of
+proteins. When the whole living system is
+involved, bioelectricity interacts with other
+electron-related phenomena, including oxidation-
+reduction., pH, donor-acceptor and free radical
+reactions.
+When the pH of blood is high, the cells of
+blood vessels are excited into contraction. When
+the pH of the blood is low, nerve activity can be
+dulled to the point of coma, as in diabetic
+acidosis. I think these effects of pH, and the
+simpler effects of pH on protein charge, are
+closely related to each other, and to the phenome-
+non of the injury potential.
+Since proteins are generally negatively
+charged, and tend to move toward the positive
+pole when they are in an electrical field, a
+membrane made up of proteins (sheets or layers
+of cells, for example) will move in the same
+direction relative to the water that permeates it,
+meaning that the water will move in the opposite
+direction, i.e., toward the negative pole. This is
+called electroosmosis. Since the electrical charge
+on proteins becomes more strongly negative when
+the pH is high, and less strongly negative when
+the pH is low, water will tend to move across
+membranes from acidic regions into alkaline
+regions. The contracting muscle tends to take up
+water, and forcing it to take up water increases its
+tendency to contract.
+Oxygen, producing carbon dioxide, acidifies
+the cell, and carbon dioxide influences the cell's
+handling of water. Carbonic anhydrase inhibitors
+are commonly used to regulate conditions involv-
+ing edema, including adaptation to high altitudes.
+During intense contraction, especially when
+oxygen and carbon dioxide are limited, muscles
+produce lactic acid, and the specific reaction in
+which lactic acid is formed causes protons to be
+consumed, that is, it raises the pH.
+Increased pH, decreased osmolarity, and
+the associated movements of ions increase the
+cell's excitability.
+Because of the long history of thinking of
+muscle fatigue and hypoxia in terms of lactic acid
+production, and the mistaken idea that intracellu-
+lar pH is more acidic in proportion to the produc-
+tion of lactic acid, the confusion of bioelectrical
+ideas has been compounded by the confusion
+about pH.
+Cellular excitation, exhaustion, and injury
+will affect the cell's electrical fields in different
+ways depending on the availability of oxygen,
+glucose, salts, etc., but in each of states,
+there is increased entry of calcium into the
+cytoplasm.
+Calcium's entry into cells in itself can lead to
+increased excitation (muscle contraction, cramps,
+and seizures, for example), to cell death, or to
+increased proliferation. (It has also been thought
+that sodium and water can stimulate prolifera-
+tion. For example, Berman, et al., 1995.)
+Something as simple as reducing the pH can
+prevent apoptotic ("organized" or "programmed")
+cell death. (K.P. Hanson and V.E. Komar,
+Molecular Mechanisms of the Radiation Death of
+Cells, Energoatomizdat, Moscow, 1985).
+Carbon dioxide, produced by respiration, and
+ATP hydrolysis, are two powerful acidifiers of the
+cell; with sufficient stimulation both can probably
+act simultaneously, and in this situation the pH
+decrease will tend to oppose the exciting
+stimulus. Without sufficient oxygen to make
+CO2, a given stimulus might cause excita-
+tion and probability of death. The insufficiency
+of oxygen also leads to a relatively reduced state
+of the cytoplasmic proteins, increasing their
+electrical charge at a given pH. CO2 has many
+other effects that act in the same protective
+direction, such as calcium removal, iron
+binding, and water binding, and these other
+effects are at least as important as the pH effect.
+(Badylak and Babbs, 1986 showed that the combi-
+nation of a calcium blocker and an iron chelator
+with carbon dioxide tripled the survival after 7
+minutes of cardiac arrest.) Adequate CO2 is
+intimately involved in the disposition of calcium,
+and calcium's regulatory significance is univer-
+sally recognized.
+K.P. Buteiko believed that increased carbon
+dioxide in the body fluids sometimes caused
+cancers to disappear. In many studies over the
+last 40 years (and the trend can also be seen in
+insurance statistics published in 1912), it is clear
+that cancer mortality is much lower at high
+altitude. Under all conditions studied, the charac-
+teristic lactic acid metabolism of stress and cancer
+is suppressed at high altitude, as respiration is
+made more efficient. The Haldane effect shows
+that carbon dioxide retention is increased at high
+altitude.
+Studying athletes at sea level and at high
+altitude, it was seen that less lactic acid is
+produced by maximal exercise at high altitude
+than at sea level. Since oxygen deficiency in
+itself tends to cause the formation of lactic acid,
+this has been called the "lactate paradox"; the
+expectation was that more lactic acid would be
+formed, yet less was produced. Something was
+turning off the production of lactic acid.
+Normally, it is oxidative respiration that turns off
+glycolysis and lactic acid production, so that in
+exercise beyond the ability of the body to deliver
+oxygen, and in cancer with its respiratory defect,
+glycolysis produces lactic acid. So, something is
+happening at high altitude which turns off
+glycolysis.
+The Haldane effect is a term for the fact
+that hemoglobin gives up oxygen in the presence
+of carbon dioxide, and releases carbon dioxide in
+the presence of oxygen. It is the increased reten-
+tion of carbon dioxide that accounts for the
+"lactate paradox." Carbon dioxide activates the
+Krebs cycle, but it also combines with
+ammonium, and in doing so, deactivates glycoly-
+sis because ammonium activates a regulatory
+enzyme. At high elevation, carbon dioxide is
+retained, and lactic acid formation is suppressed.
+(This is called the Pasteur effect, but altitude
+physiologists haven't begun thinking in these
+directions.) Comparing very low altitude (Jordan
+valley, over 1000 feet below sea level) with
+moderate altitude (620 meters above sea level),
+ACTH was increased in runners after a race only
+at the low altitude, indicating that the stress
+reaction was prevented by a moderate increase
+of altitude. (el-Migdadi, et al., 1996.)
+The perspective we get on cancer, from the
+high altitude studies, allows us to go beyond the
+specific issue of cancer, to the more general issue
+of stress and regeneration. In outline, stress alters
+the physical nature of the cellular substance in a
+way that activates the cell, in which case it will
+either die from exhaustion, or grow into new
+cells. The replacement of injured cells means
+that mutations need not accumulate, and this
+renewal with elimination of mutant cells has been
+observed in sun-damaged skin. Among the many
+layers of form-generating and form-sustaining
+systems, the balance of electrical fields has a
+basic place.
+Several investigators have demonstrated that
+internal cancers altered the external electrical
+polarity of the animal, increasing the negative
+polarity in a region near the tumor. In the late
+1960s, I suspected that irritation or inflammation
+created an injury potential, similar to the "demar-
+cation potential" of an acute nerve or muscle. I
+covered one arm so that a small spot would
+sunburn without exposing the surrounding skin,
+and in other spots I applied small amounts of
+prostaglandins, the "hormones" derived from
+unsaturated fatty acids. The sunburned area was
+distinctly negative relative to adjacent areas, and
+some of the prostaglandins (pGF, for example)
+produced a slight increase of negative charge. I
+think these changes reflect both intensified
+metabolism and increased pH caused by inter-
+fering with efficient cell metabolism. Lactic acid
+production raises the pH, and high pH increases
+the ionization of most proteins.
+The localized distortion of the electrical fields
+will participate in adjustments that should tend to
+restore the normal fields, with different processes
+occurring depending on how long the distortion
+continues. Ordinarily, the fields change in
+concerted ways during the rhythmic events of
+eating, excreting, breathing, and sleeping.
+When a state of excitement persists long
+enough for the cell to produce an excess of lactic
+acid, causing it to become more strongly charged
+electrically, nearby blood vessels and nerves will
+tend to grow into the area, restoring normal
+energy supply and integrated functioning. (Lactic
+acid can be demonstrated to stimulate vascular
+growth by putting it near the eye's cornea, causing
+blood vessels to invade previously clear areas. In
+cell culture, McCaig demonstrated that nerve cells
+grow toward the negative electrode.)
+When a cell has been damaged (as by radia-
+tion or toxins), its inefficiency creates a small
+localized distortion in the fields, which will
+stimulate processes of repair or removal and
+replacement, as far as the organism's resources
+allow. When a stress is great enough that the
+entire organism is exposed to lactic acid, the
+organism's adaptive resources are being
+challenged, and potentially harmful responses are
+evoked. For example, a sluggish liver can allow
+the blood lactate concentration to rise during
+stress, and this can lead to secretion of endorphins
+and pituitary hormones (Elias, et al., 1997). The
+endorphins can increase histamine release, and
+growth hormone increases free fatty acids;
+increased permeability of blood vessels can allow
+proteins and fats to leave the blood stream with
+cumulatively harmful effects.
+In general, the factors that protect against
+harmful local activation of cells are also protec-
+tive against maladaptive general responses.
+The doctrines that explain aging, cancer, and
+other diseases in terms of the "wearing out of
+cells" have been based on the denial of the role of
+organismic patterns and fields in the regulation of
+events on the cellular and molecular levels.
+Those theories or doctrines have been popular
+because they fit the "reductionist" idea of science,
+which tries to explain the organism as a whole in
+terms of its smallest parts. The investigation of
+regeneration, which requires thinking in terms of
+patterns and fields, has been retarded by that
+essentially antibiological culture of reductionism.
+Sodium and carbon dioxide are essential for
+maintaining the normal fields, and these
+substances interact in ways that cause both of
+them to be lost during stress. In hypothyroidism,
+sodium is persistently lost, as carbon dioxide is
+chronically replaced by lactic acid.
+Both sodium (Veech, et al.; Garrahan and
+Glynn) and carbon dioxide—by stimulating the
+Krebs cycle, and keeping the respiratory enzymes
+active—help to maintain the normal level of ATP,
+protecting against stress and shock.
+The interlocking fundamental features of cell
+excitation/relaxation, electrical potential, lactic
+acid/carbon dioxide, water retention/water loss,
+salt regulation, pH, and energy level, allow us to
+visualize in a coherent way the biological
+meaning of stress and adaptation. Interacting
+with those physical-chemical events, there are
+many layers of biochemical and physiological
+processes that reinforce or modify them, includ-
+ing regulatory systems such as hormones and
+other biological signaling substances, nutritional
+adequacy, and the type of fuel used. The safest
+and most effective interventions will be those
+which support our basic organizational fields
+(sodium, carbon dioxide, balanced proteins,
+fruits, thyroid, pregnenolone, for example), and
+don't introduce distortions, as some drugs, foods,
+hormones, and supplements do.
+REFERENCES
+Elias AN; Wilson AF; Naqvi S; Pandian MR,
+"Effects of blood pH and blood lactate on growth
+hormone, prolactin, and gonadotropin release after
+acute exercise in male volunteers," Proc Soc Exp Biol
+Med 214(2), 156-60, 1997. "It has recently been found
+that prevention of the acidosis of anaerobic exercise
+blocks beta-endorphin release. Because heavy exercise
+affects secretion of other anterior pituitary hormones,
+we studied the results of alkali infusion and ingestion
+upon blood levels of four hormones: luteinizing5
+hormone (LH), follicle-stimulating hormone (FSH),
+growth hormone (GH), and prolactin (PRL)." "GH and
+PRL but not FSH or LH increased significantly
+postexercise ...."
+K.R. Robinson and M. A. Messerli, "Electric
+embryos: the embryonic epithelium as a generator of
+developmental information," Ch. 9, 131-145, Nerve
+Growth and Guidance, C.D. McCaig, editor, Ashgate
+Publ. Co., 1996. .
+C.D. McCaig, Nerve Growth and Guidance,
+Ashgate Publ. Co., 1996. "DC fields alone profoundly
+influence nerve growth and guidance and do so by
+impinging on specific receptors and by activating well
+recognized second messenger systems."
+C.M. Child, The Origin and Development of the
+Nervous System, Univ. of Chicago Press, 1921.
+S.R. Dager, et al., "Proton magnetic resonance
+spectroscopy investigation of hyperventilation in
+subjects with panic disorder and comparison subjects,"
+Am. J. Psychiatry 152(5), 666-672, 1995. "Panic disor-
+der subjects exhibited significantly greater rises in
+brain lactate than comparison subjects in response to
+the same level of hyperventilation." "This increase in
+brain lactate may result from decreased cerebral blood
+flow due to hypocapnia ...."
+D.T. George, et al., "Effect of chloride or glucose
+on the incidence of lactate-induced panic attacks," Am.
+J. Psychiatry 152(5), 692-697, 1995. "The coadminis-
+tration of glucose resulted in a reduced sensitivity to
+the panicogenic effects of lactate. "
+G.B. Haycock, "The influence of sodium on
+growth in infancy," Pediatr. Nephrol. 7(6), 871-875,
+1993. "Early nutrition in preterm infants can affect
+subsequent growth and also cognitive function: This is
+probably multifactorial, but NaCl intake differed
+substantially between study groups and is likely to be
+an important factor. The mechanism whereby Na
+promotes cell growth is not understood ...."
+F. Berman, et al., "An early transient increase of
+intracellular Na+ may be one of the first components
+of the mitogenic signal. Direct detection by 23Na-
+NMR spectroscopy in quiescent 3T3 mouse fibroblasts
+stimulated by growth factors," Biochim Biophys Acta
+1239(2), 177-185, 1995.
+R.L. Veech, G.A. Cook, and M.T. King, "Relation-
+ship of free cytoplasmic pyrophosphate to liver glucose
+content and total pyrophosphate to cytoplasmic
+phosphorylation potential," FEBS Lett 117, K65-72,
+1980.
+Garrahan, PJ and Thof Glyrm, "The incorporation of
+inorganic phosphate into adenosine triphosphate by
+reversal of the sodium pump," J. Physiol 192,
+237-256, 1967. S.F. Badylak and C.F. Babbs, "The effect of
+carbon dioxide, lidoflazine and deferoxamine upon
+long term survival following cardiorespiratory arrest in
+rats," Resuscitation 13(1), 165-173, 1986. Seven
+minutes after cardiac arrest, cardiopulmonary resusci-
+tation was begun. "Treated rats were ventilated for 1
+hour with 7% carbon dioxide-93% oxygen and given
+lidoflazine ... and deferoxamine ... 5 min. after CPR."
+".. control rats were ventilated for 1 hour with 100%
+oxygen ...." "At 2 days ... 75% of treated rats vs. 25%
+of control rats were alive."
+F. Plum, et al., "Effect of hyperbaric-hyperoxic
+hyperventilation on blood, brain, and CSF lactate,"
+Am. J. Physiol. 215(5), 1240-1244, 1968.
+F. el-Migdadi, et al., "Exercise at low altitude
+(Jordan Valley) causes changes in serum levels of
+ACTH, insulin, cortisol, and lactate," Endocr. Res.
+763-767, 1996.
+"Limiting factors for exercise at extreme
+altitudes," West J. Clin Physiol, 1990 May, 10:3,
+265-72. "Although ventilation is greatly increased,
+it is a paradox that cardiac output for a given work
+level is the same in acclimatized subjects at high
+altitude as at sea level. Stroke volume is reduced but
+not because of impaired myocardial contractility
+because this is preserved' up to extreme altitudes.
+Indeed the normal myocardium is one of the few
+tissues whose function is unimpaired by the very
+severe hypoxia." "In spite of the greatly reduced
+aerobic capacity, anaerobiosis is greatly curtailed,
+and it is predicted that above 7500 m, there is no
+rise in blood lactate on exercise."
+Stubbs M; Veech RL; Griffiths JR, "Tumor
+metabolism: the lessons of magnetic resonance
+spectroscopy," Adv Enzyme Regul 35, 101-15,1995.
+For many years after Warburg's classic work, it was
+generally assumed that tumors produced large amounts
+of lactic acid and consequently had an acidic intracel-
+lular pHi. However, with the advent of Magnetic
+Resonance Spectroscopy (MRS), a non-invasive in
+vivo measure of tissue pH became available and
+demonstrated that· in both human and animal
+tumors, pHi was higher (>7.0) than pHepsilon «
+6.8), in contrast to normal tissues (e.g., liver) in
+which pHi (approximately 7.2) is lower than pH
+epsilon (approximately 7.4). This result has been
+confirmed in animal tumors using an MRS-visible
+extracellular marker, 3-aminopropyl phosphonate. The
+pH gradient across the tumor cell membrane is part of
+an interrelated system of ionic gradients and measure-
+ments made by both 31P MRS and by conventional
+analysis in
+
+ Morris hepatoma 9618a and in livers
+demonstrated that the following ions also·' changed:
+compared with liver the Na+ content was 2-fold higher,
+K+ was 20% lower, total Ca2+ was 8-fold higher (7.4
+mumoVg wet wt) and total Pi2-fold higher (8.5
+mumoVg wet wt), suggesting the presence of insoluble
+calcium phosphate, HCO3- was lower, total Mg2+
+was similar in both tissues, but free [Mg2+] (calcu-
+lated by two different methods) was approximately
+5-fold lower in the hepatoma, as was
+[ATP]/[ADP) [P(i)]. Because of an inadequate blood
+supply, tumors are often hypoxic with impaired
+Krebs cycle activity, low [ATP]/[ADP) [P(i)) and
+rely mainly' on glycolysis for energy. The rapid
+production and subsequent export of anionic
+lactate-from the tumor cell would be accompanied
+by H+. This would account for reversal of the proton
+gradient and activation of the Na+/H+ exchange. The
+elevated [Na+]i would decrease the Na+/Ca2+
+exchange, which would in turn tend to cause the
+accumulation of Ca2+ (and P(i)). Such calcification is
+a very common feature of tumor pathology. The data
+indicate the change in gradient of one ion (H+)
+involves alterations in the linked equilibria of many
+ions and also of energy metabolites and offers new
+insights into properties of tumors important both
+diagnostically and therapeutically.
+Kayser B; Ferretti G; Grassi B; Binzoni T; Cerre-
+telli P, "Maximal lactic capacity at altitude: effect of
+bicarbonate loading," J Appl Physiol 75(3), 1070-4,
+1993.
+Kayser B, "Lactate during exercise at high
+altitude," Eur J Appl Physiol 74(3), 195-205, 1996. "In
+acclimatized humans at high altitude the reduction,
+compared to acute hypoxia, of the blood lactate
+concentration (la) at any absolute oxygen uptake
+(V02), as well. as the reduction of maximum la
+(Iamax) after exhaustive exercise, compared to both
+acute hypoxia or normoxia, have been considered
+paradoxical, and these phenomena have therefore
+become known as the 'lactate paradox'." "At present, it
+appears that the acclimatization-induced changes in
+[1a-] during exercise are the result of at least two
+mechanisms: (1) a decrease in maximum substrate flux
+through aerobic glycolysis due to the reduced
+V02max in hypoxia; and (2) alterations in the
+metabolic control of glycogenolysis and glycolysis at
+the cellular level, largely because of the changes in
+adrenergic drive of glycogenolysis that ensue during
+acclimatization, although effects of changes in periph-
+eral oxygen transfer and the cellular redox state cannot
+be ruled out. With regard to the differences in lactate
+accumulation during exercise that have been reported
+to occur between lowlanders and highlanders, both
+groups either being acclimatized or not, these do not seem to be based upon fundamentally different
+metabolic features. Instead, they seem merely to reflect
+points along the same continuum of phenotypic
+adaptation of which the location depends on the time
+spent at high altitude.
+Buteyko, K.P., "The theory of C02-deficient
+diseases of civilisation as an adaptation to the
+evolution of atmosphere," Kiberneticheskie
+Aspekty Adaptatsii Sistemy "Chelovek-Sreda,"
+Tez. Seminara, Moscow, 1975. seminar thesis.
+Stubbs M; Rodrigues L; Howe FA; Wang J; Jeong
+KS; Veech RL; Griffiths JR.,"Metabolic consequences
+of a reversed pH gradient in rat tumors," Cancer Res
+5-1(15), -1011--1016, 1994. "We have previously
+demonstrated (M. Stubbs, Z.M.Bhujwalla, G.M.
+Tozer, L.M.Rodrigues, R.J.Maxwell, R.Morgan, F.
+A.Howe, and J.R.Griffiths, NMR Biomed.5, 351,
+1992) that the intracellular pH (pHi) of several rat
+tumors is higher (>pH7.0) than that of the tumor
+extracellular fluid (pHe), in contrast to normal tissues
+(e.g., liver) in which pHi is lower than pHe. In this
+paper we confirm a pHe of 6.8+/-0.07 (SEM) in
+Morris hepatoma 9618a by an independent method
+and report the tissue content of other ions by both 31P
+magnetic resonance spectroscopy and by conventional
+analysis in hepatomas and livers in rats. Compared
+with liver, tissue Na+ was 2-fold higher and tissue K+
+was lower. Tissue Ca2+ was 8-fold higher (7.4 +/-4.3
+mumoJ/g wet weight) and tissue Pi was 2-fold higher
+(8.5 +/- 1.3 mumoV/g wet weight) suggesting the
+presence of insoluble calcium phosphate. O- was
+unchanged (approximately 40 mumoV/g wet weight),
+whereas HC03- was lower in the hepatoma (12.4 +/-
+0.83 compared to 15.5 +/-0.76 mumoV/g wet weight).
+Total tissue Mg2+ was similar in both tissues, but free
+[Mg2+] (calculated by two different methods) was
+approximately 5-fold lower in the hepatoma. The ATP
+values were 3.5-fold and [NAD]/[NADH] 9-fold lower
+in the hepatoma. The results are compatible with the
+hypothesis that the chronic partial hypoxia of tumor
+tissue involves changes in the linked equilibria of
+many ions and metabolites and may help explain such
+pathologies as calcification."
+EIjefaIt I; Persson CG, "Inflammatory passage of
+plasma macromolecules into airway wall and lumen,"
+Pulm Pharmacol 2(2), 93-102, 1989. "Anaesthetized
+guinea-pigs received tracer macromolecules 70-340
+kDa intravenously and their erythrocytes were labelled
+invivo with 99mTc." "It is suggested that the consis-
+tent inflammatory stimulus-induced passage of plasma
+into the lumen is a consequence of a load on the basal
+side of the epithelium induced by the extravasated
+plasma and its derived peptides. An increased
+interstitial pressure may transiently separate many
+epithelial cells allowing a mainly uni-directional almost
+unrestricted flow of large solutes into the lumen."
+H.Haber and L.R. Bach, "Normalization of blood
+carbon dioxide levels by transition from conventional
+ventilatory support to noninvasive inspiratory aids,"
+Arch. Phys. Med. Rehabif. 75(10), 1145-50, 1994.
+"Chronic hypocapnia decreases ventilator-free breath-
+ing time ... and may be associated with increased bone
+resorption."
+M.V.Riley, et al.,"The roles of bicarbonate and
+C02 in transendothelial fluid movement and control of
+corneal thickness," Invest. Ophthalmol. Vis. Sci. 36(1),
+103-112, 1995.
+Wheeler LA; Sachs G; DeVries G; Goodrum D;
+Woldernussie E; MualJem S,"Manoalide, a natural
+sesterterpenoid that inhibits calcium channels," J Biol
+Chem 262(17), 6531-8. "Manoalide is a marine natural
+product that has anti-inflammatory and anti-
+proliferative activities and is an irreversible inhibitor of
+phospholipase A2 and phospholipase C. It is now
+shown that the compound is a potent inhibitor of Ca2+
+mobilization in several cell types." "In addition,
+manoalide also inhibited the Ca2+ influx induced by
+concanavalin A in mouse spleen cells in a time- and
+temperature-sensitive manner with an IC50 of 0.07
+MicroM. However, neither forskolin-activated adeny-
+late c-jchisc in A431 cells nor the distribution of the
+potential sensitive dye, 3,3'-dipropylthio-
+dicarbocyanide iodide in GH3 cells was affected by
+manoalide. Thus, manoalide acts as a Ca2+ channel
+inhibitor in all cells examined. This action may account
+for its effects on inflammation and proliferation and
+may be independent of its effect on phospholipases."
+B. et al.,"Maximal rate of blood lactate
+accumulation during exercise at altitude in humans," J.
+Appl. Physiol. 79(1), 331-339, 1995. [Blood lactate
+accumulation was greater at sea level after an exhaus-
+tive load.]
+A.Szydlowski and I. "Preservation
+of the blood of slaughter animals ...;1. Metabolism of
+the erythrocytes," Pol. Arch WeIer. 25(2-3), 177-187,
+1987. "Decreased hemolysis during storage of blood
+saturated with C02 resulted from significant changes
+in metabolism of erythrocytes expressed by decreased
+glycolysis rate.... and by increasing affinity of hemoglo-
+bin for oxygen."
+Notes:
+[The living cell is different from most other electri-
+cally polarized materials in being able to adjust its
+charge, its affinity for small molecules and ions, and its
+shape. During stimulation (and contraction of a
+muscle), the phase potential may momentarily disap-
+pear as proteins' affinity for potassium, sodium, and
+calcium change, but the sigma potential doesn't, and
+may even increase slightly. The nature of LC excited
+state is different in different environments, for
+example, at high altitude or in the presence of
+increased carbon dioxide, muscles don't contract as
+fully, and don't produce as much lactic acid during
+their maximal activity, as they do under conditions of
+high oxygen and low carbon dioxide pressure.)
+[Increased carbon dioxide lowers the so-called
+membrane potential (Ling and Gerard, 1949), which I
+interpret as being almost equivalent to a lowering of
+the "injury potential." There are several more direct
+indications that carbon dioxide protects against
+destructive excitation. Muscle contraction is limited
+by increased carbon dioxide, and at high altitude,
+maximum exertion is limited, very probably because
+of the Haldane effect, in which carbon dioxide is
+retained in proportion to the oxygen deficit.
+Carbon dioxide increases the association of water
+with proteins, a process analogous to lowering the
+temperature; both cold and high CO2 concentrations
+have a similar effect on muscle relaxation after
+contraction. (Howell, 1920)
+A deficiency of carbon dioxide (as in hyperventila-
+tion) tends to cause epileptic seizures and muscle
+cramps, and is a factor in asthma and several other
+diseases (Buteiko) which seem to involve excessive
+cellular excitation. I think it acts by way of reducing
+the overall electrical charge of proteins, probably
+acting as a "cardinal adsorbant," in Gilbert Ling's
+sense-a molecule which, when bound to a protein,
+changes the protein's affinity for other molecules.}
+[When a needle is poked into a cell, it obviously
+injures the cell, but the doctrine of the "plasma
+membrane" leads people to deny that what they are
+measuring is a type of "injury potential." They want to
+say that they are measuring a disequilibrium between
+the inside of the cell and the outside. (A disequilib-
+rium has to be maintained by some charging mecha-
+nism such as a "pump.") They talk about the
+significance of the "membrane potential" as if the
+presence of the electrode hardly had an effect on the
+cell. And the surface (or sigma) potential always
+seems to be forgotten by these people, who think of
+the outside of the cell as "positive.")]
