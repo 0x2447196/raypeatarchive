@@ -264,3 +264,4 @@ Find the transcript and audio file links in the below table.
 | [yohaf-140729-heart-brain-cancer-and-hormones](./transcripts/yohaf-140729-heart-brain-cancer-and-hormones.vtt) | [MP3](https://raypeatinterviews.s3.us-east-005.backblazeb2.com/yohaf-140729-heart-brain-cancer-and-hormones.mp3) |
 | [yohaf-961112-thyroid-progesterone-and-diet](./transcripts/yohaf-961112-thyroid-progesterone-and-diet.vtt) | [MP3](https://raypeatinterviews.s3.us-east-005.backblazeb2.com/yohaf-961112-thyroid-progesterone-and-diet.mp3) |
 | [yohaf-970211-nutrition-and-the-endocrine-system](./transcripts/yohaf-970211-nutrition-and-the-endocrine-system.vtt) | [MP3](https://raypeatinterviews.s3.us-east-005.backblazeb2.com/yohaf-970211-nutrition-and-the-endocrine-system.mp3) |
+| [oxidation-pufa-roddy-peat](./transcripts/oxidation-pufa-roddy-peat.vtt) | [MP3](https://raypeatinterviews.s3.us-east-005.backblazeb2.com/oxidation-pufa-roddy-peat.mp3) |
