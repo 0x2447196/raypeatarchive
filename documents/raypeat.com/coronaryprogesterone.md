@@ -1,7 +1,7 @@
 A R T I C L E Progesterone, not estrogen, is the coronary protection factor of
 women. In the 1940s, around the time that Hans Selye was reporting that
 estrogen causes shock, and that progesterone protects against many stress-
-related problems, the anthropologist Ashley Montague published The Natural
+related problems, the anthropologist Ashley Montagu published The Natural
 Superiority of Women. Later, as I looked at the history of endocrine research,
 it seemed apparent that progesterone was responsible for many of the
 biological advantages of females, such as a longer average life-span, while
