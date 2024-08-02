@@ -656,22 +656,14 @@ Seeing consciousness as being both energetic and structural, we can describe the
 CHAPTER 6
 SEXUAL ENERGY AND THE CORTEX OF THE BRAIN
 
-The cortex is the mediator between inside and out.
-For an abstract person, like Descartes or Sartre or the average American scientist/salesman, all of reality is like a skin between the world and the self, leaving a vacuum for self and for world, except as there is arbitrary interaction in this abstract reality-skin. These are "cortical" people in the sense that their interacting self has very little to do with their body's highly determinate needs; they are the people that
-
-Pavlov called "intellectuals," signalling system," language.
-aren't quite at home in the world.
-
-dominated by the "second According to Pavlov, they
-
+The cortex is the mediator between inside and out. For an abstract person, like Descartes or Sartre or the average American scientist/salesman, all of reality is like a skin between the world and the self, leaving a vacuum for self and for world, except as there is arbitrary interaction in this abstract reality-skin. These are "cortical" people in the sense that their interacting self has very little to do with their body's highly determinate needs; they are the people that Pavlov called "intellectuals," dominated by the "second signalling system," language. According to Pavlov, they aren't quite at home in the world.
 The type of person who grasps the world clearly and strongly, that Pavlov called the "artistic" type, dominated by the "first signalling system," perception, isn't necessarily over-concrete, as Pavlov seemed to imply. The person who uses his body in an integrated way, investing his imagination in important aspects of the real world, can deal with all of the complex and general aspects of society and history, but does it with a sense of purpose, rather than with the Sartrean sense of arbitrary choice. (Sartre's description of the "nausea" associated with this perception gives us a clear sense of the absence of orientation, physically resembling sea-sickness, in the extremely detached form of perception.)
 The body and the "older" parts of the brain give precise shape to one's life, and the cortex helps to expand the possibilities that are open to that life.
 
 75
 
 Apparently, as Pavlov said, the cortex can inhibit the lower parts of the brain, so that the body's own life doesn't enter the life of thought and communication. But the cortex is activated by processes in lower or older parts of the brain, so that it functions with the greatest energy and intensity when it is openly collaborating with the instincts.
-For centuries in western countries there has been an awareness of two very different kinds of sexuality.
-Sometimes these have been identified as "sensual copulation" and "Courtly Love," or as irresponsible and dutiful sexual relations. This double attitude has occasionally been criticized, but it continues in the present culture to serve as the frame for much of the thinking and talking and political activity related to sex.
+For centuries in western countries there has been an awareness of two very different kinds of sexuality. Sometimes these have been identified as "sensual copulation" and "Courtly Love," or as irresponsible and dutiful sexual relations. This double attitude has occasionally been criticized, but it continues in the present culture to serve as the frame for much of the thinking and talking and political activity related to sex.
 William Blake was one of the first people who clearly described a kind of being which is whole, or at least trying to be whole in opposition to the culture of doubleness.
 
 "Thou hast a lap full of seed, And this is a fine country.
@@ -679,7 +671,7 @@ Why dost thou not cast thy seed And live in it merrily?
 
 Shall I cast it on the sand And turn it into fruitful land? For on no other ground Can I sow my seed Without tearing up Some stinking weed."
 
-"Sand apparently refers to a barren emotional state, which is an alternative to a distorted and complex growth of the emotions. Blake often referred to biblical ideas, but
+"Sand" apparently refers to a barren emotional state, which is an alternative to a distorted and complex growth of the emotions. Blake often referred to biblical ideas, but
 
 76
 
